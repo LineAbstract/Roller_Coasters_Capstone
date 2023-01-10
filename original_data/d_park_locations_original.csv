@@ -1,0 +1,92 @@
+Park_ID,Park,City,State,Country,Zip_Code
+1,"Cedar Point",Sandusky,Ohio,"United States",44870
+2,"Kings Island",Mason,Ohio,"United States",45040
+3,"Holiday World","Santa Claus",Indiana,"United States",47579
+4,"Six Flags Great Adventure",Jackson,"New Jersey","United States",08527
+5,"Knoebels Amusement Resort",Elysburg,Pennsylvania,"United States",17824
+6,"Busch Gardens Williamsburg",Williamsburg,Virginia,"United States",23185
+7,Kennywood,"West Mifflin",Pennsylvania,"United States",15122
+8,Liseberg,Gothenburg,"Västra Götalands",Sweden,"402 22"
+9,Carowinds,Charlotte,"North Carolina","United States",28273
+10,Dollywood,"Pigeon Forge",Tennessee,"United States",37863
+11,"Six Flags Great America",Gurnee,Illinois,"United States",60031
+12,"Busch Gardens Tampa",Tampa,Florida,"United States",33612
+13,"Six Flags New England",Agawam,Massachusetts,"United States",01001
+14,"Six Flags St. Louis",Eureka,Missouri,"United States",63025
+15,"Canada's Wonderland",Vaughan,Ontario,Canada,"L6A 1S6"
+16,"Six Flags Over Georgia",Austell,Georgia,"United States",30168
+17,Europa-Park,Rust,Baden-Württemberg,Germany,77977
+18,"Bay Beach Amusement Park","Green Bay",Wisconsin,"United States",54302
+19,"Timber Falls","Wisconsin Dells",Wisconsin,"United States",53965
+20,"Kings Dominion",Doswell,Virginia,"United States",23047
+21,"Indiana Beach",Monticello,Indiana,"United States",47960
+22,"Six Flags Magic Mountain",Valencia,California,"United States",91355
+23,"Silver Dollar City",Branson,Missouri,"United States",65616
+24,Hersheypark,Hershey,Pennsylvania,"United States",17033
+25,"Six Flags Over Texas",Arlington,Texas,"United States",76011
+26,"Lake Compounce",Bristol,Connecticut,"United States",06010
+27,Waldameer,Erie,Pennsylvania,"United States",16505
+28,"Holiday Park",Hassloch,Rhineland-Palatinate,Germany,67454
+29,Phantasialand,Brühl,"North Rhine-Westphalia",Germany,50321
+30,"Kentucky Kingdom",Louisville,Kentucky,"United States",40209
+31,"Michigan's Adventure",Muskegon,Michigan,"United States",49445
+32,"Alton Towers",Stoke-on-Trent,England,"United Kingdom","ST10 4DB"
+33,"California's Great America","Santa Clara",California,"United States",95054
+34,"Blackpool Pleasure Beach",Blackpool,England,"United Kingdom","FY4 1EZ"
+35,Kolmården,Kolmården,Östergötlands,Sweden,"618 92"
+36,"Santa Cruz Beach Boardwalk","Santa Cruz",California,"United States",95060
+37,"Six Flags Great Escape",Queensbury,"New York","United States",12804
+38,Toverland,Sevenum,Limburg,Netherlands,5975
+39,Efteling,Kaatsheuvel,"North Brabant",Netherlands,5171
+40,"Tayto Park",Ashbourne,Meath,Ireland,"A84 EA02"
+41,"Alabama Splash Adventure",Bessemer,Alabama,"United States",35022
+42,"Heide Park",Soltau,"Lower Saxony",Germany,29614
+43,"Quassy Amusement Park",Middlebury,Connecticut,"United States",06762
+44,"Kemah Boardwalk",Kemah,Texas,"United States",77565
+45,"SeaWorld Orlando",Orlando,Florida,"United States",32821
+46,"SeaWorld San Antonio","San Antonio",Texas,"United States",78251
+47,"Knott's Berry Farm","Buena Park",California,"United States",90620
+48,"Worlds of Fun","Kansas City",Missouri,"United States",64161
+49,"Gröna Lund",Stockholm,Stockholms,Sweden,"115 21"
+50,Lagoon,Farmington,Utah,"United States",84025
+51,"Six Flags Fiesta Texas","San Antonio",Texas,"United States",78257
+52,"La Ronde",Montreal,Quebec,Canada,H3C6A3
+53,"Disney's Animal Kingdom","Lake Buena Vista",Florida,"United States",32830
+54,"Mt. Olympus Theme Park","Wisconsin Dells",Wisconsin,"United States",53965
+55,"Fun Spot America",Orlando,Florida,"United States",32819
+56,"Six Flags Mexico","Mexico City","Distrito Federal",Mexico,14200
+57,"Beech Bend","Bowling Green",Kentucky,"United States",42101
+58,Everland,Seoul,Seoul,"South Korea",17023
+59,"Conneaut Lake Park","Conneaut Lake",Pennsylvania,"United States",16316
+60,Silverwood,Athol,Idaho,"United States",83801
+61,Playland,Rye,"New York","United States",10580
+62,"Dorney Park",Allentown,Pennsylvania,"United States",18104
+63,"Coney Island",Brooklyn,"New York","United States",11224
+64,"Freizeitpark Plohn",Reichenbach/Vogtland,Saxony,Germany,08485
+65,"Oakwood Leisure Park",Pembroke,Wales,"United Kingdom","SA67 8DE"
+66,Valleyfair,Shakopee,Minnesota,"United States",55379
+67,"PNE Playland",Vancouver,"British Columbia",Canada,"V5K 5J1"
+68,"Tivoli Gardens",Copenhagen,"Region Hovedstaden",Denmark,1630
+69,ZDT's,Seguin,Texas,"United States",78155
+70,PortAventura,Tarragona,Catalonia,Spain,43840
+71,"Knight Valley",Shenzhen,Guangdong,China,518085
+72,"La Feria","Mexico City","Distrito Federal",Mexico,72320
+73,"Weiner Prater",Vienna,Vienna,Austria,1020
+74,PowerPark,Härmä,"Western Finland",Finland,62300
+75,Boomers!,"Boca Raton",Florida,"United States",33431
+76,"Lakeside Park",Denver,Colorado,"United States",80212
+77,"Belmont Park","San Diego",California,"United States",92109
+78,"Parc Asterix",Plailly,Oise,France,60128
+79,"Universal's Islands of Adventure",Orlando,Florida,"United States",32819
+80,Energylandia,Zator,"Lesser Poland",Poland,32-640
+81,"Plopsaland De Panne","De Panne","West Flanders",Belgium,8660
+82,"Nagashima Spa Land",Kuwana,Mie,Japan,511-1135
+83,"Shanghai Disneyland",Pudong,Shanghai,China,201205
+84,"Thorpe Park",Chertsey,England,"United Kingdom","KT16 8PN"
+85,"Djurs Sommerland",Djursland,"Central Denmark",Denmark,8581
+86,"Disney California Adventure Park",Anaheim,California,"United States",92802
+87,Disneyland,Anaheim,California,"United States",92802
+88,"Six Flags Darien Lake",Corfu,"New York","United States",14036
+89,"Walabi Holland",Biddinghuizen,Flevoland,Netherlands,8256
+90,Galaxyland,Edmonton,Alberta,Canada,"T5T 4J2"
+91,Mirabilandia,Savio,Emilia-Romagna,Italy,48125

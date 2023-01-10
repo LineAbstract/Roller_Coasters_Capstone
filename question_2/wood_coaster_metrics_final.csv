@@ -1,0 +1,606 @@
+rank,year_ranked,material_type,coaster_name,park_name,supplier,year_built,status,speed,height,length,num_inversions,manufacturer,seating_type,city,state,country,zip_code
+1,2022,Wooden,Phoenix,Knoebels Amusement Resort,Dinn-PTC/Shmeck,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+2,2022,Wooden,Voyage,Holiday World,The Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+3,2022,Wooden,El Toro,Six Flags Great Adventure,Intamin,2006,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+4,2022,Wooden,Boulder Dash,Lake Compounce,Custom Coasters Int.,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+5,2022,Wooden,Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+6,2022,Wooden,Mystic Timbers,Kings Island,Great Coasters Int.,2017,status.operating,85.0,33.0,995.0,0.0,GCI,Sit Down,Mason,Ohio,United States,45040
+7,2022,Wooden,Ravine Flyer II,Waldameer,The Gravity Group,2008,,,,,,,,,,,
+8,2022,Wooden,GhostRider,Knott's Berry Farm,Custom Coasters/GCII,1998,status.operating,90.0,36.0,1382.0,0.0,GCI,Sit Down,Buena Park,California,United States,90620
+9,2022,Wooden,Outlaw Run,Silver Dollar City,Rocky Mountain Const.,2013,status.operating,110.0,50.0,,2.0,RMC,Sit Down,Branson,Missouri,United States,65616
+10,2022,Wooden,Thunderhead,Dollywood,Great Coasters Int.,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+11,2022,Wooden,Gold Striker,California's Great America,Great Coasters Int.,2013,status.operating,87.0,33.0,975.0,0.0,GCI,Sit Down,Santa Clara,California,United States,95054
+12,2022,Wooden,Jack Rabbit,Kennywood,Miller,1920,,,,,,,,,,,
+13,2022,Wooden,Wodan,Europa-Park,Great Coasters Int.,2012,status.operating,100.0,35.0,1050.0,0.0,GCI,Sit Down,Rust,Baden-Württemberg,Germany,77977
+14,2022,Wooden,Lightning Racer,Hersheypark,Great Coasters Int.,2000,status.operating,82.0,27.0,1036.0,0.0,GCI,Sit Down,Hershey,Pennsylvania,United States,17033
+15,2022,Wooden,Wildfire,Kolmården,Rocky Mountain Const.,2016,status.operating,113.0,57.0,1300.0,3.0,RMC,Sit Down,Kolmården,Östergötlands,Sweden,618 92
+16,2022,Wooden,Troy,Toverland,Great Coasters Int.,2007,status.operating,87.0,32.0,1077.0,0.0,GCI,Sit Down,Sevenum,Limburg,Netherlands,5975
+17,2022,Wooden,Cyclone,Coney Island,Baker/Keenan,1927,status.operating,97.0,26.0,869.0,0.0,na,Sit Down,Brooklyn,New York,United States,11224
+18,2022,Wooden,Balder,Liseberg,Intamin,2003,status.operating,90.0,36.0,1070.0,0.0,Intamin,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+19,2022,Wooden,Shivering Timbers,Michigan's Adventure,Custom Coasters Int.,1998,,,,,,,,,,,
+20,2022,Wooden,Thunderbolt,Kennywood,Vettel/Miller,1968,,,,,,,,,,,
+21,2022,Wooden,Boardwalk Bullet,Kemah Boardwalk,The Gravity Group/M&V,2007,status.operating,82.0,29.0,986.0,0.0,Gravity Group,Sit Down,Kemah,Texas,United States,77565
+22,2022,Wooden,Legend,Holiday World,Custom Coasters Int.,2000,status.operating,93.0,35.0,1232.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+23,2022,Wooden,Comet,Six Flags Great Escape,PTC/Schmeck,1994,status.operating,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Queensbury,New York,United States,12804
+24,2022,Wooden,Raven,Holiday World,Custom Coasters Int.,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+25,2022,Wooden,Colossos,Heide Park,Intamin,2001,status.operating,110.0,51.0,1500.0,0.0,Intamin,Sit Down,Soltau,Lower Saxony,Germany,29614
+26,2022,Wooden,Goliath,Six Flags Great America,Rocky Mountain Const.,2014,status.operating,115.0,55.0,950.0,2.0,RMC,Sit Down,Gurnee,Illinois,United States,60031
+27,2022,Wooden,Texas Stingray,SeaWorld San Antonio,Great Coasters Int.,2020,status.operating,55.0,30.48,1029.9,0.0,GCI,Sit Down,San Antonio,Texas,United States,78251
+28,2022,Wooden,Flying Turns,Knoebels Amusement Resort,Fetterman,2014,status.operating,39.0,15.0,396.0,0.0,Knoebels,Bobsleigh,Elysburg,Pennsylvania,United States,17824
+29,2022,Wooden,Playland Wooden Coaster,PNE Playland,Phare,1958,status.operating,75.0,20.0,865.0,0.0,na,Sit Down,Vancouver,British Columbia,Canada,V5K 5J1
+30,2022,Wooden,Prowler,Worlds of Fun,Great Coasters Int.,2009,status.operating,82.0,31.0,937.0,0.0,GCI,Sit Down,Kansas City,Missouri,United States,64161
+31,2022,Wooden,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,1924,,,,,,,,,,,
+31,2022,Wooden,Twister,Knoebels Amusement Resort,Fetterman,1999,status.operating,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+33,2022,Wooden,Cú Chulainn,Tayto Park,The Gravity Group,2015,status.operating,90.0,32.0,1094.0,0.0,Gravity Group,Sit Down,Ashbourne,Meath,Ireland,A84 EA02
+33,2022,Wooden,Racer,Kennywood,Miller,1927,status.operating,,22.0,686.0,0.0,John Miller,Sit Down,West Mifflin,Pennsylvania,United States,15122
+33,2022,Wooden,Renegade,Valleyfair,Great Coasters Int.,2007,status.operating,,32.0,950.0,0.0,GCI,Sit Down,Shakopee,Minnesota,United States,55379
+36,2022,Wooden,Rampage,Alabama Splash Adventure,Custom Coasters Int.,1998,status.operating,90.0,37.0,1067.0,0.0,CCI,Sit Down,Bessemer,Alabama,United States,35022
+37,2022,Wooden,White Lightning,Fun Spot America,Great Coasters Int.,2013,status.operating,75.0,23.0,600.0,0.0,GCI,Sit Down,Orlando,Florida,United States,32819
+38,2022,Wooden,Screamin' Eagle,Six Flags St. Louis,PTC/Allen,1976,status.operating,100.0,34.0,1180.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Eureka,Missouri,United States,63025
+39,2022,Wooden,T Express,Everland,Intamin,2008,status.operating,104.0,56.0,1641.0,0.0,Intamin,Sit Down,Seoul,Seoul,South Korea,17023
+40,2022,Wooden,Rutschebanan,Tivoli Gardens,L.A. Thompson,1914,status.operating,50.0,13.0,720.0,0.0,L.A. Thompson Scenic Railway,Sit Down,Copenhagen,Region Hovedstaden,Denmark,1630
+41,2022,Wooden,Blue Streak,Cedar Point,Hoover,1964,status.operating,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Sandusky,Ohio,United States,44870
+41,2022,Wooden,Zippin Pippin,Bay Beach Amusement Park,M&V,2011,status.operating,68.0,21.0,715.0,,Gravity Group,Sit Down,Green Bay,Wisconsin,United States,54302
+43,2022,Wooden,Boss,Six Flags St. Louis,Custom Coasters Int.,2000,status.operating,106.0,46.0,1540.0,0.0,CCI,Sit Down,Eureka,Missouri,United States,63025
+44,2022,Wooden,Cornball Express,Indiana Beach,Custom Coasters Int.,1999,status.operating,72.0,17.0,640.0,0.0,CCI,Sit Down,Monticello,Indiana,United States,47960
+45,2022,Wooden,InvadR,Busch Gardens Williamsburg,Great Coasters Int.,2017,,,,,,,,,,,
+46,2022,Wooden,Switchback,ZDT's,The Gravity Group,2015,status.operating,66.0,20.0,365.0,,Gravity Group,Sit Down,Seguin,Texas,United States,78155
+47,2022,Wooden,Hades 360,Mt. Olympus Theme Park,The Gravity Group,2005,,,,,,,,,,,
+48,2022,Wooden,Tremors,Silverwood,Custom Coasters Int.,1999,status.operating,96.0,31.0,915.0,0.0,CCI,Sit Down,Athol,Idaho,United States,83801
+49,2022,Wooden,American Thunder,Six Flags St. Louis,Great Coasters Int.,2008,status.operating,77.0,25.0,827.0,0.0,GCI,Sit Down,Eureka,Missouri,United States,63025
+50,2022,Wooden,Joris en de Draak,Efteling,Great Coasters Int.,2010,status.operating,75.0,22.0,788.0,0.0,GCI,Sit Down,Kaatsheuvel,North Brabant,Netherlands,5171
+1,2021,Wooden,Phoenix,Knoebels Amusement Resort,Dinn-PTC/Schmeck,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+2,2021,Wooden,Voyage,Holiday World,The Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+3,2021,Wooden,El Toro,Six Flags Great Adventure,Intamin,2006,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+4,2021,Wooden,Boulder Dash,Lake Compounce,Custom Coasters Int.,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+5,2021,Wooden,Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+6,2021,Wooden,Mystic Timbers,Kings Island,Great Coasters Int.,2017,status.operating,85.0,33.0,995.0,0.0,GCI,Sit Down,Mason,Ohio,United States,45040
+7,2021,Wooden,GhostRider,Knott's Berry Farm,Custom Coasters/GCII,1998,status.operating,90.0,36.0,1382.0,0.0,GCI,Sit Down,Buena Park,California,United States,90620
+8,2021,Wooden,Ravine Flyer II,Waldameer,The Gravity Group,2008,,,,,,,,,,,
+9,2021,Wooden,Outlaw Run,Silver Dollar City,Rocky Mountain,2013,status.operating,110.0,50.0,,2.0,RMC,Sit Down,Branson,Missouri,United States,65616
+10,2021,Wooden,Thunderhead,Dollywood,Great Coasters Int.,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+11,2021,Wooden,Lightning Racer,Hersheypark,Great Coasters Int.,2000,status.operating,82.0,27.0,1036.0,0.0,GCI,Sit Down,Hershey,Pennsylvania,United States,17033
+12,2021,Wooden,Gold Striker,California's Great America,Great Coasters Int.,2013,status.operating,87.0,33.0,975.0,0.0,GCI,Sit Down,Santa Clara,California,United States,95054
+13,2021,Wooden,Cyclone,Coney Island,Baker/Keenan,1927,status.operating,97.0,26.0,869.0,0.0,na,Sit Down,Brooklyn,New York,United States,11224
+13,2021,Wooden,Jack Rabbit,Kennywood,Miller,1920,,,,,,,,,,,
+15,2021,Wooden,Troy,Toverland,Great Coasters Int.,2007,status.operating,87.0,32.0,1077.0,0.0,GCI,Sit Down,Sevenum,Limburg,Netherlands,5975
+16,2021,Wooden,Balder,Liseberg,Intamin,2003,status.operating,90.0,36.0,1070.0,0.0,Intamin,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+17,2021,Wooden,Raven,Holiday World,Custom Coasters Int.,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+17,2021,Wooden,Wildfire,Kolmården,Rocky Mountain,2016,status.operating,113.0,57.0,1300.0,3.0,RMC,Sit Down,Kolmården,Östergötlands,Sweden,618 92
+19,2021,Wooden,Thunderbolt,Kennywood,Vettel/Miller,1968,,,,,,,,,,,
+20,2021,Wooden,Comet,Six Flags Great Escape,PTC/Schmeck,1994,status.operating,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Queensbury,New York,United States,12804
+21,2021,Wooden,Shivering Timbers,Michigan's Adventure,Custom Coasters Int.,1998,,,,,,,,,,,
+22,2021,Wooden,Boardwalk Bullet,Kemah Boardwalk,The Gravity Group/M&V,2007,status.operating,82.0,29.0,986.0,0.0,Gravity Group,Sit Down,Kemah,Texas,United States,77565
+23,2021,Wooden,Wodan,Europa-Park,Great Coasters Int.,2012,status.operating,100.0,35.0,1050.0,0.0,GCI,Sit Down,Rust,Baden-Württemberg,Germany,77977
+24,2021,Wooden,Legend,Holiday World,Custom Coasters Int.,2000,status.operating,93.0,35.0,1232.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+25,2021,Wooden,Colossos,Heide Park,Intamin,2001,status.operating,110.0,51.0,1500.0,0.0,Intamin,Sit Down,Soltau,Lower Saxony,Germany,29614
+26,2021,Wooden,Goliath,Six Flags Great America,Rocky Mountain,2014,status.operating,115.0,55.0,950.0,2.0,RMC,Sit Down,Gurnee,Illinois,United States,60031
+27,2021,Wooden,Flying Turns,Knoebels Amusement Resort,Fetterman,2014,status.operating,39.0,15.0,396.0,0.0,Knoebels,Bobsleigh,Elysburg,Pennsylvania,United States,17824
+28,2021,Wooden,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,1924,,,,,,,,,,,
+29,2021,Wooden,White Lightning,Fun Spot America,Great Coasters Int.,2013,status.operating,75.0,23.0,600.0,0.0,GCI,Sit Down,Orlando,Florida,United States,32819
+30,2021,Wooden,Renegade,Valleyfair,Great Coasters Int.,2007,status.operating,,32.0,950.0,0.0,GCI,Sit Down,Shakopee,Minnesota,United States,55379
+31,2021,Wooden,Prowler,Worlds of Fun,Great Coasters Int.,2009,status.operating,82.0,31.0,937.0,0.0,GCI,Sit Down,Kansas City,Missouri,United States,64161
+32,2021,Wooden,Twister,Knoebels Amusement Resort,Fetterman,1999,status.operating,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+33,2021,Wooden,Rampage,Alabama Splash Adventure,Custom Coasters Int.,1998,status.operating,90.0,37.0,1067.0,0.0,CCI,Sit Down,Bessemer,Alabama,United States,35022
+34,2021,Wooden,Playland Wooden Coaster,PNE Playland,Phare,1958,status.operating,75.0,20.0,865.0,0.0,na,Sit Down,Vancouver,British Columbia,Canada,V5K 5J1
+35,2021,Wooden,Blue Streak,Conneaut Lake Park,Vettel/NAD,1937,status.operating,,,883.0,0.0,na,na,Conneaut Lake,Pennsylvania,United States,16316
+36,2021,Wooden,Screamin' Eagle,Six Flags St. Louis,PTC/Allen,1976,status.operating,100.0,34.0,1180.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Eureka,Missouri,United States,63025
+37,2021,Wooden,Comet,Hersheypark,PTC/Schmeck,1946,,,,,,,,,,,
+38,2021,Wooden,Blue Streak,Cedar Point,Hoover,1964,status.operating,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Sandusky,Ohio,United States,44870
+39,2021,Wooden,Hades 360,Mt. Olympus Theme Park,The Gravity Group,2005,,,,,,,,,,,
+40,2021,Wooden,El Toro,Freizeitpark Plohn,Great Coasters Int.,2009,status.operating,75.0,28.0,750.0,0.0,GCI,Sit Down,Reichenbach/Vogtland,Saxony,Germany,08485
+41,2021,Wooden,Cornball Express,Indiana Beach,Custom Coasters Int.,1999,status.operating,72.0,17.0,640.0,0.0,CCI,Sit Down,Monticello,Indiana,United States,47960
+42,2021,Wooden,Boss,Six Flags St. Louis,Custom Coasters Int.,2000,status.operating,106.0,46.0,1540.0,0.0,CCI,Sit Down,Eureka,Missouri,United States,63025
+43,2021,Wooden,Cú Chulainn,Tayto Park,The Gravity Group,2015,status.operating,90.0,32.0,1094.0,0.0,Gravity Group,Sit Down,Ashbourne,Meath,Ireland,A84 EA02
+44,2021,Wooden,Rutschebanan,Tivoli Gardens,L.A. Thompson,1914,status.operating,50.0,13.0,720.0,0.0,L.A. Thompson Scenic Railway,Sit Down,Copenhagen,Region Hovedstaden,Denmark,1630
+45,2021,Wooden,Texas Stingray,SeaWorld San Antonio,Great Coasters Int.,2020,status.operating,55.0,30.48,1029.9,0.0,GCI,Sit Down,San Antonio,Texas,United States,78251
+45,2021,Wooden,Zippin Pippin,Bay Beach Amusement Park,M&V,2011,status.operating,68.0,21.0,715.0,,Gravity Group,Sit Down,Green Bay,Wisconsin,United States,54302
+47,2021,Wooden,American Thunder,Six Flags St. Louis,Great Coasters Int.,2008,status.operating,77.0,25.0,827.0,0.0,GCI,Sit Down,Eureka,Missouri,United States,63025
+48,2021,Wooden,InvadR,Busch Gardens Williamsburg,Great Coasters Int.,2017,,,,,,,,,,,
+49,2021,Wooden,Grand National,Blackpool Pleasure Beach,Paige,1935,,,,,,,,,,,
+50,2021,Wooden,T Express,Everland,Intamin,2008,status.operating,104.0,56.0,1641.0,0.0,Intamin,Sit Down,Seoul,Seoul,South Korea,17023
+1,2019,Wooden,Phoenix,Knoebels Amusement Resort,Dinn-PTC/Schmeck,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+2,2019,Wooden,Voyage,Holiday World,The Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+3,2019,Wooden,El Toro,Six Flags Great Adventure,Intamin,2006,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+4,2019,Wooden,Boulder Dash,Lake Compounce,Custom Coasters,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+5,2019,Wooden,Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+6,2019,Wooden,GhostRider,Knott's Berry Farm,Custom Coasters,1998,status.operating,90.0,36.0,1382.0,0.0,GCI,Sit Down,Buena Park,California,United States,90620
+7,2019,Wooden,Lightning Rod,Dollywood,Rocky Mountain,2016,status.operating,118.0,50.0,1158.0,0.0,RMC,Sit Down,Pigeon Forge,Tennessee,United States,37863
+8,2019,Wooden,Outlaw Run,Silver Dollar City,Rocky Mountain,2013,status.operating,110.0,50.0,,2.0,RMC,Sit Down,Branson,Missouri,United States,65616
+9,2019,Wooden,Ravine Flyer II,Waldameer,The Gravity Group,2008,,,,,,,,,,,
+10,2019,Wooden,Mystic Timbers,Kings Island,Great Coasters Int.,2017,status.operating,85.0,33.0,995.0,0.0,GCI,Sit Down,Mason,Ohio,United States,45040
+11,2019,Wooden,Thunderhead,Dollywood,Great Coasters Int.,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+12,2019,Wooden,Gold Striker,California's Great America,Great Coasters Int.,2013,status.operating,87.0,33.0,975.0,0.0,GCI,Sit Down,Santa Clara,California,United States,95054
+13,2019,Wooden,Balder,Liseberg,Intamin,2003,status.operating,90.0,36.0,1070.0,0.0,Intamin,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+14,2019,Wooden,Lightning Racer,Hersheypark,Great Coasters Int.,2000,status.operating,82.0,27.0,1036.0,0.0,GCI,Sit Down,Hershey,Pennsylvania,United States,17033
+15,2019,Wooden,Shivering Timbers,Michigan's Adventure,Custom Coasters,1998,,,,,,,,,,,
+16,2019,Wooden,Wildfire,Kolmården,Rocky Mountain,0,status.operating,113.0,57.0,1300.0,3.0,RMC,Sit Down,Kolmården,Östergötlands,Sweden,618 92
+17,2019,Wooden,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,0,,,,,,,,,,,
+18,2019,Wooden,Thunderbolt,Kennywood,Vettel/Miller,2016,,,,,,,,,,,
+19,2019,Wooden,Comet,Six Flags Great Escape,PTC/Schmeck,1994,status.operating,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Queensbury,New York,United States,12804
+20,2019,Wooden,Jack Rabbit,Kennywood,Miller,1920,,,,,,,,,,,
+21,2019,Wooden,Raven,Holiday World,Custom Coasters,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+22,2019,Wooden,White Lightning,Fun Spot America,Great Coasters Int.,2013,status.operating,75.0,23.0,600.0,0.0,GCI,Sit Down,Orlando,Florida,United States,32819
+23,2019,Wooden,Wodan,Europa-Park,Great Coasters Int.,2012,status.operating,100.0,35.0,1050.0,0.0,GCI,Sit Down,Rust,Baden-Württemberg,Germany,77977
+24,2019,Wooden,Renegade,Valleyfair,Great Coasters Int.,2007,status.operating,,32.0,950.0,0.0,GCI,Sit Down,Shakopee,Minnesota,United States,55379
+25,2019,Wooden,Troy,Toverland,Great Coasters Int.,2007,status.operating,87.0,32.0,1077.0,0.0,GCI,Sit Down,Sevenum,Limburg,Netherlands,5975
+26,2019,Wooden,Legend,Holiday World,Custom Coasters,2000,status.operating,93.0,35.0,1232.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+27,2019,Wooden,Goliath,Six Flags Great America,Rocky Mountain,2014,status.operating,115.0,55.0,950.0,2.0,RMC,Sit Down,Gurnee,Illinois,United States,60031
+28,2019,Wooden,Cyclone,Coney Island,Kennan/Baker,1927,status.operating,97.0,26.0,869.0,0.0,na,Sit Down,Brooklyn,New York,United States,11224
+29,2019,Wooden,Prowler,Worlds of Fun,Great Coasters Int.,2009,status.operating,82.0,31.0,937.0,0.0,GCI,Sit Down,Kansas City,Missouri,United States,64161
+30,2019,Wooden,Colossos,Heide Park,Intamin,2001,status.operating,110.0,51.0,1500.0,0.0,Intamin,Sit Down,Soltau,Lower Saxony,Germany,29614
+31,2019,Wooden,Boardwalk Bullet,Kemah Boardwalk,The Gravity Group,2007,status.operating,82.0,29.0,986.0,0.0,Gravity Group,Sit Down,Kemah,Texas,United States,77565
+32,2019,Wooden,Playland Wooden Coaster,PNE Playland,Phare,1959,status.operating,75.0,20.0,865.0,0.0,na,Sit Down,Vancouver,British Columbia,Canada,V5K 5J1
+33,2019,Wooden,Flying Turns,Knoebels Amusement Resort,Fetterman,2013,status.operating,39.0,15.0,396.0,0.0,Knoebels,Bobsleigh,Elysburg,Pennsylvania,United States,17824
+34,2019,Wooden,Rampage,Alabama Splash Adventure,Custom Coasters,1998,status.operating,90.0,37.0,1067.0,0.0,CCI,Sit Down,Bessemer,Alabama,United States,35022
+35,2019,Wooden,Cú Chulainn,Tayto Park,The Gravity Group,2015,status.operating,90.0,32.0,1094.0,0.0,Gravity Group,Sit Down,Ashbourne,Meath,Ireland,A84 EA02
+36,2019,Wooden,Boss,Six Flags St. Louis,Custom Coasters,2000,status.operating,106.0,46.0,1540.0,0.0,CCI,Sit Down,Eureka,Missouri,United States,63025
+37,2019,Wooden,T Express,Everland,Intamin,2008,status.operating,104.0,56.0,1641.0,0.0,Intamin,Sit Down,Seoul,Seoul,South Korea,17023
+38,2019,Wooden,Blue Streak,Cedar Point,PTC/Hoover,1964,status.operating,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Sandusky,Ohio,United States,44870
+39,2019,Wooden,American Thunder,Six Flags St. Louis,Great Coasters Int.,2008,status.operating,77.0,25.0,827.0,0.0,GCI,Sit Down,Eureka,Missouri,United States,63025
+40,2019,Wooden,Blue Streak,Conneaut Lake Park,Vettel /NAD,1938,status.operating,,,883.0,0.0,na,na,Conneaut Lake,Pennsylvania,United States,16316
+41,2019,Wooden,InvadR,Busch Gardens Williamsburg,Great Coasters Int.,2017,,,,,,,,,,,
+42,2019,Wooden,Screamin' Eagle,Six Flags St. Louis,PTC/Allen,1976,status.operating,100.0,34.0,1180.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Eureka,Missouri,United States,63025
+43,2019,Wooden,Hades 360,Mt. Olympus Theme Park,The Gravity Group,2005,,,,,,,,,,,
+44,2019,Wooden,Megafobia,Oakwood Leisure Park,Custom Coasters,1996,status.operating,77.0,26.0,901.0,0.0,CCI,Sit Down,Pembroke,Wales,United Kingdom,SA67 8DE
+45,2019,Wooden,Rutschebanan,Tivoli Gardens,L.A. Thompson S. R. Co.,1914,status.operating,50.0,13.0,720.0,0.0,L.A. Thompson Scenic Railway,Sit Down,Copenhagen,Region Hovedstaden,Denmark,1630
+45,2019,Wooden,Twister,Knoebels Amusement Resort,Fetterman,1999,status.operating,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+47,2019,Wooden,El Toro,Freizeitpark Plohn,Great Coasters Int.,2009,status.operating,75.0,28.0,750.0,0.0,GCI,Sit Down,Reichenbach/Vogtland,Saxony,Germany,08485
+48,2019,Wooden,Twister,Gröna Lund,The Gravity Group,2011,status.operating,61.0,15.0,480.0,0.0,Gravity Group,Sit Down,Stockholm,Stockholms,Sweden,115 21
+49,2019,Wooden,Switchback,ZDT's,The Gravity Group,2015,status.operating,66.0,20.0,365.0,,Gravity Group,Sit Down,Seguin,Texas,United States,78155
+50,2019,Wooden,Grizzly,Kings Dominion,Taft,1982,status.operating,,27.0,960.0,0.0,na,Sit Down,Doswell,Virginia,United States,23047
+1,2018,Wooden,Phoenix,Knoebels Amusement Resort,PTC/Schmeck-Dinn,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+2,2018,Wooden,El Toro,Six Flags Great Adventure,Intamin,2006,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+3,2018,Wooden,Voyage,Holiday World,Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+4,2018,Wooden,Boulder Dash,Lake Compounce,Custom Coasters,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+5,2018,Wooden,Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+6,2018,Wooden,Lightning Rod,Dollywood,Rocky Mountain,2016,status.operating,118.0,50.0,1158.0,0.0,RMC,Sit Down,Pigeon Forge,Tennessee,United States,37863
+7,2018,Wooden,Outlaw Run,Silver Dollar City,Rocky Mountain,2013,status.operating,110.0,50.0,,2.0,RMC,Sit Down,Branson,Missouri,United States,65616
+8,2018,Wooden,Ravine Flyer II,Waldameer,Gravity Group,2008,,,,,,,,,,,
+9,2018,Wooden,Gold Striker,California's Great America,Great Coasters Int.,2013,status.operating,87.0,33.0,975.0,0.0,GCI,Sit Down,Santa Clara,California,United States,95054
+10,2018,Wooden,Thunderhead,Dollywood,Great Coasters Int.,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+11,2018,Wooden,Mystic Timbers,Kings Island,Great Coasters Int.,2017,status.operating,85.0,33.0,995.0,0.0,GCI,Sit Down,Mason,Ohio,United States,45040
+12,2018,Wooden,Lightning Racer,Hersheypark,Great Coasters Int.,2000,status.operating,82.0,27.0,1036.0,0.0,GCI,Sit Down,Hershey,Pennsylvania,United States,17033
+13,2018,Wooden,GhostRider,Knott's Berry Farm,Custom Coasters,1998,status.operating,90.0,36.0,1382.0,0.0,GCI,Sit Down,Buena Park,California,United States,90620
+14,2018,Wooden,Balder,Liseberg,Intamin,2003,status.operating,90.0,36.0,1070.0,0.0,Intamin,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+15,2018,Wooden,Thunderbolt,Kennywood,Vettel/Miller,1968,,,,,,,,,,,
+16,2018,Wooden,Wodan,Europa-Park,Great Coasters Int.,2012,status.operating,100.0,35.0,1050.0,0.0,GCI,Sit Down,Rust,Baden-Württemberg,Germany,77977
+17,2018,Wooden,Wildfire,Kolmården,Rocky Mountain,2016,status.operating,113.0,57.0,1300.0,3.0,RMC,Sit Down,Kolmården,Östergötlands,Sweden,618 92
+18,2018,Wooden,Raven,Holiday World,Custom Coasters,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+19,2018,Wooden,Goliath,Six Flags Great America,Rocky Mountain,2014,status.operating,115.0,55.0,950.0,2.0,RMC,Sit Down,Gurnee,Illinois,United States,60031
+20,2018,Wooden,Jack Rabbit,Kennywood,Miller,1920,,,,,,,,,,,
+21,2018,Wooden,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,1924,,,,,,,,,,,
+21,2018,Wooden,Shivering Timbers,Michigan's Adventure,Custom Coasters,1998,,,,,,,,,,,
+23,2018,Wooden,Legend,Holiday World,Custom Coasters,2000,status.operating,93.0,35.0,1232.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+24,2018,Wooden,White Lightning,Fun Spot America,Great Coasters Int.,2013,status.operating,75.0,23.0,600.0,0.0,GCI,Sit Down,Orlando,Florida,United States,32819
+25,2018,Wooden,Troy,Toverland,Great Coasters Int.,2007,status.operating,87.0,32.0,1077.0,0.0,GCI,Sit Down,Sevenum,Limburg,Netherlands,5975
+26,2018,Wooden,Renegade,Valleyfair,Great Coasters Int.,2007,status.operating,,32.0,950.0,0.0,GCI,Sit Down,Shakopee,Minnesota,United States,55379
+27,2018,Wooden,Cú Chulainn,Tayto Park,Gravity Group,2015,status.operating,90.0,32.0,1094.0,0.0,Gravity Group,Sit Down,Ashbourne,Meath,Ireland,A84 EA02
+28,2018,Wooden,Colossos,Heide Park,Intamin,2001,status.operating,110.0,51.0,1500.0,0.0,Intamin,Sit Down,Soltau,Lower Saxony,Germany,29614
+29,2018,Wooden,Cyclone,Coney Island,Keenan/Baker,1927,status.operating,97.0,26.0,869.0,0.0,na,Sit Down,Brooklyn,New York,United States,11224
+30,2018,Wooden,Prowler,Worlds of Fun,Great Coasters Int.,2009,status.operating,82.0,31.0,937.0,0.0,GCI,Sit Down,Kansas City,Missouri,United States,64161
+30,2018,Wooden,Rampage,Alabama Splash Adventure,Custom Coasters,1998,status.operating,90.0,37.0,1067.0,0.0,CCI,Sit Down,Bessemer,Alabama,United States,35022
+32,2018,Wooden,Comet,Six Flags Great Escape,PTC/Schmeck,1994,status.operating,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Queensbury,New York,United States,12804
+33,2018,Wooden,Boardwalk Bullet,Kemah Boardwalk,M&V/Gravity Group,2007,status.operating,82.0,29.0,986.0,0.0,Gravity Group,Sit Down,Kemah,Texas,United States,77565
+34,2018,Wooden,Flying Turns,Knoebels Amusement Resort,Knoebels,2013,status.operating,39.0,15.0,396.0,0.0,Knoebels,Bobsleigh,Elysburg,Pennsylvania,United States,17824
+35,2018,Wooden,Rutschebanan,Tivoli Gardens,L.A. Thompson,1914,status.operating,50.0,13.0,720.0,0.0,L.A. Thompson Scenic Railway,Sit Down,Copenhagen,Region Hovedstaden,Denmark,1630
+36,2018,Wooden,Switchback,ZDT's,Gravity Group,2015,status.operating,66.0,20.0,365.0,,Gravity Group,Sit Down,Seguin,Texas,United States,78155
+37,2018,Wooden,Blue Streak,Conneaut Lake Park,Vettel/NAD,1938,status.operating,,,883.0,0.0,na,na,Conneaut Lake,Pennsylvania,United States,16316
+38,2018,Wooden,American Thunder,Six Flags St. Louis,Great Coasters Int.,2008,status.operating,77.0,25.0,827.0,0.0,GCI,Sit Down,Eureka,Missouri,United States,63025
+38,2018,Wooden,Screamin' Eagle,Six Flags St. Louis,Allen/PTC,1976,status.operating,100.0,34.0,1180.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Eureka,Missouri,United States,63025
+40,2018,Wooden,Grizzly,Kings Dominion,Summers-KECO,1982,status.operating,,27.0,960.0,0.0,na,Sit Down,Doswell,Virginia,United States,23047
+41,2018,Wooden,Blue Streak,Cedar Point,PTC/Hoover,1964,status.operating,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Sandusky,Ohio,United States,44870
+42,2018,Wooden,Playland Wooden Coaster,PNE Playland,Phare,1959,status.operating,75.0,20.0,865.0,0.0,na,Sit Down,Vancouver,British Columbia,Canada,V5K 5J1
+43,2018,Wooden,Boss,Six Flags St. Louis,Custom Coasters,2000,status.operating,106.0,46.0,1540.0,0.0,CCI,Sit Down,Eureka,Missouri,United States,63025
+44,2018,Wooden,Wild One,Six Flags Great America,PTC/Miller/Dinn,1986,,,,,,,,,,,
+45,2018,Wooden,T Express,Everland,Intamin,2008,status.operating,104.0,56.0,1641.0,0.0,Intamin,Sit Down,Seoul,Seoul,South Korea,17023
+46,2018,Wooden,Megafobia,Oakwood Leisure Park,Custom Coasters,1996,status.operating,77.0,26.0,901.0,0.0,CCI,Sit Down,Pembroke,Wales,United Kingdom,SA67 8DE
+47,2018,Wooden,Hades 360,Mt. Olympus Theme Park,Gravity Group,2005,,,,,,,,,,,
+48,2018,Wooden,Mine Blower,Fun Spot America,Gravity Group,2017,status.operating,78.0,25.0,698.0,1.0,Gravity Group,Sit Down,Orlando,Florida,United States,32819
+49,2018,Wooden,Wooden Warrior,Quassy Amusement Park,Gravity Group,2011,status.operating,56.0,11.0,378.0,0.0,Gravity Group,Sit Down,Middlebury,Connecticut,United States,06762
+50,2018,Wooden,Twister,Knoebels Amusement Resort,Fetterman/Knoebels,1999,status.operating,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+1,2017,Wooden,El Toro,Six Flags Great Adventure,Intamin,2009,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+2,2017,Wooden,Phoenix,Knoebels Amusement Resort,Dinn-PTC/Schmeck,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+3,2017,Wooden,Boulder Dash,Lake Compounce,Custom Coasters,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+4,2017,Wooden,Voyage,Holiday World,Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+5,2017,Wooden,Lightning Rod,Dollywood,Rocky Mountain,2016,status.operating,118.0,50.0,1158.0,0.0,RMC,Sit Down,Pigeon Forge,Tennessee,United States,37863
+6,2017,Wooden,Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+7,2017,Wooden,Ravine Flyer II,Waldameer,Gravity Group,2008,,,,,,,,,,,
+8,2017,Wooden,Thunderhead,Dollywood,Great Coasters Int.,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+9,2017,Wooden,Outlaw Run,Silver Dollar City,Rocky Mountain,2013,status.operating,110.0,50.0,,2.0,RMC,Sit Down,Branson,Missouri,United States,65616
+10,2017,Wooden,Gold Striker,California's Great America,Great Coasters Int.,2013,status.operating,87.0,33.0,975.0,0.0,GCI,Sit Down,Santa Clara,California,United States,95054
+11,2017,Wooden,Mystic Timbers,Kings Island,Great Coasters Int.,2017,status.operating,85.0,33.0,995.0,0.0,GCI,Sit Down,Mason,Ohio,United States,45040
+12,2017,Wooden,Lightning Racer,Hersheypark,Great Coasters Int.,2000,status.operating,82.0,27.0,1036.0,0.0,GCI,Sit Down,Hershey,Pennsylvania,United States,17033
+13,2017,Wooden,Goliath,Six Flags Great America,Rocky Mountain,2014,status.operating,115.0,55.0,950.0,2.0,RMC,Sit Down,Gurnee,Illinois,United States,60031
+14,2017,Wooden,Boardwalk Bullet,Kemah Boardwalk,M&V/Gravity Group,2007,status.operating,82.0,29.0,986.0,0.0,Gravity Group,Sit Down,Kemah,Texas,United States,77565
+15,2017,Wooden,Wodan,Europa-Park,Great Coasters Int.,2012,status.operating,100.0,35.0,1050.0,0.0,GCI,Sit Down,Rust,Baden-Württemberg,Germany,77977
+16,2017,Wooden,Balder,Liseberg,Intamin,2003,status.operating,90.0,36.0,1070.0,0.0,Intamin,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+17,2017,Wooden,Thunderbolt,Kennywood,Vettel/Miller,1968,,,,,,,,,,,
+18,2017,Wooden,GhostRider,Knott's Berry Farm,Custom Coasters,1998,status.operating,90.0,36.0,1382.0,0.0,GCI,Sit Down,Buena Park,California,United States,90620
+18,2017,Wooden,Troy,Toverland,Great Coasters Int.,2007,status.operating,87.0,32.0,1077.0,0.0,GCI,Sit Down,Sevenum,Limburg,Netherlands,5975
+18,2017,Wooden,White Lightning,Fun Spot America,Great Coasters Int.,2013,status.operating,75.0,23.0,600.0,0.0,GCI,Sit Down,Orlando,Florida,United States,32819
+21,2017,Wooden,Rampage,Alabama Splash Adventure,Custom Coasters,1998,status.operating,90.0,37.0,1067.0,0.0,CCI,Sit Down,Bessemer,Alabama,United States,35022
+22,2017,Wooden,Cyclone,Coney Island,Keenan/Baker,1927,status.operating,97.0,26.0,869.0,0.0,na,Sit Down,Brooklyn,New York,United States,11224
+23,2017,Wooden,Raven,Holiday World,Custom Coasters,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+24,2017,Wooden,Legend,Holiday World,Custom Coasters,2000,status.operating,93.0,35.0,1232.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+25,2017,Wooden,Shivering Timbers,Michigan's Adventure,Custom Coasters,1998,,,,,,,,,,,
+26,2017,Wooden,Jack Rabbit,Kennywood,PTC/Miller,1920,,,,,,,,,,,
+27,2017,Wooden,Prowler,Worlds of Fun,Great Coasters Int.,2009,status.operating,82.0,31.0,937.0,0.0,GCI,Sit Down,Kansas City,Missouri,United States,64161
+28,2017,Wooden,Boss,Six Flags St. Louis,Custom Coasters,2000,status.operating,106.0,46.0,1540.0,0.0,CCI,Sit Down,Eureka,Missouri,United States,63025
+29,2017,Wooden,Wildfire,Kolmården,Rocky Mountain,2016,status.operating,113.0,57.0,1300.0,3.0,RMC,Sit Down,Kolmården,Östergötlands,Sweden,618 92
+30,2017,Wooden,Cú Chulainn,Tayto Park,Gravity Group,2015,status.operating,90.0,32.0,1094.0,0.0,Gravity Group,Sit Down,Ashbourne,Meath,Ireland,A84 EA02
+31,2017,Wooden,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,1924,,,,,,,,,,,
+32,2017,Wooden,Comet,Six Flags Great Escape,PTC/Schmeck,1994,status.operating,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Queensbury,New York,United States,12804
+33,2017,Wooden,Switchback,ZDT's,Gravity Group,2015,status.operating,66.0,20.0,365.0,,Gravity Group,Sit Down,Seguin,Texas,United States,78155
+34,2017,Wooden,Colossos,Heide Park,Intamin,2001,status.operating,110.0,51.0,1500.0,0.0,Intamin,Sit Down,Soltau,Lower Saxony,Germany,29614
+35,2017,Wooden,Twister,Knoebels Amusement Resort,Fetterman/Knoebels,1999,status.operating,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+36,2017,Wooden,Wild Mouse,Blackpool Pleasure Beach,"Wright, Blackpool",1958,status.closed.definitely,,,390.0,0.0,na,Sit Down,Blackpool,England,United Kingdom,FY4 1EZ
+37,2017,Wooden,Blue Streak,Conneaut Lake Park,Vettel,1964,status.operating,,,883.0,0.0,na,na,Conneaut Lake,Pennsylvania,United States,16316
+38,2017,Wooden,Hades 360,Mt. Olympus Theme Park,Gravity Group,1995,,,,,,,,,,,
+39,2017,Wooden,Playland Wooden Coaster,PNE Playland,Phare,1958,status.operating,75.0,20.0,865.0,0.0,na,Sit Down,Vancouver,British Columbia,Canada,V5K 5J1
+40,2017,Wooden,American Thunder,Six Flags St. Louis,Great Coasters Int.,2009,status.operating,77.0,25.0,827.0,0.0,GCI,Sit Down,Eureka,Missouri,United States,63025
+41,2017,Wooden,El Toro,Freizeitpark Plohn,Great Coasters Int.,2006,status.operating,75.0,28.0,750.0,0.0,GCI,Sit Down,Reichenbach/Vogtland,Saxony,Germany,08485
+42,2017,Wooden,Blue Streak,Cedar Point,PTC/Hoover,1964,status.operating,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Sandusky,Ohio,United States,44870
+43,2017,Wooden,Screamin' Eagle,Six Flags St. Louis,PTC/Allen,1976,status.operating,100.0,34.0,1180.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Eureka,Missouri,United States,63025
+44,2017,Wooden,Flying Turns,Knoebels Amusement Resort,Knoebels,2013,status.operating,39.0,15.0,396.0,0.0,Knoebels,Bobsleigh,Elysburg,Pennsylvania,United States,17824
+45,2017,Wooden,Wooden Warrior,Quassy Amusement Park,Gravity Group,2011,status.operating,56.0,11.0,378.0,0.0,Gravity Group,Sit Down,Middlebury,Connecticut,United States,06762
+46,2017,Wooden,Grizzly,Kings Dominion,Summers-KECO,1982,status.operating,,27.0,960.0,0.0,na,Sit Down,Doswell,Virginia,United States,23047
+47,2017,Wooden,Tremors,Silverwood,Custom Coasters,1999,status.operating,96.0,31.0,915.0,0.0,CCI,Sit Down,Athol,Idaho,United States,83801
+48,2017,Wooden,Grand National,Blackpool Pleasure Beach,Paige,1935,,,,,,,,,,,
+49,2017,Wooden,Kentucky Rumbler,Beech Bend,Great Coasters Int.,2006,status.operating,77.0,27.0,862.0,0.0,GCI,Sit Down,Bowling Green,Kentucky,United States,42101
+50,2017,Wooden,Twister,Gröna Lund,Gravity Group,2011,status.operating,61.0,15.0,480.0,0.0,Gravity Group,Sit Down,Stockholm,Stockholms,Sweden,115 21
+1,2016,Wooden,Boulder Dash,Lake Compounce,Custom Coasters,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+1,2016,Wooden,Boulder Dash,Lake Compounce,Custom Coasters,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+2,2016,Wooden,Phoenix,Knoebels Amusement Resort,Dinn-PTC/Schmeck,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+3,2016,Wooden,El Toro,Six Flags Great Adventure,Intamin,2006,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+4,2016,Wooden,The Voyage,Holiday World,Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+5,2016,Wooden,Ravine Flyer II,Waldameer,Gravity Group,2008,,,,,,,,,,,
+6,2016,Wooden,The Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+7,2016,Wooden,Thunderhead,Dollywood,Great Coasters Int.,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+8,2016,Wooden,Outlaw Run,Silver Dollar City,Rocky Mountain,2013,status.operating,110.0,50.0,,2.0,RMC,Sit Down,Branson,Missouri,United States,65616
+9,2016,Wooden,Gold Striker,California's Great America,Great Coasters Int.,2013,status.operating,87.0,33.0,975.0,0.0,GCI,Sit Down,Santa Clara,California,United States,95054
+10,2016,Wooden,Lightning Racer,Hersheypark,Great Coasters Int.,2000,status.operating,82.0,27.0,1036.0,0.0,GCI,Sit Down,Hershey,Pennsylvania,United States,17033
+11,2016,Wooden,Lightning Rod,Dollywood,Rocky Mountain,2016,status.operating,118.0,50.0,1158.0,0.0,RMC,Sit Down,Pigeon Forge,Tennessee,United States,37863
+12,2016,Wooden,Balder,Liseberg,Intamin,2003,status.operating,90.0,36.0,1070.0,0.0,Intamin,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+13,2016,Wooden,Goliath,Six Flags Great America,Rocky Mountain,2014,status.operating,115.0,55.0,950.0,2.0,RMC,Sit Down,Gurnee,Illinois,United States,60031
+14,2016,Wooden,Prowler,Worlds of Fun,Great Coasters Int.,2009,status.operating,82.0,31.0,937.0,0.0,GCI,Sit Down,Kansas City,Missouri,United States,64161
+15,2016,Wooden,The Raven,Holiday World,Custom Coasters,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+16,2016,Wooden,The Legend,Holiday World,Custom Coasters,2000,status.operating,93.0,35.0,1232.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+17,2016,Wooden,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,1924,,,,,,,,,,,
+18,2016,Wooden,Colossos,Heide Park,Intamin,2001,status.operating,110.0,51.0,1500.0,0.0,Intamin,Sit Down,Soltau,Lower Saxony,Germany,29614
+19,2016,Wooden,Shivering Timbers,Michigan's Adventure,Custom Coasters,1998,,,,,,,,,,,
+20,2016,Wooden,Jack Rabbit,Kennywood,PTC/Miller,1920,,,,,,,,,,,
+21,2016,Wooden,Thunderbolt,Kennywood,Vettel/Miller,1968,,,,,,,,,,,
+22,2016,Wooden,Cú Chulainn,Tayto Park,Gravity Group,2015,status.operating,90.0,32.0,1094.0,0.0,Gravity Group,Sit Down,Ashbourne,Meath,Ireland,A84 EA02
+23,2016,Wooden,Wodan,Europa-Park,Great Coasters Int.,2012,status.operating,100.0,35.0,1050.0,0.0,GCI,Sit Down,Rust,Baden-Württemberg,Germany,77977
+24,2016,Wooden,Troy,Toverland,Great Coasters Int.,2007,status.operating,87.0,32.0,1077.0,0.0,GCI,Sit Down,Sevenum,Limburg,Netherlands,5975
+25,2016,Wooden,Comet,Six Flags Great Escape,PTC/Schmeck,1994,status.operating,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Queensbury,New York,United States,12804
+25,2016,Wooden,El Toro,Freizeitpark Plohn,Great Coasters Int.,2009,status.operating,75.0,28.0,750.0,0.0,GCI,Sit Down,Reichenbach/Vogtland,Saxony,Germany,08485
+27,2016,Wooden,Cyclone,Coney Island,Keenan/Baker,1927,status.operating,97.0,26.0,869.0,0.0,na,Sit Down,Brooklyn,New York,United States,11224
+28,2016,Wooden,Wildfire,Kolmården,Rocky Mountain,2016,status.operating,113.0,57.0,1300.0,3.0,RMC,Sit Down,Kolmården,Östergötlands,Sweden,618 92
+29,2016,Wooden,GhostRider,Knott's Berry Farm,Custom Coasters,1998,status.operating,90.0,36.0,1382.0,0.0,GCI,Sit Down,Buena Park,California,United States,90620
+30,2016,Wooden,Playland Wooden Coaster,PNE Playland,Phare,1958,status.operating,75.0,20.0,865.0,0.0,na,Sit Down,Vancouver,British Columbia,Canada,V5K 5J1
+31,2016,Wooden,The Boss,Six Flags St. Louis,Custom Coasters,2000,status.operating,106.0,46.0,1540.0,0.0,CCI,Sit Down,Eureka,Missouri,United States,63025
+32,2016,Wooden,Wild Mouse,Blackpool Pleasure Beach,"Wright, Blackpool",1958,status.closed.definitely,,,390.0,0.0,na,Sit Down,Blackpool,England,United Kingdom,FY4 1EZ
+33,2016,Wooden,American Thunder,Six Flags St. Louis,Great Coasters Int.,2009,status.operating,77.0,25.0,827.0,0.0,GCI,Sit Down,Eureka,Missouri,United States,63025
+34,2016,Wooden,White Lightning,Fun Spot America,Great Coasters Int.,2013,status.operating,75.0,23.0,600.0,0.0,GCI,Sit Down,Orlando,Florida,United States,32819
+35,2016,Wooden,Megafobia,Oakwood Leisure Park,Custom Coasters,1996,status.operating,77.0,26.0,901.0,0.0,CCI,Sit Down,Pembroke,Wales,United Kingdom,SA67 8DE
+36,2016,Wooden,Hades 360,Mt. Olympus Theme Park,Gravity Group,1995,,,,,,,,,,,
+37,2016,Wooden,Rampage,Alabama Splash Adventure,Custom Coasters,1998,status.operating,90.0,37.0,1067.0,0.0,CCI,Sit Down,Bessemer,Alabama,United States,35022
+38,2016,Wooden,Blue Streak,Conneaut Lake Park,Vettel,1938,status.operating,,,883.0,0.0,na,na,Conneaut Lake,Pennsylvania,United States,16316
+39,2016,Wooden,Screamin' Eagle,Six Flags St. Louis,PTC/Allen,1976,status.operating,100.0,34.0,1180.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Eureka,Missouri,United States,63025
+40,2016,Wooden,Tremors,Silverwood,Custom Coasters,1999,status.operating,96.0,31.0,915.0,0.0,CCI,Sit Down,Athol,Idaho,United States,83801
+41,2016,Wooden,Flying Turns,Knoebels Amusement Resort,Knoebels,2013,status.operating,39.0,15.0,396.0,0.0,Knoebels,Bobsleigh,Elysburg,Pennsylvania,United States,17824
+42,2016,Wooden,Blue Streak,Cedar Point,PTC/Hoover,1964,status.operating,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Sandusky,Ohio,United States,44870
+43,2016,Wooden,Racer,Kennywood,PTC/Miller,1927,status.operating,,22.0,686.0,0.0,John Miller,Sit Down,West Mifflin,Pennsylvania,United States,15122
+44,2016,Wooden,T Express,Everland,Intamin,2008,status.operating,104.0,56.0,1641.0,0.0,Intamin,Sit Down,Seoul,Seoul,South Korea,17023
+45,2016,Wooden,Twister,Gröna Lund,Gravity Group,2011,status.operating,61.0,15.0,480.0,0.0,Gravity Group,Sit Down,Stockholm,Stockholms,Sweden,115 21
+45,2016,Wooden,Twister,Gröna Lund,Gravity Group,2011,status.operating,61.0,15.0,480.0,0.0,Gravity Group,Sit Down,Stockholm,Stockholms,Sweden,115 21
+46,2016,Wooden,Wooden Warrior,Quassy Amusement Park,Gravity Group,2011,status.operating,56.0,11.0,378.0,0.0,Gravity Group,Sit Down,Middlebury,Connecticut,United States,06762
+47,2016,Wooden,Twister,Knoebels Amusement Resort,Fetterman/Knoebels,1999,status.operating,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+48,2016,Wooden,Kentucky Rumbler,Beech Bend,Great Coasters Int.,2006,status.operating,77.0,27.0,862.0,0.0,GCI,Sit Down,Bowling Green,Kentucky,United States,42101
+49,2016,Wooden,Wood Coaster,Knight Valley,Great Coasters Int.,2011,status.operating,99.0,45.0,1468.0,0.0,GCI,Sit Down,Shenzhen,Guangdong,China,518085
+50,2016,Wooden,Boardwalk Bullet,Kemah Boardwalk,M&V/The Gravity Group,2007,status.operating,82.0,29.0,986.0,0.0,Gravity Group,Sit Down,Kemah,Texas,United States,77565
+1,2015,Wooden,Boulder Dash,Lake Compounce,Custom Coasters,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+2,2015,Wooden,El Toro,Six Flags Great Adventure,Intamin,2006,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+3,2015,Wooden,Phoenix,Knoebels Amusement Resort,Dinn – PTC/Schmeck,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+4,2015,Wooden,The Voyage,Holiday World,Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+5,2015,Wooden,Thunderhead,Dollywood,Great Coasters Int.,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+6,2015,Wooden,The Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+7,2015,Wooden,Ravine Flyer II,Waldameer,Gravity Group,2008,,,,,,,,,,,
+8,2015,Wooden,Outlaw Run,Silver Dollar City,Rocky Mountain,2013,status.operating,110.0,50.0,,2.0,RMC,Sit Down,Branson,Missouri,United States,65616
+9,2015,Wooden,Gold Striker,California's Great America,Great Coasters Int.,2013,status.operating,87.0,33.0,975.0,0.0,GCI,Sit Down,Santa Clara,California,United States,95054
+10,2015,Wooden,Lightning Racer,Hersheypark,Great Coasters Int.,2000,status.operating,82.0,27.0,1036.0,0.0,GCI,Sit Down,Hershey,Pennsylvania,United States,17033
+11,2015,Wooden,Balder,Liseberg,Intamin,2003,status.operating,90.0,36.0,1070.0,0.0,Intamin,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+12,2015,Wooden,The Raven,Holiday World,Custom Coasters,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+13,2015,Wooden,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,1924,,,,,,,,,,,
+14,2015,Wooden,Goliath,Six Flags Great America,Rocky Mountain,2014,status.operating,115.0,55.0,950.0,2.0,RMC,Sit Down,Gurnee,Illinois,United States,60031
+15,2015,Wooden,Thunderbolt,Kennywood,Vettel/Miller,1927,,,,,,,,,,,
+16,2015,Wooden,Cyclone,Coney Island,Keenan/Baker,1927,status.operating,97.0,26.0,869.0,0.0,na,Sit Down,Brooklyn,New York,United States,11224
+17,2015,Wooden,Prowler,Worlds of Fun,Great Coasters Int.,2009,status.operating,82.0,31.0,937.0,0.0,GCI,Sit Down,Kansas City,Missouri,United States,64161
+18,2015,Wooden,Troy,Toverland,Great Coasters Int.,2007,status.operating,87.0,32.0,1077.0,0.0,GCI,Sit Down,Sevenum,Limburg,Netherlands,5975
+19,2015,Wooden,Cú Chulainn,Tayto Park,Gravity Group,2015,status.operating,90.0,32.0,1094.0,0.0,Gravity Group,Sit Down,Ashbourne,Meath,Ireland,A84 EA02
+19,2015,Wooden,Cú Chulainn,Tayto Park,Gravity Group,2015,status.operating,90.0,32.0,1094.0,0.0,Gravity Group,Sit Down,Ashbourne,Meath,Ireland,A84 EA02
+20,2015,Wooden,Shivering Timbers,Michigan's Adventure,Custom Coasters,1998,,,,,,,,,,,
+21,2015,Wooden,Flying Turns,Knoebels Amusement Resort,Knoebels,2013,status.operating,39.0,15.0,396.0,0.0,Knoebels,Bobsleigh,Elysburg,Pennsylvania,United States,17824
+21,2015,Wooden,Jack Rabbit,Kennywood,PTC/Miller,1920,,,,,,,,,,,
+23,2015,Wooden,Colossos,Heide Park,Intamin,2001,status.operating,110.0,51.0,1500.0,0.0,Intamin,Sit Down,Soltau,Lower Saxony,Germany,29614
+24,2015,Wooden,Comet,Six Flags Great Escape,PTC/Schmeck,1994,status.operating,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Queensbury,New York,United States,12804
+25,2015,Wooden,The Legend,Holiday World,Custom Coasters,2000,status.operating,93.0,35.0,1232.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+26,2015,Wooden,Wild Mouse,Blackpool Pleasure Beach,"Wright, Blackpool",1958,status.closed.definitely,,,390.0,0.0,na,Sit Down,Blackpool,England,United Kingdom,FY4 1EZ
+27,2015,Wooden,Megafobia,Oakwood Leisure Park,Custom Coasters,1996,status.operating,77.0,26.0,901.0,0.0,CCI,Sit Down,Pembroke,Wales,United Kingdom,SA67 8DE
+28,2015,Wooden,Rampage,Alabama Splash Adventure,Custom Coasters,1998,status.operating,90.0,37.0,1067.0,0.0,CCI,Sit Down,Bessemer,Alabama,United States,35022
+29,2015,Wooden,Wodan Timbur Coaster,Europa-Park,Great Coasters Int.,2012,status.operating,100.0,35.0,1050.0,0.0,GCI,Sit Down,Rust,Baden-Württemberg,Germany,77977
+30,2015,Wooden,Playland Wooden Coaster,PNE Playland,Phare,1959,status.operating,75.0,20.0,865.0,0.0,na,Sit Down,Vancouver,British Columbia,Canada,V5K 5J1
+31,2015,Wooden,Hades 360,Mt. Olympus Theme Park,Gravity Group,2005,,,,,,,,,,,
+32,2015,Wooden,Tremors,Silverwood,Custom Coasters,1999,status.operating,96.0,31.0,915.0,0.0,CCI,Sit Down,Athol,Idaho,United States,83801
+33,2015,Wooden,Kentucky Rumbler,Beech Bend,Great Coasters Int.,2006,status.operating,77.0,27.0,862.0,0.0,GCI,Sit Down,Bowling Green,Kentucky,United States,42101
+34,2015,Wooden,Grand National,Blackpool Pleasure Beach,Paige,1935,,,,,,,,,,,
+35,2015,Wooden,Blue Streak,Cedar Point,PTC/Hoover,1964,status.operating,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Sandusky,Ohio,United States,44870
+35,2015,Wooden,Blue Streak,Conneaut Lake Park,Vettel,1938,status.operating,,,883.0,0.0,na,na,Conneaut Lake,Pennsylvania,United States,16316
+37,2015,Wooden,El Toro,Freizeitpark Plohn,Great Coasters Int.,2009,status.operating,75.0,28.0,750.0,0.0,GCI,Sit Down,Reichenbach/Vogtland,Saxony,Germany,08485
+38,2015,Wooden,Wooden Warrior,Quassy Amusement Park,Gravity Group,2011,status.operating,56.0,11.0,378.0,0.0,Gravity Group,Sit Down,Middlebury,Connecticut,United States,06762
+39,2015,Wooden,American Thunder,Six Flags St. Louis,Great Coasters Int.,2009,status.operating,77.0,25.0,827.0,0.0,GCI,Sit Down,Eureka,Missouri,United States,63025
+40,2015,Wooden,White Lightning,Fun Spot America,Great Coasters Int.,2013,status.operating,75.0,23.0,600.0,0.0,GCI,Sit Down,Orlando,Florida,United States,32819
+41,2015,Wooden,Twister,Knoebels Amusement Resort,Fetterman/Knoebels,1999,status.operating,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+42,2015,Wooden,The Boss,Six Flags St. Louis,Custom Coasters,2000,status.operating,106.0,46.0,1540.0,0.0,CCI,Sit Down,Eureka,Missouri,United States,63025
+42,2015,Wooden,The Boss,Six Flags St. Louis,Custom Coasters,2000,status.operating,106.0,46.0,1540.0,0.0,CCI,Sit Down,Eureka,Missouri,United States,63025
+43,2015,Wooden,Boardwalk Bullet,Kemah Boardwalk,M&V/Gravity Group,2007,status.operating,82.0,29.0,986.0,0.0,Gravity Group,Sit Down,Kemah,Texas,United States,77565
+44,2015,Wooden,Twister,Gröna Lund,Gravity Group,2011,status.operating,61.0,15.0,480.0,0.0,Gravity Group,Sit Down,Stockholm,Stockholms,Sweden,115 21
+45,2015,Wooden,Comet,Hersheypark,PTC/Schmeck,1946,,,,,,,,,,,
+45,2015,Wooden,Zippin Pippin,Bay Beach Amusement Park,M&V,2011,status.operating,68.0,21.0,715.0,,Gravity Group,Sit Down,Green Bay,Wisconsin,United States,54302
+47,2015,Wooden,T Express,Everland,Intamin,2008,status.operating,104.0,56.0,1641.0,0.0,Intamin,Sit Down,Seoul,Seoul,South Korea,17023
+48,2015,Wooden,Big Dipper,Blackpool Pleasure Beach,PTC/Miller,1923,status.operating,,18.0,1006.0,0.0,William Strickler,Sit Down,Blackpool,England,United Kingdom,FY4 1EZ
+48,2015,Wooden,Tonnerre de Zeus,Parc Asterix,Custom Coasters,1997,status.operating,84.0,30.0,1233.0,0.0,CCI,Sit Down,Plailly,Oise,France,60128
+50,2015,Wooden,Racer,Kennywood,PTC/Miller,1927,status.operating,,22.0,686.0,0.0,John Miller,Sit Down,West Mifflin,Pennsylvania,United States,15122
+1,2014,Wooden,Boulder Dash,Lake Compounce,Custom Coasters,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+2,2014,Wooden,El Toro,Six Flags Great Adventure,Intamin,2006,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+3,2014,Wooden,The Voyage,Holiday World,Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+4,2014,Wooden,Phoenix,Knoebels Amusement Resort,Dinn – PTC/Schmeck,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+5,2014,Wooden,Thunderhead,Dollywood,Great Coasters Int.,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+6,2014,Wooden,Ravine Flyer II,Waldameer,Gravity Group,2008,,,,,,,,,,,
+7,2014,Wooden,Gold Striker,California's Great America,Great Coasters Int.,2013,status.operating,87.0,33.0,975.0,0.0,GCI,Sit Down,Santa Clara,California,United States,95054
+8,2014,Wooden,The Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+9,2014,Wooden,Outlaw Run,Silver Dollar City,Rocky Mountain,2013,status.operating,110.0,50.0,,2.0,RMC,Sit Down,Branson,Missouri,United States,65616
+10,2014,Wooden,Balder,Liseberg,Intamin,2003,status.operating,90.0,36.0,1070.0,0.0,Intamin,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+11,2014,Wooden,Lightning Racer,Hersheypark,Great Coasters Int.,2000,status.operating,82.0,27.0,1036.0,0.0,GCI,Sit Down,Hershey,Pennsylvania,United States,17033
+12,2014,Wooden,Prowler,Worlds of Fun,Great Coasters Int.,2009,status.operating,82.0,31.0,937.0,0.0,GCI,Sit Down,Kansas City,Missouri,United States,64161
+13,2014,Wooden,The Raven,Holiday World,Custom Coasters,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+14,2014,Wooden,Thunderbolt,Kennywood,Vettel/Miller,1968,,,,,,,,,,,
+14,2014,Wooden,Thunderbolt,Kennywood,Vettel/Miller,1968,,,,,,,,,,,
+15,2014,Wooden,Shivering Timbers,Michigan's Adventure,Custom Coasters,1998,,,,,,,,,,,
+16,2014,Wooden,Troy,Toverland,Great Coasters Int.,2007,status.operating,87.0,32.0,1077.0,0.0,GCI,Sit Down,Sevenum,Limburg,Netherlands,5975
+17,2014,Wooden,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,1924,,,,,,,,,,,
+18,2014,Wooden,Comet,Six Flags Great Escape,PTC/Schmeck,1994,status.operating,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Queensbury,New York,United States,12804
+19,2014,Wooden,Jack Rabbit,Kennywood,PTC/Miller,1920,,,,,,,,,,,
+20,2014,Wooden,Kentucky Rumbler,Beech Bend,Great Coasters Int.,2006,status.operating,77.0,27.0,862.0,0.0,GCI,Sit Down,Bowling Green,Kentucky,United States,42101
+21,2014,Wooden,Wodan Timbur Coaster,Europa-Park,Great Coasters Int.,2012,status.operating,100.0,35.0,1050.0,0.0,GCI,Sit Down,Rust,Baden-Württemberg,Germany,77977
+22,2014,Wooden,Cyclone,Coney Island,Kenan/Baker,1927,status.operating,97.0,26.0,869.0,0.0,na,Sit Down,Brooklyn,New York,United States,11224
+23,2014,Wooden,Goliath,Six Flags Great America,Rocky Mountain,'14,status.operating,115.0,55.0,950.0,2.0,RMC,Sit Down,Gurnee,Illinois,United States,60031
+24,2014,Wooden,Colossos,Heide Park,Intamin,2001,status.operating,110.0,51.0,1500.0,0.0,Intamin,Sit Down,Soltau,Lower Saxony,Germany,29614
+25,2014,Wooden,Flying Turns,Knoebels Amusement Resort,Knoebels,2013,status.operating,39.0,15.0,396.0,0.0,Knoebels,Bobsleigh,Elysburg,Pennsylvania,United States,17824
+26,2014,Wooden,Hades 360,Mt. Olympus Theme Park,Gravity Group,2005,,,,,,,,,,,
+27,2014,Wooden,The Legend,Holiday World,Custom Coasters,2000,status.operating,93.0,35.0,1232.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+28,2014,Wooden,Wooden Warrior,Quassy Amusement Park,Gravity Group,2011,status.operating,56.0,11.0,378.0,0.0,Gravity Group,Sit Down,Middlebury,Connecticut,United States,06762
+29,2014,Wooden,El Toro,Freizeitpark Plohn,Great Coasters Int.,2009,status.operating,75.0,28.0,750.0,0.0,GCI,Sit Down,Reichenbach/Vogtland,Saxony,Germany,08485
+30,2014,Wooden,Blue Streak,Conneaut Lake Park,Vettel,1938,status.operating,,,883.0,0.0,na,na,Conneaut Lake,Pennsylvania,United States,16316
+31,2014,Wooden,American Thunder,Six Flags St. Louis,Great Coasters Int.,2009,status.operating,77.0,25.0,827.0,0.0,GCI,Sit Down,Eureka,Missouri,United States,63025
+32,2014,Wooden,Grand National,Blackpool Pleasure Beach,Paige,1935,,,,,,,,,,,
+33,2014,Wooden,Megafobia,Oakwood Leisure Park,Custom Coasters,1996,status.operating,77.0,26.0,901.0,0.0,CCI,Sit Down,Pembroke,Wales,United Kingdom,SA67 8DE
+34,2014,Wooden,Tremors,Silverwood,Custom Coasters,1999,status.operating,96.0,31.0,915.0,0.0,CCI,Sit Down,Athol,Idaho,United States,83801
+35,2014,Wooden,Blue Streak,Cedar Point,PTC/Hoover,1964,status.operating,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Sandusky,Ohio,United States,44870
+35,2014,Wooden,Boardwalk Bullet,Kemah Boardwalk,M&V/Gravity Group,2007,status.operating,82.0,29.0,986.0,0.0,Gravity Group,Sit Down,Kemah,Texas,United States,77565
+37,2014,Wooden,Playland Wooden Coaster,PNE Playland,Phare,1959,status.operating,75.0,20.0,865.0,0.0,na,Sit Down,Vancouver,British Columbia,Canada,V5K 5J1
+38,2014,Wooden,Apocalypse,Six Flags Magic Mountain,Great Coasters Int.,2009,status.closed.temporarily,89.0,31.0,869.0,0.0,GCI,Sit Down,Valencia,California,United States,91355
+38,2014,Wooden,White Lightning,Fun Spot America,Great Coasters Int.,2013,status.operating,75.0,23.0,600.0,0.0,GCI,Sit Down,Orlando,Florida,United States,32819
+40,2014,Wooden,Twister,Knoebels Amusement Resort,Fetterman/Knoebels,1999,status.operating,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+41,2014,Wooden,Rutschebanan,Tivoli Gardens,Thompson,1914,status.operating,50.0,13.0,720.0,0.0,L.A. Thompson Scenic Railway,Sit Down,Copenhagen,Region Hovedstaden,Denmark,1630
+42,2014,Wooden,Racer,Kennywood,PTC/Miller,1927,status.operating,,22.0,686.0,0.0,John Miller,Sit Down,West Mifflin,Pennsylvania,United States,15122
+43,2014,Wooden,Wild Mouse,Blackpool Pleasure Beach,Wright/Blackpool,1958,status.closed.definitely,,,390.0,0.0,na,Sit Down,Blackpool,England,United Kingdom,FY4 1EZ
+44,2014,Wooden,GhostRider,Knott's Berry Farm,Custom Coasters,1998,status.operating,90.0,36.0,1382.0,0.0,GCI,Sit Down,Buena Park,California,United States,90620
+45,2014,Wooden,Twisted Colossus,Six Flags Magic Mountain,IAD,1978,,,,,,,,,,,
+46,2014,Wooden,Tonnerre de Zeus,Parc Asterix,Custom Coasters,1997,status.operating,84.0,30.0,1233.0,0.0,CCI,Sit Down,Plailly,Oise,France,60128
+47,2014,Wooden,Avalanche,Timber Falls,S&S,2004,status.closed.definitely,,27.0,725.0,0.0,S&S,Sit Down,Wisconsin Dells,Wisconsin,United States,53965
+48,2014,Wooden,The Boss,Six Flags St. Louis,Custom Coasters,2000,status.operating,106.0,46.0,1540.0,0.0,CCI,Sit Down,Eureka,Missouri,United States,63025
+49,2014,Wooden,Viper,Six Flags Great America,Starkey/Six Flags,1995,status.operating,81.0,31.0,1054.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Gurnee,Illinois,United States,60031
+50,2014,Wooden,Wood Coaster,Knight Valley,Great Coasters Int.,2011,status.operating,99.0,45.0,1468.0,0.0,GCI,Sit Down,Shenzhen,Guangdong,China,518085
+1,2013,Wooden,Boulder Dash,Lake Compounce,CCI,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+2,2013,Wooden,El Toro,Six Flags Great Adventure,Intamin,2006,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+3,2013,Wooden,Phoenix,Knoebels Amusement Resort,Dinn/PTC-Schmeck,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+4,2013,Wooden,The Voyage,Holiday World,Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+5,2013,Wooden,Thunderhead,Dollywood,GCII,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+6,2013,Wooden,Ravine Flyer II,Waldameer,Gravity Group,2008,,,,,,,,,,,
+7,2013,Wooden,Outlaw Run,Silver Dollar City,Rocky Mountain,2013,status.operating,110.0,50.0,,2.0,RMC,Sit Down,Branson,Missouri,United States,65616
+8,2013,Wooden,The Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+9,2013,Wooden,Lightning Racer,Hersheypark,GCII,2000,status.operating,82.0,27.0,1036.0,0.0,GCI,Sit Down,Hershey,Pennsylvania,United States,17033
+10,2013,Wooden,Shivering Timbers,Michigan's Adventure,CCI,1998,,,,,,,,,,,
+11,2013,Wooden,The Raven,Holiday World,CCI,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+12,2013,Wooden,Prowler,Worlds of Fun,GCII,2009,status.operating,82.0,31.0,937.0,0.0,GCI,Sit Down,Kansas City,Missouri,United States,64161
+13,2013,Wooden,Balder,Liseberg,Intamin,2003,status.operating,90.0,36.0,1070.0,0.0,Intamin,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+14,2013,Wooden,Hades 360,Mt. Olympus Theme Park,Gravity Group,2005,,,,,,,,,,,
+15,2013,Wooden,Thunderbolt,Kennywood,Vettel/Miller,1968,,,,,,,,,,,
+16,2013,Wooden,Comet,Six Flags Great Escape,PTC – Schmeck,1994,status.operating,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Queensbury,New York,United States,12804
+17,2013,Wooden,Colossos,Heide Park,Intamin,2001,status.operating,110.0,51.0,1500.0,0.0,Intamin,Sit Down,Soltau,Lower Saxony,Germany,29614
+18,2013,Wooden,Jack Rabbit,Kennywood,PTC – Miller,1920,,,,,,,,,,,
+19,2013,Wooden,Cyclone,Coney Island,Keenan/Baker,1927,status.operating,97.0,26.0,869.0,0.0,na,Sit Down,Brooklyn,New York,United States,11224
+19,2013,Wooden,The Legend,Holiday World,CCI,2000,status.operating,93.0,35.0,1232.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+21,2013,Wooden,Kentucky Rumbler,Beech Bend,GCII,2006,status.operating,77.0,27.0,862.0,0.0,GCI,Sit Down,Bowling Green,Kentucky,United States,42101
+22,2013,Wooden,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,1924,,,,,,,,,,,
+23,2013,Wooden,El Toro,Freizeitpark Plohn,GCII,2009,status.operating,75.0,28.0,750.0,0.0,GCI,Sit Down,Reichenbach/Vogtland,Saxony,Germany,08485
+24,2013,Wooden,Tremors,Silverwood,CCI,1999,status.operating,96.0,31.0,915.0,0.0,CCI,Sit Down,Athol,Idaho,United States,83801
+25,2013,Wooden,American Thunder,Six Flags St. Louis,GCII,2008,status.operating,77.0,25.0,827.0,0.0,GCI,Sit Down,Eureka,Missouri,United States,63025
+26,2013,Wooden,Gold Striker,California's Great America,GCII,2013,status.operating,87.0,33.0,975.0,0.0,GCI,Sit Down,Santa Clara,California,United States,95054
+27,2013,Wooden,Blue Streak,Cedar Point,PTC – Hoover,1964,status.operating,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Sandusky,Ohio,United States,44870
+28,2013,Wooden,Troy,Toverland,GCII,2007,status.operating,87.0,32.0,1077.0,0.0,GCI,Sit Down,Sevenum,Limburg,Netherlands,5975
+29,2013,Wooden,GhostRider,Knott's Berry Farm,CCI,1998,status.operating,90.0,36.0,1382.0,0.0,GCI,Sit Down,Buena Park,California,United States,90620
+30,2013,Wooden,Playland Wooden Coaster,PNE Playland,Phare,1958,status.operating,75.0,20.0,865.0,0.0,na,Sit Down,Vancouver,British Columbia,Canada,V5K 5J1
+31,2013,Wooden,Wodan Timbur Coaster,Europa-Park,GCII,2012,status.operating,100.0,35.0,1050.0,0.0,GCI,Sit Down,Rust,Baden-Württemberg,Germany,77977
+32,2013,Wooden,Cornball Express,Indiana Beach,CCI,2001,status.operating,72.0,17.0,640.0,0.0,CCI,Sit Down,Monticello,Indiana,United States,47960
+33,2013,Wooden,Blue Streak,Conneaut Lake Park,Vettel,1938,status.operating,,,883.0,0.0,na,na,Conneaut Lake,Pennsylvania,United States,16316
+34,2013,Wooden,Boardwalk Bullet,Kemah Boardwalk,M&V/Gravity Group,2007,status.operating,82.0,29.0,986.0,0.0,Gravity Group,Sit Down,Kemah,Texas,United States,77565
+35,2013,Wooden,Racer,Kennywood,PTC – Miller,1927,status.operating,,22.0,686.0,0.0,John Miller,Sit Down,West Mifflin,Pennsylvania,United States,15122
+36,2013,Wooden,Wooden Warrior,Quassy Amusement Park,Gravity Group,2011,status.operating,56.0,11.0,378.0,0.0,Gravity Group,Sit Down,Middlebury,Connecticut,United States,06762
+37,2013,Wooden,Zippin Pippin,Bay Beach Amusement Park,M&V,2011,status.operating,68.0,21.0,715.0,,Gravity Group,Sit Down,Green Bay,Wisconsin,United States,54302
+38,2013,Wooden,Thunderbird,PowerPark,GCII,2006,status.operating,75.0,27.0,850.0,0.0,GCI,Sit Down,Härmä,Western Finland,Finland,62300
+39,2013,Wooden,Twister,Knoebels Amusement Resort,Fetterman-Knoebels,1999,status.operating,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+40,2013,Wooden,Megafobia,Oakwood Leisure Park,CCI,1996,status.operating,77.0,26.0,901.0,0.0,CCI,Sit Down,Pembroke,Wales,United Kingdom,SA67 8DE
+41,2013,Wooden,Grand National,Blackpool Pleasure Beach,Paige,1935,,,,,,,,,,,
+41,2013,Wooden,T Express,Everland,Intamin,2008,status.operating,104.0,56.0,1641.0,0.0,Intamin,Sit Down,Seoul,Seoul,South Korea,17023
+43,2013,Wooden,Great American Scream Machine,Six Flags Over Georgia,PTC – Allen,1973,status.operating,92.0,32.0,1052.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Austell,Georgia,United States,30168
+44,2013,Wooden,Tonnerre de Zeus,Parc Asterix,CCI,1997,status.operating,84.0,30.0,1233.0,0.0,CCI,Sit Down,Plailly,Oise,France,60128
+44,2013,Wooden,Viper,Six Flags Great America,Starkey – Six Flags,1995,status.operating,81.0,31.0,1054.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Gurnee,Illinois,United States,60031
+46,2013,Wooden,Avalanche,Timber Falls,S & S,2004,status.closed.definitely,,27.0,725.0,0.0,S&S,Sit Down,Wisconsin Dells,Wisconsin,United States,53965
+46,2013,Wooden,Twister,Gröna Lund,Gravity Group,2011,status.operating,61.0,15.0,480.0,0.0,Gravity Group,Sit Down,Stockholm,Stockholms,Sweden,115 21
+48,2013,Wooden,Cyclone,Lakeside Park,Vettel,1940,status.operating,,25.0,855.0,0.0,na,Sit Down,Denver,Colorado,United States,80212
+49,2013,Wooden,Apocalypse,Six Flags Magic Mountain,GCII,2009,status.closed.temporarily,89.0,31.0,869.0,0.0,GCI,Sit Down,Valencia,California,United States,91355
+50,2013,Wooden,Yankee Cannonball,Canobie Lake Park,PTC – Schmeck,1936,status.operating,56.0,20.0,610.0,0.0,Philadelphia Toboggan Coaster,Sit Down,,,,
+1,2012,Wooden,El Toro,Six Flags Great Adventure,Intamin,2006,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+2,2012,Wooden,The Voyage,Holiday World,Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+3,2012,Wooden,Phoenix,Knoebels Amusement Resort,Dinn/PTC-Schmeck,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+4,2012,Wooden,Thunderhead,Dollywood,GCII,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+5,2012,Wooden,Boulder Dash,Lake Compounce,CCI,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+6,2012,Wooden,Ravine Flyer II,Waldameer,Gravity Group,2008,,,,,,,,,,,
+7,2012,Wooden,The Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+8,2012,Wooden,The Raven,Holiday World,CCI,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+9,2012,Wooden,Shivering Timbers,Michigan's Adventure,CCI,1998,,,,,,,,,,,
+10,2012,Wooden,Balder,Liseberg,Intamin,2003,status.operating,90.0,36.0,1070.0,0.0,Intamin,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+11,2012,Wooden,Lightning Racer,Hersheypark,GCII,2000,status.operating,82.0,27.0,1036.0,0.0,GCI,Sit Down,Hershey,Pennsylvania,United States,17033
+12,2012,Wooden,Hades 360,Mt. Olympus Theme Park,Gravity Group,2005,,,,,,,,,,,
+13,2012,Wooden,Prowler,Worlds of Fun,GCII,2009,status.operating,82.0,31.0,937.0,0.0,GCI,Sit Down,Kansas City,Missouri,United States,64161
+14,2012,Wooden,Cyclone,Coney Island,Kenan/Baker,1927,status.operating,97.0,26.0,869.0,0.0,na,Sit Down,Brooklyn,New York,United States,11224
+15,2012,Wooden,Thunderbolt,Kennywood,Vettel/Miller,1968,,,,,,,,,,,
+16,2012,Wooden,Jack Rabbit,Kennywood,PTC – Miller,1920,,,,,,,,,,,
+17,2012,Wooden,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,1924,,,,,,,,,,,
+18,2012,Wooden,The Legend,Holiday World,CCI,2000,status.operating,93.0,35.0,1232.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+19,2012,Wooden,Colossos,Heide Park,Intamin,2001,status.operating,110.0,51.0,1500.0,0.0,Intamin,Sit Down,Soltau,Lower Saxony,Germany,29614
+20,2012,Wooden,Comet,Six Flags Great Escape,PTC – Schmeck,1994,status.operating,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Queensbury,New York,United States,12804
+21,2012,Wooden,Tremors,Silverwood,CCI,1999,status.operating,96.0,31.0,915.0,0.0,CCI,Sit Down,Athol,Idaho,United States,83801
+22,2012,Wooden,Kentucky Rumbler,Beech Bend,GCII,2006,status.operating,77.0,27.0,862.0,0.0,GCI,Sit Down,Bowling Green,Kentucky,United States,42101
+23,2012,Wooden,GhostRider,Knott's Berry Farm,CCI,1998,status.operating,90.0,36.0,1382.0,0.0,GCI,Sit Down,Buena Park,California,United States,90620
+24,2012,Wooden,Twister,Gröna Lund,Gravity Group,2011,status.operating,61.0,15.0,480.0,0.0,Gravity Group,Sit Down,Stockholm,Stockholms,Sweden,115 21
+25,2012,Wooden,Troy,Toverland,GCII,2007,status.operating,87.0,32.0,1077.0,0.0,GCI,Sit Down,Sevenum,Limburg,Netherlands,5975
+26,2012,Wooden,Viper,Six Flags Great America,Starkey/Six Flags,1995,status.operating,81.0,31.0,1054.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Gurnee,Illinois,United States,60031
+27,2012,Wooden,Megafobia,Oakwood Leisure Park,CCI,1996,status.operating,77.0,26.0,901.0,0.0,CCI,Sit Down,Pembroke,Wales,United Kingdom,SA67 8DE
+28,2012,Wooden,Apocalypse,Six Flags Magic Mountain,GCII,2009,status.closed.temporarily,89.0,31.0,869.0,0.0,GCI,Sit Down,Valencia,California,United States,91355
+29,2012,Wooden,Playland Wooden Coaster,PNE Playland,Phare,1958,status.operating,75.0,20.0,865.0,0.0,na,Sit Down,Vancouver,British Columbia,Canada,V5K 5J1
+30,2012,Wooden,Grand National,Blackpool Pleasure Beach,Paige,1935,,,,,,,,,,,
+31,2012,Wooden,American Thunder,Six Flags St. Louis,GCII,2008,status.operating,77.0,25.0,827.0,0.0,GCI,Sit Down,Eureka,Missouri,United States,63025
+32,2012,Wooden,Wooden Warrior,Quassy Amusement Park,Gravity Group,2011,status.operating,56.0,11.0,378.0,0.0,Gravity Group,Sit Down,Middlebury,Connecticut,United States,06762
+33,2012,Wooden,Twister,Knoebels Amusement Resort,Fetterman-Knoebels,1999,status.operating,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+34,2012,Wooden,El Toro,Freizeitpark Plohn,GCII,2009,status.operating,75.0,28.0,750.0,0.0,GCI,Sit Down,Reichenbach/Vogtland,Saxony,Germany,08485
+35,2012,Wooden,Thunderbird,PowerPark,GCII,2006,status.operating,75.0,27.0,850.0,0.0,GCI,Sit Down,Härmä,Western Finland,Finland,62300
+36,2012,Wooden,Avalanche,Timber Falls,S & S,2004,status.closed.definitely,,27.0,725.0,0.0,S&S,Sit Down,Wisconsin Dells,Wisconsin,United States,53965
+37,2012,Wooden,Tonnerre de Zeus,Parc Asterix,CCII,1997,status.operating,84.0,30.0,1233.0,0.0,CCI,Sit Down,Plailly,Oise,France,60128
+38,2012,Wooden,Blue Streak,Cedar Point,PTC – Hoover,1964,status.operating,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Sandusky,Ohio,United States,44870
+39,2012,Wooden,Boardwalk Bullet,Kemah Boardwalk,M&V/Gravity Group,2007,status.operating,82.0,29.0,986.0,0.0,Gravity Group,Sit Down,Kemah,Texas,United States,77565
+39,2012,Wooden,Cornball Express,Indiana Beach,CCI,2001,status.operating,72.0,17.0,640.0,0.0,CCI,Sit Down,Monticello,Indiana,United States,47960
+41,2012,Wooden,Rutschebanan,Tivoli Gardens,LaMarcus Thompson,ca. 1914,status.operating,50.0,13.0,720.0,0.0,L.A. Thompson Scenic Railway,Sit Down,Copenhagen,Region Hovedstaden,Denmark,1630
+42,2012,Wooden,The Boss,Six Flags St. Louis,CCI,2000,status.operating,106.0,46.0,1540.0,0.0,CCI,Sit Down,Eureka,Missouri,United States,63025
+42,2012,Wooden,Racer,Kennywood,PTC – Miller,1927,status.operating,,22.0,686.0,0.0,John Miller,Sit Down,West Mifflin,Pennsylvania,United States,15122
+44,2012,Wooden,Blue Streak,Conneaut Lake Park,Vettel,1938,status.operating,,,883.0,0.0,na,na,Conneaut Lake,Pennsylvania,United States,16316
+45,2012,Wooden,Mean Streak,Cedar Point,Dinn-Summers,1991,status.retracked,100.0,49.0,1654.0,0.0,Dinn Corp.,Sit Down,Sandusky,Ohio,United States,44870
+46,2012,Wooden,T Express,Everland,Intamin,2008,status.operating,104.0,56.0,1641.0,0.0,Intamin,Sit Down,Seoul,Seoul,South Korea,17023
+46,2012,Wooden,Timber Terror,Silverwood,CCI,1996,status.operating,89.0,26.0,823.0,0.0,CCI,Sit Down,Athol,Idaho,United States,83801
+48,2012,Wooden,Great American Scream Machine,Six Flags Over Georgia,PTC – Allen,1973,status.operating,92.0,32.0,1052.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Austell,Georgia,United States,30168
+49,2012,Wooden,Wild Mouse,Blackpool Pleasure Beach,Wright,1958,status.closed.definitely,,,390.0,0.0,na,Sit Down,Blackpool,England,United Kingdom,FY4 1EZ
+50,2012,Wooden,Renegade,Valleyfair,GCII,2007,status.operating,,32.0,950.0,0.0,GCI,Sit Down,Shakopee,Minnesota,United States,55379
+1,2011,Wooden,The Voyage,Holiday World,Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+2,2011,Wooden,Phoenix,Knoebels Amusement Resort,Dinn/PTC-Schmeck,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+3,2011,Wooden,El Toro,Six Flags Great Adventure,Intamin,2006,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+4,2011,Wooden,Boulder Dash,Lake Compounce,CCI,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+5,2011,Wooden,Thunderhead,Dollywood,GCII,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+6,2011,Wooden,Ravine Flyer II,Waldameer,Gravity Group,2008,,,,,,,,,,,
+7,2011,Wooden,The Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+8,2011,Wooden,Hades 360,Mt. Olympus Theme Park,Gravity Group,2005,,,,,,,,,,,
+9,2011,Wooden,Shivering Timbers,Michigan's Adventure,CCI,1998,,,,,,,,,,,
+10,2011,Wooden,Prowler,Worlds of Fun,GCII,2009,status.operating,82.0,31.0,937.0,0.0,GCI,Sit Down,Kansas City,Missouri,United States,64161
+11,2011,Wooden,Lightning Racer,Hersheypark,GCII,2000,status.operating,82.0,27.0,1036.0,0.0,GCI,Sit Down,Hershey,Pennsylvania,United States,17033
+12,2011,Wooden,The Raven,Holiday World,CCI,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+13,2011,Wooden,Balder,Liseberg,Intamin,2003,status.operating,90.0,36.0,1070.0,0.0,Intamin,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+14,2011,Wooden,Thunderbolt,Kennywood,Vettel/Miller,1968,,,,,,,,,,,
+15,2011,Wooden,Cyclone,Coney Island,Keenan/Baker,1927,status.operating,97.0,26.0,869.0,0.0,na,Sit Down,Brooklyn,New York,United States,11224
+16,2011,Wooden,Kentucky Rumbler,Beech Bend,GCII,2006,status.operating,77.0,27.0,862.0,0.0,GCI,Sit Down,Bowling Green,Kentucky,United States,42101
+17,2011,Wooden,Boardwalk Bullet,Kemah Boardwalk,M&V/Gravity Group,2007,status.operating,82.0,29.0,986.0,0.0,Gravity Group,Sit Down,Kemah,Texas,United States,77565
+18,2011,Wooden,The Legend,Holiday World,CCI,2000,status.operating,93.0,35.0,1232.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+19,2011,Wooden,Comet,Six Flags Great Escape,PTC-Schmeck,1994,status.operating,89.0,29.0,1279.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Queensbury,New York,United States,12804
+20,2011,Wooden,Megafobia,Oakwood Leisure Park,CCI,1996,status.operating,77.0,26.0,901.0,0.0,CCI,Sit Down,Pembroke,Wales,United Kingdom,SA67 8DE
+20,2011,Wooden,Twister,Knoebels Amusement Resort,Fetterman-Knoebels,1999,status.operating,83.0,31.0,1189.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+22,2011,Wooden,American Thunder,Six Flags St. Louis,GCII,2008,status.operating,77.0,25.0,827.0,0.0,GCI,Sit Down,Eureka,Missouri,United States,63025
+23,2011,Wooden,Jack Rabbit,Kennywood,PTC – Miller,1920,,,,,,,,,,,
+24,2011,Wooden,Cornball Express,Indiana Beach,CCI,2004,status.operating,72.0,17.0,640.0,0.0,CCI,Sit Down,Monticello,Indiana,United States,47960
+25,2011,Wooden,Grand National,Blackpool Pleasure Beach,Paige,1935,,,,,,,,,,,
+26,2011,Wooden,Renegade,Valleyfair,GCII,2007,status.operating,,32.0,950.0,0.0,GCI,Sit Down,Shakopee,Minnesota,United States,55379
+27,2011,Wooden,GhostRider,Knott's Berry Farm,CCI,1998,status.operating,90.0,36.0,1382.0,0.0,GCI,Sit Down,Buena Park,California,United States,90620
+28,2011,Wooden,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,1924,,,,,,,,,,,
+29,2011,Wooden,Colossos,Heide Park,Intamin,2001,status.operating,110.0,51.0,1500.0,0.0,Intamin,Sit Down,Soltau,Lower Saxony,Germany,29614
+30,2011,Wooden,Avalanche,Timber Falls,S&S,2004,status.closed.definitely,,27.0,725.0,0.0,S&S,Sit Down,Wisconsin Dells,Wisconsin,United States,53965
+31,2011,Wooden,Tremors,Silverwood,CCI,1999,status.operating,96.0,31.0,915.0,0.0,CCI,Sit Down,Athol,Idaho,United States,83801
+32,2011,Wooden,Rampage,Alabama Splash Adventure,CCI,1998,status.operating,90.0,37.0,1067.0,0.0,CCI,Sit Down,Bessemer,Alabama,United States,35022
+33,2011,Wooden,Troy,Toverland,GCII,2007,status.operating,87.0,32.0,1077.0,0.0,GCI,Sit Down,Sevenum,Limburg,Netherlands,5975
+34,2011,Wooden,Playland Wooden Coaster,PNE Playland,Phare,1958,status.operating,75.0,20.0,865.0,0.0,na,Sit Down,Vancouver,British Columbia,Canada,V5K 5J1
+35,2011,Wooden,El Toro,Freizeitpark Plohn,GCII,2009,status.operating,75.0,28.0,750.0,0.0,GCI,Sit Down,Reichenbach/Vogtland,Saxony,Germany,08485
+36,2011,Wooden,Apocalypse,Six Flags Magic Mountain,GCII,2009,status.closed.temporarily,89.0,31.0,869.0,0.0,GCI,Sit Down,Valencia,California,United States,91355
+36,2011,Wooden,Twister,Gröna Lund,Gravity Group,2011,status.operating,61.0,15.0,480.0,0.0,Gravity Group,Sit Down,Stockholm,Stockholms,Sweden,115 21
+38,2011,Wooden,Thunderbird,PowerPark,GCII,2006,status.operating,75.0,27.0,850.0,0.0,GCI,Sit Down,Härmä,Western Finland,Finland,62300
+39,2011,Wooden,T Express,Everland,Intamin,2008,status.operating,104.0,56.0,1641.0,0.0,Intamin,Sit Down,Seoul,Seoul,South Korea,17023
+40,2011,Wooden,Wooden Warrior,Quassy Amusement Park,Gravity Group,2011,status.operating,56.0,11.0,378.0,0.0,Gravity Group,Sit Down,Middlebury,Connecticut,United States,06762
+41,2011,Wooden,Viper,Six Flags Great America,Starkey/Six Flags,1995,status.operating,81.0,31.0,1054.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Gurnee,Illinois,United States,60031
+42,2011,Wooden,The Boss,Six Flags St. Louis,CCI,2000,status.operating,106.0,46.0,1540.0,0.0,CCI,Sit Down,Eureka,Missouri,United States,63025
+43,2011,Wooden,Racer,Kennywood,Miller,1927,status.operating,,22.0,686.0,0.0,John Miller,Sit Down,West Mifflin,Pennsylvania,United States,15122
+44,2011,Wooden,Wild Mouse,Blackpool Pleasure Beach,Wright,1958,status.closed.definitely,,,390.0,0.0,na,Sit Down,Blackpool,England,United Kingdom,FY4 1EZ
+44,2011,Wooden,Zippin Pippin,Bay Beach Amusement Park,M&V/Gravity Group,2011,status.operating,68.0,21.0,715.0,,Gravity Group,Sit Down,Green Bay,Wisconsin,United States,54302
+46,2011,Wooden,Blue Streak,Conneaut Lake Park,Vettel,1938,status.operating,,,883.0,0.0,na,na,Conneaut Lake,Pennsylvania,United States,16316
+47,2011,Wooden,Rattler,Six Flags Fiesta Texas,Pierce,1992,status.retracked,104.0,54.0,1550.0,0.0,RCCA,Sit Down,San Antonio,Texas,United States,78257
+48,2011,Wooden,Rutschebanan,Tivoli Gardens,unknown,ca. 1915,status.operating,50.0,13.0,720.0,0.0,L.A. Thompson Scenic Railway,Sit Down,Copenhagen,Region Hovedstaden,Denmark,1630
+49,2011,Wooden,Blue Streak,Cedar Point,PTC-Hoover,1964,status.operating,64.0,24.0,780.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Sandusky,Ohio,United States,44870
+50,2011,Wooden,Tonnerre de Zeus,Parc Asterix,CCI,1997,status.operating,84.0,30.0,1233.0,0.0,CCI,Sit Down,Plailly,Oise,France,60128
+1,2010,Wooden,The Voyage,Holiday World,Gravity Group,2006,status.operating,108.0,49.0,1963.0,0.0,Gravity Group,Sit Down,Santa Claus,Indiana,United States,47579
+2,2010,Wooden,El Toro,Six Flags Great Adventure,Intamin,2006,status.operating,113.0,55.0,1341.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+3,2010,Wooden,Phoenix,Knoebels Amusement Resort,Dinn/PTC-Schmeck,1985,status.operating,72.0,24.0,975.0,0.0,Philadelphia Toboggan Coaster,Sit Down,Elysburg,Pennsylvania,United States,17824
+4,2010,Wooden,Boulder Dash,Lake Compounce,CCI,2000,status.operating,97.0,35.0,1440.0,0.0,CCI,Sit Down,Bristol,Connecticut,United States,06010
+5,2010,Wooden,Thunderhead,Dollywood,GCII,2004,status.operating,89.0,31.0,985.0,0.0,GCI,Sit Down,Pigeon Forge,Tennessee,United States,37863
+6,2010,Wooden,Ravine Flyer II,Waldameer,Gravity Group,2008,,,,,,,,,,,
+7,2010,Wooden,The Beast,Kings Island,KECO,1979,status.operating,104.0,34.0,2243.0,0.0,Charlie Dinn,Sit Down,Mason,Ohio,United States,45040
+8,2010,Wooden,Hades 360,Mt. Olympus Theme Park,Gravity Group,2005,,,,,,,,,,,
+9,2010,Wooden,The Raven,Holiday World,CCI,1995,status.operating,77.0,33.0,832.0,0.0,CCI,Sit Down,Santa Claus,Indiana,United States,47579
+10,2010,Wood,Lightning Racer,Hersheypark,GCII,2000,,,,,,,,,,,
+11,2010,Wood,Shivering Timbers,Michigan's Adventure,CCI,1998,,,,,,,,,,,
+12,2010,Wood,Prowler,Worlds of Fun,GCII,2009,,,,,,,,,,,
+13,2010,Wood,Cyclone,Coney Island,Keenan/Baker,1927,,,,,,,,,,,
+14,2010,Wood,Thunderbolt,Kennywood,Vettel/Miller,1968,,,,,,,,,,,
+15,2010,Wood,The Legend,Holiday World,CCI,2000,,,,,,,,,,,
+16,2010,Wood,Kentucky Rumbler,Beech Bend,GCII,2006,,,,,,,,,,,
+17,2010,Wood,Comet,Six Flags Great Escape,PTC-Schmeck,1994,,,,,,,,,,,
+18,2010,Wood,Colossos,Heide Park,Intamin,2001,,,,,,,,,,,
+19,2010,Wood,Avalanche,Timber Falls,S&S,2004,,,,,,,,,,,
+20,2010,Wood,Jack Rabbit,Kennywood,PTC – Miller,1921,,,,,,,,,,,
+21,2010,Wood,Balder,Liseberg,Intamin,2003,,,,,,,,,,,
+22,2010,Wood,Giant Dipper,Santa Cruz Beach Boardwalk,Prior & Church/Looff,1924,,,,,,,,,,,
+23,2010,Wood,American Thunder,Six Flags St. Louis,GCII,2008,,,,,,,,,,,
+24,2010,Wood,GhostRider,Knott's Berry Farm,CCI,1998,,,,,,,,,,,
+25,2010,Wood,Tremors,Silverwood,CCI,1999,,,,,,,,,,,
+26,2010,Wood,Coaster,PNE Playland,Phare,1958,,,,,,,,,,,
+27,2010,Wood,Apocalypse,Six Flags Magic Mountain,GCII,2009,,,,,,,,,,,
+28,2010,Wood,Grand National,Blackpool Pleasure Beach,Paige,1935,,,,,,,,,,,
+29,2010,Wood,Cornball Express,Indiana Beach,CCI,2001,,,,,,,,,,,
+30,2010,Wood,Megafobia,Oakwood Leisure Park,CCI,1996,,,,,,,,,,,
+31,2010,Wood,The Boss,Six Flags St. Louis,CCI,2000,,,,,,,,,,,
+32,2010,Wood,Twister,Knoebels Amusement Resort,Fetterman/Knoebels,1999,,,,,,,,,,,
+33,2010,Wood,Rampage,Alabama Splash Adventure,CCI,1998,,,,,,,,,,,
+34,2010,Wood,Viper,Six Flags Great America,Starkey/Six Flags,1995,,,,,,,,,,,
+35,2010,Wood,Racer,Kennywood,PTC-Miller,1927,,,,,,,,,,,
+36,2010,Wood,T Express,Everland,Intamin,2008,,,,,,,,,,,
+37,2010,Wood,Thunderbird,PowerPark,GCII,2006,,,,,,,,,,,
+38,2010,Wood,Boardwalk Bullet,Kemah Boardwalk,M&V/Gravity Group,2007,,,,,,,,,,,
+39,2010,Wood,Dania Beach Hurricane,Boomers!,Coaster Works,2000,,,,,,,,,,,
+40,2010,Wood,Tonnerre de Zeus,Parc Asterix,CCI,1997,,,,,,,,,,,
+41,2010,Wood,Troy,Toverland,GCII,2007,,,,,,,,,,,
+42,2010,Wood,Aska,Nara Dreamland,Intamin,1998,,,,,,,,,,,
+42,2010,Wood,Renegade,Valleyfair,GCII,2007,,,,,,,,,,,
+44,2010,Wood,Timber Terror,Silverwood,CCI,1996,,,,,,,,,,,
+45,2010,Wood,Grizzly,Kings Dominion,KECO-Summers,1982,,,,,,,,,,,
+46,2010,Wood,Gwazi,Busch Gardens Tampa,GCII,1999,,,,,,,,,,,
+47,2010,Wood,Blue Streak,Cedar Point,PTC-Hoover,1964,,,,,,,,,,,
+47,2010,Wood,Georgia Cyclone,Six Flags Over Georgia,Dinn-Summers,1990,,,,,,,,,,,
+49,2010,Wood,Giant Dipper,Belmont Park,Prior & Church,1925,,,,,,,,,,,
+50,2010,Wood,Cyclone,Lakeside Park,Vettel,1940,,,,,,,,,,,

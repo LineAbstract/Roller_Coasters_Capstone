@@ -1,0 +1,870 @@
+coaster_name,material_type_x,seating_type,speed,height,length,num_inversions,manufacturer,park_name_x,status,rank,year_ranked,material_type_y,park_name_y,supplier,year_built
+Afterburn,Steel,Inverted,100.0,34.0,900.0,6.0,B&M,Carowinds,status.operating,35,2013,Steel,Carowinds,B & M,1999
+Afterburn,Steel,Inverted,100.0,34.0,900.0,6.0,B&M,Carowinds,status.operating,45,2012,Steel,Carowinds,B & M,1999
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,36,2022,Steel,Busch Gardens Williamsburg,B&M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,36,2022,Steel,Busch Gardens Williamsburg,B&M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,21,2021,Steel,Busch Gardens Williamsburg,B&M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,32,2019,Steel,Busch Gardens Williamsburg,B&M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,32,2018,Steel,Busch Gardens Williamsburg,B&M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,36,2017,Steel,Busch Gardens Williamsburg,B&M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,30,2016,Steel,Busch Gardens Williamsburg,B&M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,26,2015,Steel,Busch Gardens Williamsburg,B&M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,23,'14,Steel,Busch Gardens Williamsburg,B&M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,25,2013,Steel,Busch Gardens Williamsburg,B & M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,24,2012,Steel,Busch Gardens Williamsburg,B & M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,27,2011,Steel,Busch Gardens Williamsburg,B & M,1997
+Alpengeist,Steel,Inverted,108.0,60.0,,6.0,B&M,Busch Gardens Williamsburg,status.operating,23,2010,Steel,Busch Gardens Williamsburg,B & M,1997
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,8,2022,Steel,Busch Gardens Williamsburg,B&M,1999
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,11,2021,Steel,Busch Gardens Williamsburg,B&M,1999
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,8,2019,Steel,Busch Gardens Williamsburg,B&M,1999
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,6,2018,Steel,Busch Gardens Williamsburg,B&M,1999
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,11,2017,Steel,Busch Gardens Williamsburg,B&M,1999
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,6,2016,Steel,Busch Gardens Williamsburg,B&M,1999
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,6,2015,Steel,Busch Gardens Williamsburg,B&M,1999
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,7,'14,Steel,Busch Gardens Williamsburg,B&M,1999
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,5,2013,Steel,Busch Gardens Williamsburg,B & M,1999
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,4,2012,Steel,Busch Gardens Williamsburg,B & M,1999
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,7,2011,Steel,Busch Gardens Williamsburg,B&M,1999
+Apollo's Chariot,Steel,Sit Down,118.0,52.0,1488.0,0.0,B&M,Busch Gardens Williamsburg,status.operating,4,2010,Steel,Busch Gardens Williamsburg,B & M,1999
+Banshee,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,Kings Island,status.operating,37,2022,Steel,Kings Island,B&M,2014
+Banshee,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,Kings Island,status.operating,37,2021,Steel,Kings Island,B&M,2014
+Banshee,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,Kings Island,status.operating,33,2019,Steel,Kings Island,B&M,2014
+Banshee,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,Kings Island,status.operating,29,2018,Steel,Kings Island,B&M,2014
+Banshee,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,Kings Island,status.operating,22,2017,Steel,Kings Island,B&M,2014
+Banshee,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,Kings Island,status.operating,13,2016,Steel,Kings Island,B&M,2014
+Banshee,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,Kings Island,status.operating,20,2015,Steel,Kings Island,B&M,2014
+Banshee,Steel,Inverted,110.0,51.0,1260.0,7.0,B&M,Kings Island,status.operating,16,'14,Steel,Kings Island,B&M,'14
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,34,2022,Steel,Canada's Wonderland,B&M,2008
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,38,2021,Steel,Canada's Wonderland,B&M,2008
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,29,2019,Steel,Canada's Wonderland,B&M,2008
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,27,2018,Steel,Canada's Wonderland,B&M,2008
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,28,2017,Steel,Canada's Wonderland,B&M,2008
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,24,2016,Steel,Canada's Wonderland,B&M,2008
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,18,2015,Steel,Canada's Wonderland,B&M,2008
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,15,'14,Steel,Canada's Wonderland,B&M,2008
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,17,2013,Steel,Canada's Wonderland,B & M,2008
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,17,2012,Steel,Canada's Wonderland,B & M,2008
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,15,2011,Steel,Canada's Wonderland,B & M,2008
+Behemoth,Steel,Sit Down,124.0,70.0,1621.0,0.0,B&M,Canada's Wonderland,status.operating,13,2010,Steel,Canada's Wonderland,B & M,2008
+Bizarro,Steel,Floorless,98.0,43.0,1214.0,7.0,B&M,Six Flags Great Adventure,status.operating,48,2016,Steel,Six Flags Great Adventure,B&M,1999
+Bizarro,Steel,Floorless,98.0,43.0,1214.0,7.0,B&M,Six Flags Great Adventure,status.operating,2,2015,Steel,Six Flags New England,Intamin,2000
+Bizarro,Steel,Floorless,98.0,43.0,1214.0,7.0,B&M,Six Flags Great Adventure,status.operating,44,2015,Steel,Six Flags Great Adventure,B&M,1999
+Bizarro,Steel,Floorless,98.0,43.0,1214.0,7.0,B&M,Six Flags Great Adventure,status.operating,2,'14,Steel,Six Flags New England,Intamin,2000
+Bizarro,Steel,Floorless,98.0,43.0,1214.0,7.0,B&M,Six Flags Great Adventure,status.operating,2,2013,Steel,Six Flags New England,Intamin,2000
+Bizarro,Steel,Floorless,98.0,43.0,1214.0,7.0,B&M,Six Flags Great Adventure,status.operating,2,2012,Steel,Six Flags New England,Intamin,2000
+Bizarro,Steel,Floorless,98.0,43.0,1214.0,7.0,B&M,Six Flags Great Adventure,status.operating,2,2011,Steel,Six Flags New England,Intamin,2000
+Bizarro,Steel,Floorless,98.0,43.0,1214.0,7.0,B&M,Six Flags Great Adventure,status.operating,2,2010,Steel,Six Flags New England,Intamin,2000
+Bizarro,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,48,2016,Steel,Six Flags Great Adventure,B&M,1999
+Bizarro,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,2,2015,Steel,Six Flags New England,Intamin,2000
+Bizarro,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,44,2015,Steel,Six Flags Great Adventure,B&M,1999
+Bizarro,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,2,'14,Steel,Six Flags New England,Intamin,2000
+Bizarro,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,2,2013,Steel,Six Flags New England,Intamin,2000
+Bizarro,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,2,2012,Steel,Six Flags New England,Intamin,2000
+Bizarro,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,2,2011,Steel,Six Flags New England,Intamin,2000
+Bizarro,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,2,2010,Steel,Six Flags New England,Intamin,2000
+Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating,44,2022,Steel,Phantasialand,B&M,2006
+Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating,42,2021,Steel,Phantasialand,B&M,2006
+Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating,43,2019,Steel,Phantasialand,B&M,2006
+Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating,34,2018,Steel,Phantasialand,B&M,2006
+Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating,35,2017,Steel,Phantasialand,B&M,2006
+Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating,25,2016,Steel,Phantasialand,B&M,2006
+Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating,29,2015,Steel,Phantasialand,B&M,2006
+Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating,24,'14,Steel,Phantasialand,B&M,2006
+Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating,34,2013,Steel,Phantasialand,B & M,2006
+Black Mamba,Steel,Inverted,80.0,26.0,,4.0,B&M,Phantasialand,status.operating,49,2012,Steel,Phantasialand,B & M,2006
+Blue Fire,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,23,2019,Steel,Europa-Park,Mack,2009
+Blue Fire,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,19,2018,Steel,Europa-Park,Mack,2009
+Blue Fire,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,18,2017,Steel,Europa-Park,Mack,2006
+Blue Fire,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,14,2016,Steel,Europa-Park,Mack,2006
+Blue Fire,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,21,2013,Steel,Europa-Park,Mack,2009
+Blue Fire,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,32,2012,Steel,Europa-Park,Mack,2009
+Blue Fire,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,34,2011,Steel,Europa-Park,Mack,2009
+Blue Fire Megacoaster,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,33,2022,Steel,Europa-Park,Mack,2009
+Blue Fire Megacoaster,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,30,2021,Steel,Europa-Park,Mack,2009
+Blue Fire Megacoaster,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,17,2015,Steel,Europa-Park,Mack,2009
+Blue Fire Megacoaster,Steel,Sit Down,100.0,38.0,1056.0,4.0,Mack,Europa-Park,status.operating,17,'14,Steel,Europa-Park,Mack,2009
+Candymonium,Steel,Sit Down,122.0,64.0,1413.0,0.0,B&M,Hersheypark,status.operating,19,2022,Steel,Hersheypark,B&M,2020
+Candymonium,Steel,Sit Down,122.0,64.0,1413.0,0.0,B&M,Hersheypark,status.operating,5,2021,Steel,Hersheypark,B&M,2020
+Cannibal,Steel,Sit Down,113.0,64.0,835.0,4.0,ART Engineering,Lagoon,status.operating,48,2021,Steel,Lagoon,ART Engineering,2015
+Cannibal,Steel,Sit Down,113.0,64.0,835.0,4.0,ART Engineering,Lagoon,status.operating,41,2019,Steel,Lagoon,In-house/ART Eng.,2015
+Cannibal,Steel,Sit Down,113.0,64.0,835.0,4.0,ART Engineering,Lagoon,status.operating,44,2018,Steel,Lagoon,Lagoon,2015
+Cannibal,Steel,Sit Down,113.0,64.0,835.0,4.0,ART Engineering,Lagoon,status.operating,32,2017,Steel,Lagoon,Lagoon,2015
+Cannibal,Steel,Sit Down,113.0,64.0,835.0,4.0,ART Engineering,Lagoon,status.operating,42,2016,Steel,Lagoon,Lagoon,2015
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,17,2022,Steel,Kings Island,B&M,2009
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,19,2021,Steel,Kings Island,B&M,2009
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,14,2019,Steel,Kings Island,B&M,2009
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,10,2018,Steel,Kings Island,B&M,2009
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,8,2017,Steel,Kings Island,B&M,2009
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,9,2016,Steel,Kings Island,B&M,2009
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,11,2015,Steel,Kings Island,B&M,2009
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,4,'14,Steel,Kings Island,B&M,2009
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,14,2013,Steel,Kings Island,B & M,2009
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,10,2012,Steel,Kings Island,B & M,2009
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,11,2011,Steel,Kings Island,B & M,2009
+Diamondback,Steel,Sit Down,129.0,70.0,1610.0,0.0,B&M,Kings Island,status.operating,7,2010,Steel,Kings Island,B & M,2009
+Dominator,Steel,Floorless,105.0,48.0,1283.0,5.0,B&M,Kings Dominion,status.operating,47,2013,Steel,Kings Dominion,B & M,2008
+Dominator,Steel,Floorless,105.0,48.0,1283.0,5.0,B&M,Geauga Lake,status.closed.definitely,47,2013,Steel,Kings Dominion,B & M,2008
+Dragon Challenge,Steel,Inverted,97.0,38.0,975.0,5.0,B&M,Universal's Islands of Adventure,status.closed.definitely,35,2012,Steel,Universal's Islands of Adventure,B & M,1999
+Dragon Challenge,Steel,Inverted,97.0,38.0,975.0,5.0,B&M,Universal's Islands of Adventure,status.closed.definitely,28,2011,Steel,Universal's Islands of Adventure,B & M,1999
+Dragon Challenge,Steel,Inverted,97.0,38.0,975.0,5.0,B&M,Universal's Islands of Adventure,status.closed.definitely,31,2010,Steel,Universal's Islands of Adventure,B & M,1999
+Dragon Challenge,Steel,Sit Down,,,,0.0,Pinfari,Barry Island Pleasure Park,status.operating,35,2012,Steel,Universal's Islands of Adventure,B & M,1999
+Dragon Challenge,Steel,Sit Down,,,,0.0,Pinfari,Barry Island Pleasure Park,status.operating,28,2011,Steel,Universal's Islands of Adventure,B & M,1999
+Dragon Challenge,Steel,Sit Down,,,,0.0,Pinfari,Barry Island Pleasure Park,status.operating,31,2010,Steel,Universal's Islands of Adventure,B & M,1999
+Euro-Mir,Steel,Spinning,80.0,28.0,980.0,0.0,Mack,Europa-Park,status.operating,45,2017,Steel,Europa-Park,Mack,1997
+Euro-Mir,Steel,Spinning,80.0,28.0,980.0,0.0,Mack,Europa-Park,status.operating,40,2016,Steel,Europa-Park,Mack,1997
+Euro-Mir,Steel,Spinning,80.0,28.0,980.0,0.0,Mack,Europa-Park,status.operating,42,'14,Steel,Europa-Park,Mack,1997
+Euro-Mir,Steel,Spinning,80.0,28.0,980.0,0.0,Mack,Europa-Park,status.operating,50,2012,Steel,Europa-Park,Mack,1997
+Euro-Mir,Steel,Spinning,80.0,28.0,980.0,0.0,Mack,Europa-Park,status.operating,45,2010,Steel,Europa-Park,Mack,1997
+Expedition Everest,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,Disney's Animal Kingdom,status.operating,46,2018,Steel,Disney's Animal Kingdom,Vekoma,2006
+Expedition Everest,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,Disney's Animal Kingdom,status.operating,49,2017,Steel,Disney's Animal Kingdom,Vekoma,2006
+Expedition Everest,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,Disney's Animal Kingdom,status.operating,49,2016,Steel,Disney's Animal Kingdom,Vekoma,2006
+Expedition Everest,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,Disney's Animal Kingdom,status.operating,47,2015,Steel,Disney's Animal Kingdom,Vekoma,2006
+Expedition Everest,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,Disney's Animal Kingdom,status.operating,42,2013,Steel,Disney's Animal Kingdom,Vekoma/WED Imagineering,2006
+Expedition Everest,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,Disney's Animal Kingdom,status.operating,47,2011,Steel,Disney's Animal Kingdom,Vekoma/WED Imag.,2006
+Expedition Everest,Steel,Sit Down,80.0,34.0,1341.0,0.0,Vekoma,Disney's Animal Kingdom,status.operating,36,2010,Steel,Disney's Animal Kingdom,Vekoma/WED Imag.,2006
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,6,2022,Steel,Holiday Park,Intamin,2001
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,6,2021,Steel,Holiday Park,Intamin,2001
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,5,2019,Steel,Holiday Park,Intamin,2001
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,4,2018,Steel,Holiday Park,Intamin,2001
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,5,2017,Steel,Holiday Park,Intamin,2001
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,4,2016,Steel,Holiday Park,Intamin,2001
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,3,2015,Steel,Holiday Park,Intamin,2001
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,3,'14,Steel,Holiday Park,Intamin,2001
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,3,2013,Steel,Holiday Park,Intamin,2001
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,6,2012,Steel,Holiday Park,Intamin,2001
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,7,2011,Steel,Holiday Park,Intamin,2001
+Expedition GeForce,Steel,Sit Down,120.0,53.0,1220.0,0.0,Intamin,Holiday Park,status.operating,6,2010,Steel,Holiday Park,Intamin,2001
+Full Throttle,Steel,Sit Down,112.0,48.0,670.0,2.0,Premier Rides,Six Flags Magic Mountain,status.operating,45,2019,Steel,Six Flags Magic Mountain,Premier,2013
+Full Throttle,Steel,Sit Down,112.0,48.0,670.0,2.0,Premier Rides,Six Flags Magic Mountain,status.operating,50,2017,Steel,Six Flags Magic Mountain,Premier,2013
+Full Throttle,Steel,Sit Down,112.0,48.0,670.0,2.0,Premier Rides,Six Flags Magic Mountain,status.operating,39,'14,Steel,Six Flags Magic Mountain,Premier,2013
+Fury 325,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,Carowinds,status.operating,1,2022,Steel,Carowinds,B&M,2015
+Fury 325,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,Carowinds,status.operating,1,2021,Steel,Carowinds,B&M,2015
+Fury 325,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,Carowinds,status.operating,1,2019,Steel,Carowinds,B&M,2015
+Fury 325,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,Carowinds,status.operating,1,2018,Steel,Carowinds,B&M,2015
+Fury 325,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,Carowinds,status.operating,1,2017,Steel,Carowinds,B&M,2015
+Fury 325,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,Carowinds,status.operating,1,2016,Steel,Carowinds,B&M,2015
+Fury 325,Steel,Sit Down,153.0,99.0,2012.0,0.0,B&M,Carowinds,status.operating,4,2015,Steel,Carowinds,B&M,2015
+Galactica,Steel,Flying,75.0,20.0,840.0,3.0,B&M,Alton Towers,status.operating,38,2015,Steel,Alton Towers,B&M,2002
+GateKeeper,Steel,Wing,108.0,52.0,1269.0,6.0,B&M,Cedar Point,status.operating,49,2016,Steel,Cedar Point,B&M,2013
+GateKeeper,Steel,Wing,108.0,52.0,1269.0,6.0,B&M,Cedar Point,status.operating,32,'14,Steel,Cedar Point,B&M,2013
+GateKeeper,Steel,Wing,108.0,52.0,1269.0,6.0,B&M,Cedar Point,status.operating,28,2013,Steel,Cedar Point,B & M,2013
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,41,2022,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,28,2021,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,30,2019,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,49,2019,Steel,Six Flags Magic Mountain,B&M,2000
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,26,2018,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,41,2018,Steel,La Ronde,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,14,2017,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,41,2017,Steel,La Ronde,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,20,2016,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,31,2016,Steel,La Ronde,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,12,2015,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,36,2015,Steel,La Ronde,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,9,'14,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,26,'14,Steel,La Ronde,B&M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,43,'14,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,7,2013,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,23,2013,Steel,La Ronde,B & M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,41,2013,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,9,2012,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,25,2012,Steel,La Ronde,B & M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,41,2012,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,48,2012,Steel,Walabi Holland,Intamin,2002
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,4,2011,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,23,2011,Steel,La Ronde,B & M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,36,2011,Steel,Walabi Holland,Intamin,2002
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,40,2011,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,5,2010,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,29,2010,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,30,2010,Steel,La Ronde,B & M,2006
+Goliath,Wooden,Sit Down,115.0,55.0,950.0,2.0,RMC,Six Flags Great America,status.operating,41,2010,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,41,2022,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,28,2021,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,30,2019,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,49,2019,Steel,Six Flags Magic Mountain,B&M,2000
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,26,2018,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,41,2018,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,14,2017,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,41,2017,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,20,2016,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,31,2016,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,12,2015,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,36,2015,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,9,'14,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,26,'14,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,43,'14,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,7,2013,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,23,2013,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,41,2013,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,9,2012,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,25,2012,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,41,2012,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,48,2012,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,4,2011,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,23,2011,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,36,2011,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,40,2011,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,5,2010,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,29,2010,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,30,2010,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,137.0,71.0,1370.0,0.0,Giovanola,Six Flags Magic Mountain,status.operating,41,2010,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,41,2022,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,28,2021,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,30,2019,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,49,2019,Steel,Six Flags Magic Mountain,B&M,2000
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,26,2018,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,41,2018,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,14,2017,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,41,2017,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,20,2016,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,31,2016,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,12,2015,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,36,2015,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,9,'14,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,26,'14,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,43,'14,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,7,2013,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,23,2013,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,41,2013,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,9,2012,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,25,2012,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,41,2012,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,48,2012,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,4,2011,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,23,2011,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,36,2011,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,40,2011,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,5,2010,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,29,2010,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,30,2010,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,106.0,58.0,367.0,3.0,Vekoma,Six Flags New England,status.operating,41,2010,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,41,2022,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,28,2021,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,30,2019,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,49,2019,Steel,Six Flags Magic Mountain,B&M,2000
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,26,2018,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,41,2018,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,14,2017,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,41,2017,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,20,2016,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,31,2016,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,12,2015,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,36,2015,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,9,'14,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,26,'14,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,43,'14,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,7,2013,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,23,2013,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,41,2013,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,9,2012,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,25,2012,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,41,2012,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,48,2012,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,4,2011,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,23,2011,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,36,2011,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,40,2011,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,5,2010,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,29,2010,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,30,2010,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,106.0,47.0,1214.0,0.0,Intamin,Walabi Holland,status.operating,41,2010,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,41,2022,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,28,2021,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,30,2019,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,49,2019,Steel,Six Flags Magic Mountain,B&M,2000
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,26,2018,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,41,2018,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,14,2017,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,41,2017,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,20,2016,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,31,2016,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,12,2015,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,36,2015,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,9,'14,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,26,'14,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,43,'14,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,7,2013,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,23,2013,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,41,2013,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,9,2012,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,25,2012,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,41,2012,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,48,2012,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,4,2011,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,23,2011,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,36,2011,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,40,2011,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,5,2010,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,29,2010,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,30,2010,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,112.0,61.0,1365.0,0.0,B&M,Six Flags Over Georgia,status.operating,41,2010,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,41,2022,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,28,2021,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,30,2019,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,49,2019,Steel,Six Flags Magic Mountain,B&M,2000
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,26,2018,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,41,2018,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,14,2017,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,41,2017,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,20,2016,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,31,2016,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,12,2015,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,36,2015,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,9,'14,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,26,'14,Steel,La Ronde,B&M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,43,'14,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,7,2013,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,23,2013,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,41,2013,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,9,2012,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,25,2012,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,41,2012,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,48,2012,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,4,2011,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,23,2011,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,36,2011,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,40,2011,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,5,2010,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,29,2010,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,30,2010,Steel,La Ronde,B & M,2006
+Goliath,Steel,Sit Down,110.0,53.0,1231.0,0.0,B&M,La Ronde,status.operating,41,2010,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,41,2022,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,28,2021,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,30,2019,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,49,2019,Steel,Six Flags Magic Mountain,B&M,2000
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,26,2018,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,41,2018,Steel,La Ronde,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,14,2017,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,41,2017,Steel,La Ronde,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,20,2016,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,31,2016,Steel,La Ronde,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,12,2015,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,36,2015,Steel,La Ronde,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,9,'14,Steel,Six Flags Over Georgia,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,26,'14,Steel,La Ronde,B&M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,43,'14,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,7,2013,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,23,2013,Steel,La Ronde,B & M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,41,2013,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,9,2012,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,25,2012,Steel,La Ronde,B & M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,41,2012,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,48,2012,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,4,2011,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,23,2011,Steel,La Ronde,B & M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,36,2011,Steel,Walabi Holland,Intamin,2002
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,40,2011,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,5,2010,Steel,Six Flags Over Georgia,B & M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,29,2010,Steel,Six Flags Magic Mountain,Giovanola,2000
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,30,2010,Steel,La Ronde,B & M,2006
+Goliath,Steel,Inverted,80.0,32.0,823.0,5.0,B&M,Six Flags Fiesta Texas,status.operating,41,2010,Steel,Walabi Holland,Intamin,2002
+Griffon,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,Busch Gardens Williamsburg,status.operating,43,2018,Steel,Busch Gardens Williamsburg,B&M,2007
+Griffon,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,Busch Gardens Williamsburg,status.operating,48,2017,Steel,Busch Gardens Williamsburg,B&M,2007
+Griffon,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,Busch Gardens Williamsburg,status.operating,33,2015,Steel,Busch Gardens Williamsburg,B&M,2007
+Griffon,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,Busch Gardens Williamsburg,status.operating,33,'14,Steel,Busch Gardens Williamsburg,B&M,2007
+Griffon,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,Busch Gardens Williamsburg,status.operating,33,2013,Steel,Busch Gardens Williamsburg,B & M,2007
+Griffon,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,Busch Gardens Williamsburg,status.operating,26,2012,Steel,Busch Gardens Williamsburg,B & M,2007
+Griffon,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,Busch Gardens Williamsburg,status.operating,20,2011,Steel,Busch Gardens Williamsburg,B & M,2007
+Griffon,Steel,Floorless,120.0,62.0,950.0,2.0,B&M,Busch Gardens Williamsburg,status.operating,19,2010,Steel,Busch Gardens Williamsburg,B & M,2007
+Hagrid’s Magical Creatures Motorbike Adventure,Steel,Sit Down,80.0,,,0.0,Intamin,Universal's Islands of Adventure,status.operating,24,2022,Steel,Universal's Islands of Adventure,Intamin,2019
+Hagrid’s Magical Creatures Motorbike Adventure,Steel,Sit Down,80.0,,,0.0,Intamin,Universal's Islands of Adventure,status.operating,33,2021,Steel,Universal's Islands of Adventure,Intamin,2019
+Helix,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,Liseberg,status.operating,30,2022,Steel,Liseberg,Mack,2014
+Helix,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,Liseberg,status.operating,40,2021,Steel,Liseberg,Mack,2014
+Helix,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,Liseberg,status.operating,19,2019,Steel,Liseberg,Mack,2014
+Helix,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,Liseberg,status.operating,21,2018,Steel,Liseberg,Mack,2014
+Helix,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,Liseberg,status.operating,29,2017,Steel,Liseberg,Mack,2014
+Helix,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,Liseberg,status.operating,29,2016,Steel,Liseberg,Mack,2014
+Helix,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,Liseberg,status.operating,34,2015,Steel,Liseberg,Mack,2014
+Helix,Steel,Sit Down,100.0,41.0,1381.0,7.0,Mack,Liseberg,status.operating,30,'14,Steel,Liseberg,Mack,'14
+Incredible Hulk,Steel,Sit Down,107.0,33.0,1127.0,7.0,B&M,Universal's Islands of Adventure,status.operating,47,2012,Steel,Universal's Islands of Adventure,B & M,1999
+Incredible Hulk,Steel,Sit Down,107.0,33.0,1127.0,7.0,B&M,Universal's Islands of Adventure,status.operating,35,2011,Steel,Universal's Islands of Adventure,B & M,1999
+Incredible Hulk,Steel,Sit Down,107.0,33.0,1127.0,7.0,B&M,Universal's Islands of Adventure,status.operating,43,2010,Steel,Universal's Islands of Adventure,B & M,1999
+Incredicoaster,Steel,Sit Down,88.0,33.0,1850.0,1.0,Intamin,Disney California Adventure Park,status.operating,49,'14,Steel,Disney California Adventure Park,Intamin,2001
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,27,2022,Steel,Carowinds,B&M,2010
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,23,2021,Steel,Carowinds,B&M,2010
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,28,2019,Steel,Carowinds,B&M,2010
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,22,2018,Steel,Carowinds,B&M,2010
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,19,2017,Steel,Carowinds,B&M,2010
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,8,2016,Steel,Carowinds,B&M,2010
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,7,2015,Steel,Carowinds,B&M,2010
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,10,'14,Steel,Carowinds,B&M,2010
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,8,2013,Steel,Carowinds,B & M,2010
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,7,2012,Steel,Carowinds,B & M,2010
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,19,2011,Steel,Carowinds,B & M,2010
+Intimidator,Steel,Sit Down,120.0,71.0,1620.0,0.0,B&M,Carowinds,status.operating,21,2010,Steel,Carowinds,B & M,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,9,2022,Steel,Kings Dominion,Intamin,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,13,2021,Steel,Kings Dominion,Intamin,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,11,2019,Steel,Kings Dominion,Intamin,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,12,2018,Steel,Kings Dominion,Intamin,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,13,2017,Steel,Kings Dominion,Intamin,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,17,2016,Steel,Kings Dominion,Intamin,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,16,2015,Steel,Kings Dominion,Intamin,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,13,'14,Steel,Kings Dominion,Intamin,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,10,2013,Steel,Kings Dominion,Intamin,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,12,2012,Steel,Kings Dominion,IntaRide,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,13,2011,Steel,Kings Dominion,IntaRide,2010
+Intimidator 305,Steel,Sit Down,145.0,93.0,1555.0,0.0,Intamin,Kings Dominion,status.operating,11,2010,Steel,Kings Dominion,IntaRide,2010
+Iron Gwazi,Hybrid,Sit Down,76.0,65.0,1242.0,0.0,RMC,Busch Gardens Tampa,status.construction,4,2022,Steel,Busch Gardens Tampa,Rocky Mountain Const.,2022
+Iron Rattler,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,Six Flags Fiesta Texas,status.operating,14,2022,Steel,Six Flags Fiesta Texas,Rocky Mountain Const.,2013
+Iron Rattler,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,Six Flags Fiesta Texas,status.operating,12,2021,Steel,Six Flags Fiesta Texas,Rocky Mountain,2013
+Iron Rattler,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,Six Flags Fiesta Texas,status.operating,7,2019,Steel,Six Flags Fiesta Texas,Rocky Mountain,2013
+Iron Rattler,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,Six Flags Fiesta Texas,status.operating,7,2018,Steel,Six Flags Fiesta Texas,Rocky Mountain,2013
+Iron Rattler,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,Six Flags Fiesta Texas,status.operating,4,2017,Steel,Six Flags Fiesta Texas,RMC,2013
+Iron Rattler,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,Six Flags Fiesta Texas,status.operating,21,2016,Steel,Six Flags Fiesta Texas,RMC,2013
+Iron Rattler,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,Six Flags Fiesta Texas,status.operating,19,2015,Steel,Six Flags Fiesta Texas,Rocky Mountain,2013
+Iron Rattler,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,Six Flags Fiesta Texas,status.operating,12,'14,Steel,Six Flags Fiesta Texas,Rocky Mountain,2013
+Iron Rattler,Hybrid,Sit Down,113.0,55.0,996.0,1.0,RMC,Six Flags Fiesta Texas,status.operating,11,2013,Steel,Six Flags Fiesta Texas,Rocky Mountain,2013
+Jetline,Steel,Sit Down,90.0,32.0,800.0,0.0,Schwarzkopf,Gröna Lund,status.operating,48,2022,Steel,Gröna Lund,Schwarzkopf,1988
+Jetline,Steel,Sit Down,90.0,32.0,800.0,0.0,Schwarzkopf,Gröna Lund,status.operating,46,2021,Steel,Gröna Lund,Schwarzkopf,1988
+Jetline,Steel,Sit Down,90.0,32.0,800.0,0.0,Schwarzkopf,Gröna Lund,status.operating,39,2018,Steel,Gröna Lund,Schwarzkopf,1988
+Jurassic World VelociCoaster,Steel,Sit Down,70.0,47.24,1432.56,4.0,Intamin,Universal's Islands of Adventure,status.operating,5,2022,Steel,Universal's Islands of Adventure,Intamin,2021
+Jurassic World VelociCoaster,Steel,Sit Down,70.0,47.24,1432.56,4.0,Intamin,Universal's Islands of Adventure,status.operating,18,2021,Steel,Universal's Islands of Adventure,Intamin,2021
+Katun,Steel,Inverted,104.0,50.0,1200.0,6.0,B&M,Mirabilandia,status.operating,50,2010,Steel,Mirabilandia,B & M,2000
+Kingda Ka,Steel,Sit Down,206.0,139.0,950.0,0.0,Intamin,Six Flags Great Adventure,status.operating,49,2015,Steel,Six Flags Great Adventure,Intamin,2005
+Kingda Ka,Steel,Sit Down,206.0,139.0,950.0,0.0,Intamin,Six Flags Great Adventure,status.operating,45,'14,Steel,Six Flags Great Adventure,Intamin,2005
+Kingda Ka,Steel,Sit Down,206.0,139.0,950.0,0.0,Intamin,Six Flags Great Adventure,status.operating,35,2013,Steel,Six Flags Great Adventure,Intamin,2005
+Kingda Ka,Steel,Sit Down,206.0,139.0,950.0,0.0,Intamin,Six Flags Great Adventure,status.operating,38,2012,Steel,Six Flags Great Adventure,Intamin,2005
+Kingda Ka,Steel,Sit Down,206.0,139.0,950.0,0.0,Intamin,Six Flags Great Adventure,status.operating,33,2011,Steel,Six Flags Great Adventure,Intamin,2005
+Kingda Ka,Steel,Sit Down,206.0,139.0,950.0,0.0,Intamin,Six Flags Great Adventure,status.operating,27,2010,Steel,Six Flags Great Adventure,Intamin,2005
+Kraken,Steel,Floorless,105.0,46.0,1273.0,7.0,B&M,SeaWorld Orlando,status.operating,48,2013,Steel,SeaWorld Orlando,B & M,2000
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,40,2019,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,37,2018,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,41,2017,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,42,2016,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,42,2016,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,38,2015,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,36,'14,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,27,2013,Steel,Busch Gardens Tampa,B & M,1993
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,23,2012,Steel,Busch Gardens Tampa,B & M,1993
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,31,2011,Steel,Busch Gardens Tampa,B & M,1993
+Kumba,Steel,Sit Down,96.0,43.0,1210.0,7.0,B&M,Busch Gardens Tampa,status.operating,24,2010,Steel,Busch Gardens Tampa,B & M,1993
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating,40,2019,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating,37,2018,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating,41,2017,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating,42,2016,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating,42,2016,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating,38,2015,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating,36,'14,Steel,Busch Gardens Tampa,B&M,1993
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating,27,2013,Steel,Busch Gardens Tampa,B & M,1993
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating,23,2012,Steel,Busch Gardens Tampa,B & M,1993
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating,31,2011,Steel,Busch Gardens Tampa,B & M,1993
+Kumba,Steel,Inverted,80.0,33.0,689.0,5.0,Vekoma,Superland,status.operating,24,2010,Steel,Busch Gardens Tampa,B & M,1993
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,15,2022,Steel,Canada's Wonderland,B&M,2012
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,8,2021,Steel,Canada's Wonderland,B&M,2012
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,8,2021,Steel,Canada's Wonderland,B&M,2012
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,9,2019,Steel,Canada's Wonderland,B&M,2012
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,8,2018,Steel,Canada's Wonderland,B&M,2012
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,6,2017,Steel,Canada's Wonderland,B&M,2012
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,7,2016,Steel,Canada's Wonderland,B&M,2012
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,8,2015,Steel,Canada's Wonderland,B&M,2012
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,6,'14,Steel,Canada's Wonderland,B&M,2012
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,15,2013,Steel,Canada's Wonderland,B & M,2012
+Leviathan,Steel,Sit Down,148.0,93.0,1672.0,0.0,B&M,Canada's Wonderland,status.operating,22,2012,Steel,Canada's Wonderland,B & M,2012
+Lightning Rod,Wooden,Sit Down,118.0,50.0,1158.0,0.0,RMC,Dollywood,status.operating,11,2022,Steel,Dollywood,Rocky Mountain Const.,2016
+Lightning Rod,Wooden,Sit Down,118.0,50.0,1158.0,0.0,RMC,Dollywood,status.operating,7,2021,Steel,Dollywood,Rocky Mountain,2016
+Lightning Run,Steel,Sit Down,90.0,31.0,765.0,0.0,Chance Rides,Kentucky Kingdom,status.operating,41,2017,Steel,Kentucky Kingdom,Chance,2014
+Lightning Run,Steel,Sit Down,90.0,31.0,765.0,0.0,Chance Rides,Kentucky Kingdom,status.operating,44,2016,Steel,Kentucky Kingdom,Chance,2014
+Lightning Run,Steel,Sit Down,90.0,31.0,765.0,0.0,Chance Rides,Kentucky Kingdom,status.operating,38,2015,Steel,Kentucky Kingdom,Chance,2014
+Lightning Run,Steel,Sit Down,90.0,31.0,765.0,0.0,Chance Rides,Kentucky Kingdom,status.operating,25,'14,Steel,Kentucky Kingdom,Chance,'14
+Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating,50,2021,Steel,Liseberg,Schwarzkopf,1987
+Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating,47,2019,Steel,Liseberg,Schwarzkopf,1987
+Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating,42,2018,Steel,Liseberg,Schwarzkopf,1987
+Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating,40,2017,Steel,Liseberg,Schwarz,1987
+Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating,38,2016,Steel,Liseberg,Schwarz,1987
+Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating,35,2015,Steel,Liseberg,Schwarzkopf,1987
+Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating,35,'14,Steel,Liseberg,Schwarzkopf,1987
+Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating,48,2013,Steel,Liseberg,Schwarzkopf,1987
+Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating,33,2012,Steel,Liseberg,Schwarzkopf,1987
+Lisebergbanan,Steel,Sit Down,80.0,45.0,1548.0,0.0,Schwarzkopf,Liseberg,status.operating,49,2011,Steel,Liseberg,Schwarzkopf,1987
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,25,2022,Steel,Cedar Point,Arrow,1989
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,20,2021,Steel,Cedar Point,Arrow,1989
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,18,2019,Steel,Cedar Point,Arrow,1989
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,14,2018,Steel,Cedar Point,Arrow,1989
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,23,2017,Steel,Cedar Point,Arrow,1989
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,15,2016,Steel,Cedar Point,Arrow,1989
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,15,2015,Steel,Cedar Point,Arrow,1999
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,13,'14,Steel,Cedar Point,Arrow,1989
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,9,2013,Steel,Cedar Point,Arrow,1989
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,8,2012,Steel,Cedar Point,Arrow,1989
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,10,2011,Steel,Cedar Point,Arrow,1989
+Magnum XL-200,Steel,Sit Down,116.0,63.0,1556.0,0.0,Arrow,Cedar Point,status.operating,8,2010,Steel,Cedar Point,Arrow,1989
+Mako,Steel,Sit Down,115.0,61.0,1450.0,0.0,B&M,SeaWorld Orlando,status.operating,16,2022,Steel,SeaWorld Orlando,B&M,2016
+Mako,Steel,Sit Down,115.0,61.0,1450.0,0.0,B&M,SeaWorld Orlando,status.operating,17,2021,Steel,SeaWorld Orlando,B&M,2016
+Mako,Steel,Sit Down,115.0,61.0,1450.0,0.0,B&M,SeaWorld Orlando,status.operating,15,2019,Steel,SeaWorld Orlando,B&M,2016
+Mako,Steel,Sit Down,115.0,61.0,1450.0,0.0,B&M,SeaWorld Orlando,status.operating,17,2018,Steel,SeaWorld Orlando,B&M,2016
+Mako,Steel,Sit Down,115.0,61.0,1450.0,0.0,B&M,SeaWorld Orlando,status.operating,31,2017,Steel,SeaWorld Orlando,B&M,2016
+Mako,Steel,Sit Down,115.0,61.0,1450.0,0.0,B&M,SeaWorld Orlando,status.operating,35,2016,Steel,SeaWorld Orlando,B&M,2016
+Mako,Steel,Sit Down,,47.0,,0.0,B&M,SeaWorld San Diego,status.announced,16,2022,Steel,SeaWorld Orlando,B&M,2016
+Mako,Steel,Sit Down,,47.0,,0.0,B&M,SeaWorld San Diego,status.announced,17,2021,Steel,SeaWorld Orlando,B&M,2016
+Mako,Steel,Sit Down,,47.0,,0.0,B&M,SeaWorld San Diego,status.announced,15,2019,Steel,SeaWorld Orlando,B&M,2016
+Mako,Steel,Sit Down,,47.0,,0.0,B&M,SeaWorld San Diego,status.announced,17,2018,Steel,SeaWorld Orlando,B&M,2016
+Mako,Steel,Sit Down,,47.0,,0.0,B&M,SeaWorld San Diego,status.announced,31,2017,Steel,SeaWorld Orlando,B&M,2016
+Mako,Steel,Sit Down,,47.0,,0.0,B&M,SeaWorld San Diego,status.announced,35,2016,Steel,SeaWorld Orlando,B&M,2016
+Mamba,Steel,Sit Down,120.0,63.0,1700.0,0.0,Morgan,Worlds of Fun,status.operating,50,2011,Steel,Worlds of Fun,Morgan,1998
+Mamba,Steel,Sit Down,120.0,63.0,1700.0,0.0,Morgan,Worlds of Fun,status.operating,38,2010,Steel,Worlds of Fun,Morgan,1998
+Manta,Steel,Flying,97.0,43.0,1024.0,4.0,B&M,SeaWorld Orlando,status.operating,43,2015,Steel,SeaWorld Orlando,B&M,2009
+Manta,Steel,Flying,97.0,43.0,1024.0,4.0,B&M,SeaWorld Orlando,status.operating,41,'14,Steel,SeaWorld Orlando,B&M,2009
+Manta,Steel,Flying,97.0,43.0,1024.0,4.0,B&M,SeaWorld Orlando,status.operating,34,2012,Steel,SeaWorld Orlando,B & M,2009
+Manta,Steel,Flying,97.0,43.0,1024.0,4.0,B&M,SeaWorld Orlando,status.operating,45,2011,Steel,SeaWorld Orlando,B & M,2009
+Manta,Steel,Flying,97.0,43.0,1024.0,4.0,B&M,SeaWorld Orlando,status.operating,33,2010,Steel,SeaWorld Orlando,B & M,2009
+Manta,Steel,Sit Down,70.0,9.0,850.0,0.0,Mack,SeaWorld San Diego,status.operating,43,2015,Steel,SeaWorld Orlando,B&M,2009
+Manta,Steel,Sit Down,70.0,9.0,850.0,0.0,Mack,SeaWorld San Diego,status.operating,41,'14,Steel,SeaWorld Orlando,B&M,2009
+Manta,Steel,Sit Down,70.0,9.0,850.0,0.0,Mack,SeaWorld San Diego,status.operating,34,2012,Steel,SeaWorld Orlando,B & M,2009
+Manta,Steel,Sit Down,70.0,9.0,850.0,0.0,Mack,SeaWorld San Diego,status.operating,45,2011,Steel,SeaWorld Orlando,B & M,2009
+Manta,Steel,Sit Down,70.0,9.0,850.0,0.0,Mack,SeaWorld San Diego,status.operating,33,2010,Steel,SeaWorld Orlando,B & M,2009
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,10,2022,Steel,Cedar Point,Intamin,2007
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,9,2021,Steel,Cedar Point,Intamin,2007
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,13,2019,Steel,Cedar Point,Intamin,2007
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,9,2018,Steel,Cedar Point,Intamin,2007
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,10,2017,Steel,Cedar Point,Intamin,2007
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,12,2016,Steel,Cedar Point,Intamin,2007
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,22,2015,Steel,Cedar Point,Intamin,2007
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,28,'14,Steel,Cedar Point,Intamin,2007
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,22,2013,Steel,Cedar Point,Intamin,2007
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,21,2012,Steel,Cedar Point,Intamin,2007
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,21,2011,Steel,Cedar Point,Intamin,2007
+Maverick,Steel,Sit Down,113.0,32.0,1356.0,2.0,Intamin,Cedar Point,status.operating,21,2010,Steel,Cedar Point,Intamin,2007
+Medusa Steel Coaster,Hybrid,Sit Down,93.0,36.0,910.0,3.0,RMC,Six Flags Mexico,status.operating,37,2017,Steel,Six Flags Mexico,RMC,2014
+Medusa Steel Coaster,Hybrid,Sit Down,93.0,36.0,910.0,3.0,RMC,Six Flags Mexico,status.operating,40,2016,Steel,Six Flags Mexico,RMC,2014
+Medusa Steel Coaster,Hybrid,Sit Down,93.0,36.0,910.0,3.0,RMC,Six Flags Mexico,status.operating,49,2015,Steel,Six Flags Mexico,Rocky Mountain,2014
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,3,2022,Steel,Cedar Point,Intamin,2000
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,2,2021,Steel,Cedar Point,Intamin,2000
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,2,2019,Steel,Cedar Point,Intamin,2000
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,2,2018,Steel,Cedar Point,Intamin,2000
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,2,2017,Steel,Cedar Point,Intamin,2000
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,2,2016,Steel,Cedar Point,Intamin,2000
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,1,2015,Steel,Cedar Point,Intamin,2000
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,1,'14,Steel,Cedar Point,Intamin,2000
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,1,2013,Steel,Cedar Point,Intamin,2000
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,1,2012,Steel,Cedar Point,Intamin,2000
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,1,2011,Steel,Cedar Point,Intamin,2000
+Millennium Force,Steel,Sit Down,150.0,94.0,2010.0,0.0,Intamin,Cedar Point,status.operating,1,2010,Steel,Cedar Point,Intamin,2000
+Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating,25,2021,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating,25,2019,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating,25,2018,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating,26,2017,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating,27,2016,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating,27,2015,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating,20,'14,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating,19,2013,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating,20,2012,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mind Bender,Steel,Sit Down,81.0,25.0,992.0,2.0,Schwarzkopf,Six Flags Over Georgia,status.operating,17,2011,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mindbender,Steel,Sit Down,97.0,44.0,1280.0,3.0,Schwarzkopf,Galaxyland,status.operating,28,2022,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mindbender,Steel,Sit Down,97.0,44.0,1280.0,3.0,Schwarzkopf,Galaxyland,status.operating,14,2010,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mindbender,Steel,Sit Down,97.0,44.0,1280.0,3.0,Schwarzkopf,Galaxyland,status.operating,48,2010,Steel,Galaxyland,Schwarzkopf,1985
+Mindbender,Steel,Sit Down,97.0,44.0,1280.0,3.0,Schwarzkopf,Six Flags Over Georgia,status.operating,28,2022,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mindbender,Steel,Sit Down,97.0,44.0,1280.0,3.0,Schwarzkopf,Six Flags Over Georgia,status.operating,14,2010,Steel,Six Flags Over Georgia,Schwarzkopf,1978
+Mindbender,Steel,Sit Down,97.0,44.0,1280.0,3.0,Schwarzkopf,Six Flags Over Georgia,status.operating,48,2010,Steel,Galaxyland,Schwarzkopf,1985
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,29,2022,Steel,Busch Gardens Tampa,B&M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,22,2021,Steel,Busch Gardens Tampa,B&M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,30,2019,Steel,Busch Gardens Tampa,B&M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,28,2018,Steel,Busch Gardens Tampa,B&M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,28,2018,Steel,Busch Gardens Tampa,B&M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,27,2017,Steel,Busch Gardens Tampa,B&M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,22,2016,Steel,Busch Gardens Tampa,B&M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,24,2015,Steel,Busch Gardens Tampa,B&M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,22,'14,Steel,Busch Gardens Tampa,B&M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,18,2013,Steel,Busch Gardens Tampa,B & M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,14,2012,Steel,Busch Gardens Tampa,B & M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,14,2011,Steel,Busch Gardens Tampa,B & M,1996
+Montu,Steel,Inverted,96.0,46.0,1214.0,7.0,B&M,Busch Gardens Tampa,status.operating,12,2010,Steel,Busch Gardens Tampa,B & M,1996
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,31,2022,Steel,Alton Towers,B&M,1994
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,32,2021,Steel,Alton Towers,B&M,1994
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,16,2019,Steel,Alton Towers,B&M,1994
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,20,2018,Steel,Alton Towers,B&M,1994
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,20,2017,Steel,Alton Towers,B&M,1994
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,11,2016,Steel,Alton Towers,B&M,1994
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,9,2015,Steel,Alton Towers,B&M,1994
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,21,'14,Steel,Alton Towers,B&M,1994
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,20,2013,Steel,Alton Towers,B & M,1994
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,16,2012,Steel,Alton Towers,B & M,1994
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,12,2011,Steel,Alton Towers,B & M,1994
+Nemesis,Steel,Inverted,81.0,13.0,716.0,4.0,B&M,Alton Towers,status.operating,18,2010,Steel,Alton Towers,B & M,1994
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,42,2022,Steel,Six Flags Over Texas,Rocky Mountain Const.,2011
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,36,2021,Steel,Six Flags Over Texas,Rocky Mountain,2011
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,26,2019,Steel,Six Flags Over Texas,Rocky Mountain,2011
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,23,2018,Steel,Six Flags Over Texas,Rocky Mountain,2011
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,9,2017,Steel,Six Flags Over Texas,RMC,2011
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,16,2016,Steel,Six Flags Over Texas,RMC,2011
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,10,2015,Steel,Six Flags Over Texas,Rocky Mountain,2011
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,8,'14,Steel,Six Flags Over Texas,Rocky Mountain,2011
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,6,2013,Steel,Six Flags Over Texas,Rocky Mountain,2011
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,5,2012,Steel,Six Flags Over Texas,Rocky Mountain,2011
+New Texas Giant,Hybrid,Sit Down,105.0,47.0,1280.0,0.0,RMC,Six Flags Over Texas,status.operating,6,2011,Steel,Six Flags Over Texas,Rocky Mountain,2011
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,21,2022,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,14,2021,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,10,2019,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,11,2018,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,7,2017,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,5,2016,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,5,2015,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,5,'14,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,4,2013,Steel,Six Flags Great Adventure,B & M,2001
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,3,2012,Steel,Six Flags Great Adventure,B & M,2001
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,3,2011,Steel,Six Flags Great Adventure,B & M,2001
+Nitro,na,Floorless,105.0,40.0,854.0,5.0,B&M,Adlabs Imagica,status.operating,3,2010,Steel,Six Flags Great Adventure,B & M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,21,2022,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,14,2021,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,10,2019,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,11,2018,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,7,2017,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,5,2016,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,5,2015,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,5,'14,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,4,2013,Steel,Six Flags Great Adventure,B & M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,3,2012,Steel,Six Flags Great Adventure,B & M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,3,2011,Steel,Six Flags Great Adventure,B & M,2001
+Nitro,Steel,Sit Down,50.0,10.0,460.0,0.0,Preston & Barbieri,Dennlys Parc,status.operating,3,2010,Steel,Six Flags Great Adventure,B & M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,21,2022,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,14,2021,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,10,2019,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,11,2018,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,7,2017,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,5,2016,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,5,2015,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,5,'14,Steel,Six Flags Great Adventure,B&M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,4,2013,Steel,Six Flags Great Adventure,B & M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,3,2012,Steel,Six Flags Great Adventure,B & M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,3,2011,Steel,Six Flags Great Adventure,B & M,2001
+Nitro,Steel,Sit Down,128.0,70.0,1644.0,0.0,B&M,Six Flags Great Adventure,status.operating,3,2010,Steel,Six Flags Great Adventure,B & M,2001
+Olympia Looping,Steel,Sit Down,80.0,38.0,1250.0,5.0,Schwarzkopf,Weiner Prater,status.operating,46,2016,Steel,Weiner Prater,Schwarzkopf,1989
+Olympia Looping,Steel,Sit Down,80.0,38.0,1250.0,5.0,Schwarzkopf,Weiner Prater,status.operating,48,2015,Steel,Weiner Prater,Schwarzkopf,1989
+Olympia Looping,Steel,Sit Down,80.0,38.0,1250.0,5.0,Schwarzkopf,Weiner Prater,status.operating,45,2013,Steel,Weiner Prater,Schwarzkopf,1989
+Olympia Looping,Steel,Sit Down,80.0,38.0,1250.0,5.0,Schwarzkopf,Weiner Prater,status.operating,45,2011,Steel,Weiner Prater,Schwarzkopf,1989
+Orion,Steel,Sit Down,91.0,87.4,1621.0,0.0,B&M,Kings Island,status.operating,20,2022,Steel,Kings Island,B&M,2020
+Orion,Steel,Sit Down,91.0,87.4,1621.0,0.0,B&M,Kings Island,status.operating,31,2021,Steel,Kings Island,B&M,2020
+Pantheon,Steel,Sit Down,117.0,54.0,,2.0,Intamin,Busch Gardens Williamsburg,status.operating,43,2022,Steel,Busch Gardens Williamsburg,Intamin,2022
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,13,2022,Steel,Kennywood,Morgan/Arrow,2001
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,15,2021,Steel,Kennywood,Morgan/Arrow,2001
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,12,2019,Steel,Kennywood,Arrow/Morgan,2001
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,13,2018,Steel,Kennywood,Morgan/Arrow,2001
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,12,2017,Steel,Kennywood,Morgan,2001
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,10,2016,Steel,Kennywood,Morgan,2001
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,14,2015,Steel,Kennywood,Morgan,2001
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,11,'14,Steel,Kennywood,Morgan,2001
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,13,2013,Steel,Kennywood,Morgan/Arrow,2001
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,11,2012,Steel,Kennywood,Morgan/Arrow,2001
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,5,2011,Steel,Kennywood,B & M,2001
+Phantom's Revenge,Steel,Sit Down,132.0,70.0,975.0,0.0,Arrow,Kennywood,status.operating,9,2010,Steel,Kennywood,Morgan/Arrow,2001
+Piraten,Steel,Sit Down,90.0,32.0,755.0,0.0,Intamin,Djurs Sommerland,status.operating,46,'14,Steel,Djurs Sommerland,Intamin,2008
+Piraten,Steel,Sit Down,90.0,32.0,755.0,0.0,Intamin,Djurs Sommerland,status.operating,37,2012,Steel,Djurs Sommerland,Intamin,2008
+Piraten,Steel,Sit Down,90.0,32.0,755.0,0.0,Intamin,Djurs Sommerland,status.operating,32,2011,Steel,Djurs Sommerland,Intamin,2008
+PowderKeg,Steel,Sit Down,100.0,30.0,1068.0,0.0,S&S,Silver Dollar City,status.operating,42,2013,Steel,Silver Dollar City,S & S,2005
+PowderKeg,Steel,Sit Down,100.0,30.0,1068.0,0.0,S&S,Silver Dollar City,status.operating,46,2012,Steel,Silver Dollar City,S & S,2005
+PowderKeg,Steel,Sit Down,100.0,30.0,1068.0,0.0,S&S,Silver Dollar City,status.operating,37,2011,Steel,Silver Dollar City,S & S,2005
+PowderKeg,Steel,Sit Down,100.0,30.0,1068.0,0.0,S&S,Silver Dollar City,status.operating,34,2010,Steel,Silver Dollar City,S & S,2005
+Quimera,Steel,Sit Down,85.0,34.0,1050.0,3.0,Schwarzkopf,La Feria,status.operating,38,2017,Steel,La Feria,Schwarzkopf,2007
+Quimera,Steel,Sit Down,85.0,34.0,1050.0,3.0,Schwarzkopf,La Feria,status.operating,38,2017,Steel,La Feria,Schwarzkopf,2007
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,38,2022,Steel,Six Flags Great America,B&M,1999
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,44,2021,Steel,Six Flags Great America,B&M,1999
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,46,2019,Steel,Six Flags Great America,B&M,1999
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,48,2018,Steel,Six Flags Great America,B&M,1999
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,34,2017,Steel,Six Flags Great America,B&M,1999
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,32,2016,Steel,Six Flags Great America,B&M,1999
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,31,2015,Steel,Six Flags Great America,B&M,1999
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,31,'14,Steel,Six Flags Great America,B&M,1999
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,31,2013,Steel,Six Flags Great America,B & M,1999
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,19,2012,Steel,Six Flags Great America,B & M,1999
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,24,2011,Steel,Six Flags Great America,B & M,1999
+Raging Bull,Steel,Sit Down,118.0,62.0,1542.0,0.0,B&M,Six Flags Great America,status.operating,16,2010,Steel,Six Flags Great America,B & M,1999
+Raptor,na,Inverted,,,,,Vekoma,Fantasilandia,status.operating,48,2021,Steel,Cedar Point,B&M,1994
+Raptor,na,Inverted,,,,,Vekoma,Fantasilandia,status.operating,47,2016,Steel,Cedar Point,B&M,1994
+Raptor,na,Inverted,,,,,Vekoma,Fantasilandia,status.operating,47,'14,Steel,Cedar Point,B&M,1994
+Raptor,na,Inverted,,,,,Vekoma,Fantasilandia,status.operating,30,2013,Steel,Cedar Point,B & M,1994
+Raptor,na,Inverted,,,,,Vekoma,Fantasilandia,status.operating,31,2012,Steel,Cedar Point,B & M,1994
+Raptor,na,Inverted,,,,,Vekoma,Fantasilandia,status.operating,18,2011,Steel,Cedar Point,B & M,1994
+Raptor,na,Inverted,,,,,Vekoma,Fantasilandia,status.operating,24,2010,Steel,Cedar Point,B & M,1994
+Raptor,Steel,Wing,90.0,33.0,770.0,3.0,B&M,Gardaland,status.operating,48,2021,Steel,Cedar Point,B&M,1994
+Raptor,Steel,Wing,90.0,33.0,770.0,3.0,B&M,Gardaland,status.operating,47,2016,Steel,Cedar Point,B&M,1994
+Raptor,Steel,Wing,90.0,33.0,770.0,3.0,B&M,Gardaland,status.operating,47,'14,Steel,Cedar Point,B&M,1994
+Raptor,Steel,Wing,90.0,33.0,770.0,3.0,B&M,Gardaland,status.operating,30,2013,Steel,Cedar Point,B & M,1994
+Raptor,Steel,Wing,90.0,33.0,770.0,3.0,B&M,Gardaland,status.operating,31,2012,Steel,Cedar Point,B & M,1994
+Raptor,Steel,Wing,90.0,33.0,770.0,3.0,B&M,Gardaland,status.operating,18,2011,Steel,Cedar Point,B & M,1994
+Raptor,Steel,Wing,90.0,33.0,770.0,3.0,B&M,Gardaland,status.operating,24,2010,Steel,Cedar Point,B & M,1994
+Raptor,Steel,Inverted,92.0,42.0,1155.0,6.0,B&M,Cedar Point,status.operating,48,2021,Steel,Cedar Point,B&M,1994
+Raptor,Steel,Inverted,92.0,42.0,1155.0,6.0,B&M,Cedar Point,status.operating,47,2016,Steel,Cedar Point,B&M,1994
+Raptor,Steel,Inverted,92.0,42.0,1155.0,6.0,B&M,Cedar Point,status.operating,47,'14,Steel,Cedar Point,B&M,1994
+Raptor,Steel,Inverted,92.0,42.0,1155.0,6.0,B&M,Cedar Point,status.operating,30,2013,Steel,Cedar Point,B & M,1994
+Raptor,Steel,Inverted,92.0,42.0,1155.0,6.0,B&M,Cedar Point,status.operating,31,2012,Steel,Cedar Point,B & M,1994
+Raptor,Steel,Inverted,92.0,42.0,1155.0,6.0,B&M,Cedar Point,status.operating,18,2011,Steel,Cedar Point,B & M,1994
+Raptor,Steel,Inverted,92.0,42.0,1155.0,6.0,B&M,Cedar Point,status.operating,24,2010,Steel,Cedar Point,B & M,1994
+Revenge of the Mummy,Steel,Sit Down,65.0,14.0,670.0,0.0,Premier Rides,Universal's Islands of Adventure,status.operating,48,2010,Steel,Universal's Islands of Adventure,Premier Rides,2004
+Ride of Steel,Steel,Sit Down,112.0,63.0,1645.0,0.0,Intamin,Six Flags Darien Lake,status.operating,43,2012,Steel,Six Flags Darien Lake,Intamin,1999
+Ride of Steel,Steel,Sit Down,112.0,63.0,1645.0,0.0,Intamin,Six Flags Darien Lake,status.operating,29,2011,Steel,Six Flags Darien Lake,Intamin,1999
+Ride of Steel,Steel,Sit Down,112.0,63.0,1645.0,0.0,Intamin,Six Flags Darien Lake,status.operating,26,2010,Steel,Six Flags Darien Lake,Intamin,1999
+Shambhala,Steel,Sit Down,134.0,76.0,1564.0,0.0,B&M,PortAventura,status.operating,49,2022,Steel,PortAventura,B&M,2012
+Shambhala,Steel,Sit Down,134.0,76.0,1564.0,0.0,B&M,PortAventura,status.operating,45,2018,Steel,PortAventura,B&M,2012
+Shambhala,Steel,Sit Down,134.0,76.0,1564.0,0.0,B&M,Port Aventura,status.operating,49,2022,Steel,PortAventura,B&M,2012
+Shambhala,Steel,Sit Down,134.0,76.0,1564.0,0.0,B&M,Port Aventura,status.operating,45,2018,Steel,PortAventura,B&M,2012
+SheiKra,Steel,Floorless,113.0,61.0,972.0,1.0,B&M,Busch Gardens Tampa,status.operating,42,2015,Steel,Busch Gardens Tampa,B&M,2005
+SheiKra,Steel,Floorless,113.0,61.0,972.0,1.0,B&M,Busch Gardens Tampa,status.operating,38,'14,Steel,Busch Gardens Tampa,B&M,2005
+SheiKra,Steel,Floorless,113.0,61.0,972.0,1.0,B&M,Busch Gardens Tampa,status.operating,32,2013,Steel,Busch Gardens Tampa,B & M,2005
+SheiKra,Steel,Floorless,113.0,61.0,972.0,1.0,B&M,Busch Gardens Tampa,status.operating,30,2012,Steel,Busch Gardens Tampa,B & M,2005
+SheiKra,Steel,Floorless,113.0,61.0,972.0,1.0,B&M,Busch Gardens Tampa,status.operating,22,2011,Steel,Busch Gardens Tampa,B & M,2005
+SheiKra,Steel,Floorless,113.0,61.0,972.0,1.0,B&M,Busch Gardens Tampa,status.operating,19,2010,Steel,Busch Gardens Tampa,B & M,2005
+Shock Wave,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,Six Flags Over Texas,status.operating,47,2022,Steel,Six Flags Over Texas,Schwarzkopf,1978
+Shock Wave,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,Six Flags Over Texas,status.operating,47,2021,Steel,Six Flags Over Texas,Schwarzkopf,1978
+Shock Wave,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,Six Flags Over Texas,status.operating,46,2017,Steel,Six Flags Over Texas,Schwarzkopf,1978
+Shock Wave,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,Six Flags Over Texas,status.operating,41,2015,Steel,Six Flags Over Texas,Schwarzkopf,1978
+Shock Wave,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,Six Flags Over Texas,status.operating,40,'14,Steel,Six Flags Over Texas,Schwarzkopf,1978
+Shock Wave,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,Six Flags Over Texas,status.operating,29,2013,Steel,Six Flags Over Texas,Schwarzkopf,1978
+Shock Wave,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,Six Flags Over Texas,status.operating,26,2012,Steel,Six Flags Over Texas,Schwarzkopf,1978
+Shock Wave,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,Six Flags Over Texas,status.operating,42,2011,Steel,Six Flags Over Texas,Schwarzkopf,1978
+Shock Wave,Steel,Sit Down,96.0,35.0,1097.0,2.0,Schwarzkopf,Six Flags Over Texas,status.operating,37,2010,Steel,Six Flags Over Texas,Schwarzkopf,1978
+Sky Rocket,na,Sit Down,100.0,45.0,263.0,1.0,Premier Rides,Chimelong Paradise,status.operating,44,2011,Steel,Kennywood,Premier Rides,2010
+Sky Rocket,na,Sit Down,100.0,45.0,263.0,1.0,Premier Rides,Chimelong Paradise,status.operating,17,2010,Steel,Kennywood,Premier Rides,2010
+Sky Rocket,Steel,Sit Down,80.0,29.0,640.0,3.0,Premier Rides,Kennywood,status.operating,44,2011,Steel,Kennywood,Premier Rides,2010
+Sky Rocket,Steel,Sit Down,80.0,29.0,640.0,3.0,Premier Rides,Kennywood,status.operating,17,2010,Steel,Kennywood,Premier Rides,2010
+Skyrush,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,Hersheypark,status.operating,23,2022,Steel,Hersheypark,Intamin,2012
+Skyrush,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,Hersheypark,status.operating,33,2021,Steel,Hersheypark,Intamin,2012
+Skyrush,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,Hersheypark,status.operating,27,2019,Steel,Hersheypark,Intamin,2012
+Skyrush,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,Hersheypark,status.operating,30,2018,Steel,Hersheypark,Intamin,2012
+Skyrush,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,Hersheypark,status.operating,24,2017,Steel,Hersheypark,Intamin,2012
+Skyrush,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,Hersheypark,status.operating,25,2015,Steel,Hersheypark,Intamin,2012
+Skyrush,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,Hersheypark,status.operating,26,'14,Steel,Hersheypark,Intamin,2012
+Skyrush,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,Hersheypark,status.operating,26,2013,Steel,Hersheypark,Intamin,2012
+Skyrush,Steel,Sit Down,120.0,60.0,1100.0,0.0,Intamin,Hersheypark,status.operating,42,2012,Steel,Hersheypark,Intamin,2012
+Space Mountain,Steel,Sit Down,52.0,23.0,1052.0,0.0,Dynamic Attractions,Disneyland,status.operating,43,2011,Steel,Disneyland,WED Imagineering,1977
+Space Mountain,Steel,Sit Down,52.0,23.0,1052.0,0.0,Dynamic Attractions,Disneyland,status.operating,46,2010,Steel,Disneyland,WED Imagineering,1977
+Space Mountain,Steel,Sit Down,,,,0.0,Vekoma,Formosan Aboriginal Culture Village,status.operating,43,2011,Steel,Disneyland,WED Imagineering,1977
+Space Mountain,Steel,Sit Down,,,,0.0,Vekoma,Formosan Aboriginal Culture Village,status.operating,46,2010,Steel,Disneyland,WED Imagineering,1977
+Space Mountain,na,Sit Down,,,,,Zamperla,Mampato,status.operating,43,2011,Steel,Disneyland,WED Imagineering,1977
+Space Mountain,na,Sit Down,,,,,Zamperla,Mampato,status.operating,46,2010,Steel,Disneyland,WED Imagineering,1977
+Space Mountain,Steel,Sit Down,,31.0,1052.0,0.0,Walt Disney Imagineering,Tokyo Disneyland,status.operating,43,2011,Steel,Disneyland,WED Imagineering,1977
+Space Mountain,Steel,Sit Down,,31.0,1052.0,0.0,Walt Disney Imagineering,Tokyo Disneyland,status.operating,46,2010,Steel,Disneyland,WED Imagineering,1977
+Steel Curtain,Steel,Sit Down,120.0,67.0,1220.0,9.0,S&S,Kennywood,status.operating,35,2022,Steel,Kennywood,S&S,2019
+Steel Curtain,Steel,Sit Down,120.0,67.0,1220.0,9.0,S&S,Kennywood,status.operating,23,2021,Steel,Kennywood,S&S,2019
+Steel Curtain,Steel,Sit Down,120.0,67.0,1220.0,9.0,S&S,Kennywood,status.operating,42,2019,Steel,Kennywood,S&S,2019
+Steel Dragon 2000,Steel,Sit Down,153.0,97.0,2479.0,0.0,Morgan,Nagashima Spa Land,status.operating,46,2022,Steel,Nagashima Spa Land,Morgan,2000
+Steel Dragon 2000,Steel,Sit Down,153.0,97.0,2479.0,0.0,Morgan,Nagashima Spa Land,status.operating,35,2021,Steel,Nagashima Spa Land,Morgan,2000
+Steel Dragon 2000,Steel,Sit Down,153.0,97.0,2479.0,0.0,Morgan,Nagashima Spa Land,status.operating,20,2019,Steel,Nagashima Spa Land,Morgan,2000
+Steel Eel,Steel,Sit Down,105.0,46.0,1128.0,0.0,Morgan,SeaWorld San Antonio,status.operating,47,2010,Steel,SeaWorld San Antonio,Morgan,1999
+Steel Force,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,Dorney Park,status.operating,45,2021,Steel,Dorney Park,Morgan,1997
+Steel Force,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,Dorney Park,status.operating,44,2017,Steel,Dorney Park,Morgan,1997
+Steel Force,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,Dorney Park,status.operating,37,2016,Steel,Dorney Park,Morgan,1997
+Steel Force,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,Dorney Park,status.operating,45,2015,Steel,Dorney Park,Morgan,1998
+Steel Force,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,Dorney Park,status.operating,37,'14,Steel,Dorney Park,Morgan,1998
+Steel Force,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,Dorney Park,status.operating,37,2013,Steel,Dorney Park,Morgan,1998
+Steel Force,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,Dorney Park,status.operating,39,2012,Steel,Dorney Park,Morgan,1997
+Steel Force,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,Dorney Park,status.operating,26,2011,Steel,Dorney Park,Morgan,1997
+Steel Force,Steel,Sit Down,120.0,61.0,1706.0,0.0,Morgan,Dorney Park,status.operating,27,2010,Steel,Dorney Park,Morgan,1997
+Steel Vengeance,Hybrid,Sit Down,119.0,62.0,1750.0,4.0,RMC,Cedar Point,status.operating,2,2022,Steel,Cedar Point,Rocky Mountain Const.,2018
+Steel Vengeance,Hybrid,Sit Down,119.0,62.0,1750.0,4.0,RMC,Cedar Point,status.operating,3,2021,Steel,Cedar Point,Rocky Mountain,2018
+Steel Vengeance,Hybrid,Sit Down,119.0,62.0,1750.0,4.0,RMC,Cedar Point,status.operating,3,2019,Steel,Cedar Point,Rocky Mountain,2018
+Steel Vengeance,Hybrid,Sit Down,119.0,62.0,1750.0,4.0,RMC,Cedar Point,status.operating,3,2018,Steel,Cedar Point,Rocky Mountain,2018
+Storm Chaser,Steel,Spinning,60.0,19.0,430.0,0.0,Mack,Paultons Park,status.announced,47,2018,Steel,Kentucky Kingdom,Rocky Mountain,2016
+Storm Chaser,Steel,Spinning,60.0,19.0,430.0,0.0,Mack,Paultons Park,status.announced,33,2017,Steel,Kentucky Kingdom,RMC,2016
+Storm Chaser,Steel,Spinning,60.0,19.0,430.0,0.0,Mack,Paultons Park,status.announced,28,2016,Steel,Kentucky Kingdom,RMC,2016
+Storm Chaser,Steel,Sit Down,84.0,31.0,836.0,3.0,RMC,Kentucky Kingdom,status.operating,47,2018,Steel,Kentucky Kingdom,Rocky Mountain,2016
+Storm Chaser,Steel,Sit Down,84.0,31.0,836.0,3.0,RMC,Kentucky Kingdom,status.operating,33,2017,Steel,Kentucky Kingdom,RMC,2016
+Storm Chaser,Steel,Sit Down,84.0,31.0,836.0,3.0,RMC,Kentucky Kingdom,status.operating,28,2016,Steel,Kentucky Kingdom,RMC,2016
+Storm Runner,Steel,Sit Down,120.0,56.0,806.0,3.0,Intamin,Hersheypark,status.operating,44,2012,Steel,Hersheypark,Intamin,2004
+Storm Runner,Steel,Sit Down,120.0,56.0,806.0,3.0,Intamin,Hersheypark,status.operating,39,2010,Steel,Hersheypark,Intamin,2004
+Superman: The Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,4,2019,Steel,Six Flags New England,Intamin,2000
+Superman: The Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,5,2018,Steel,Six Flags New England,Intamin,2000
+Superman Krypton Coaster,Steel,Floorless,113.0,51.0,1227.0,6.0,B&M,Six Flags Fiesta Texas,status.operating,38,2011,Steel,Six Flags Fiesta Texas,B & M,2000
+Superman The Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,7,2022,Steel,Six Flags New England,Intamin,2000
+Superman The Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,4,2021,Steel,Six Flags New England,Intamin,2000
+Superman The Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,3,2017,Steel,Six Flags New England,Intamin,2000
+Superman The Ride,Steel,Sit Down,124.0,63.0,1646.0,0.0,Intamin,Six Flags New England,status.operating,3,2016,Steel,Six Flags New England,Intamin,2000
+Superman Ride of Steel,Steel,Sit Down,117.0,60.0,1630.0,0.0,Intamin,Six Flags Great America,status.operating,47,2019,Steel,Six Flags Great America,Intamin,2000
+Superman Ride of Steel,Steel,Sit Down,117.0,60.0,1630.0,0.0,Intamin,Six Flags Great America,status.operating,39,2018,Steel,Six Flags Great America,Intamin,2000
+Superman Ride of Steel,Steel,Sit Down,117.0,60.0,1630.0,0.0,Intamin,Six Flags Great America,status.operating,38,2013,Steel,Six Flags Great America,Intamin,2000
+Superman Ride of Steel,Steel,Sit Down,117.0,60.0,1630.0,0.0,Intamin,Six Flags Great America,status.operating,29,2012,Steel,Six Flags Great America,Intamin,2000
+Superman Ride of Steel,Steel,Sit Down,117.0,60.0,1630.0,0.0,Intamin,Six Flags Great America,status.operating,40,2011,Steel,Six Flags Great America,Intamin,2000
+Superman Ride of Steel,Steel,Sit Down,117.0,60.0,1630.0,0.0,Intamin,Six Flags Great America,status.operating,32,2010,Steel,Six Flags Great America,Intamin,2000
+Taron,Steel,Sit Down,117.0,30.0,1320.0,0.0,Intamin,Phantasialand,status.operating,12,2022,Steel,Phantasialand,Intamin,2016
+Taron,Steel,Sit Down,117.0,30.0,1320.0,0.0,Intamin,Phantasialand,status.operating,10,2021,Steel,Phantasialand,Intamin,2016
+Taron,Steel,Sit Down,117.0,30.0,1320.0,0.0,Intamin,Phantasialand,status.operating,17,2019,Steel,Phantasialand,Intamin,2016
+Taron,Steel,Sit Down,117.0,30.0,1320.0,0.0,Intamin,Phantasialand,status.operating,15,2018,Steel,Phantasialand,Intamin,2016
+Taron,Steel,Sit Down,117.0,30.0,1320.0,0.0,Intamin,Phantasialand,status.operating,21,2017,Steel,Phantasialand,Intamin,2016
+Taron,Steel,Sit Down,117.0,30.0,1320.0,0.0,Intamin,Phantasialand,status.operating,32,2016,Steel,Phantasialand,Intamin,2016
+Tatsu,Steel,Flying,100.0,52.0,1097.0,4.0,B&M,Six Flags Magic Mountain,status.operating,49,2019,Steel,Six Flags Magic Mountain,B&M,2006
+Tatsu,Steel,Flying,100.0,52.0,1097.0,4.0,B&M,Six Flags Magic Mountain,status.operating,34,'14,Steel,Six Flags Magic Mountain,B&M,2006
+Tatsu,Steel,Flying,100.0,52.0,1097.0,4.0,B&M,Six Flags Magic Mountain,status.operating,50,2013,Steel,Six Flags Magic Mountain,B & M,2006
+Tatsu,Steel,Flying,100.0,52.0,1097.0,4.0,B&M,Six Flags Magic Mountain,status.operating,28,2012,Steel,Six Flags Magic Mountain,B & M,2006
+Tatsu,Steel,Flying,100.0,52.0,1097.0,4.0,B&M,Six Flags Magic Mountain,status.operating,39,2011,Steel,Six Flags Magic Mountain,B & M,2006
+Tatsu,Steel,Flying,100.0,52.0,1097.0,4.0,B&M,Six Flags Magic Mountain,status.operating,40,2010,Steel,Six Flags Magic Mountain,B & M,2006
+The Big One,Steel,Sit Down,120.0,65.0,1675.0,0.0,Arrow,Blackpool Pleasure Beach,status.operating,48,2011,Steel,Blackpool Pleasure Beach,Arrow,1994
+The Big One,Steel,Sit Down,120.0,65.0,1675.0,0.0,Arrow,Blackpool Pleasure Beach,status.operating,44,2010,Steel,Blackpool Pleasure Beach,Arrow,1994
+The Swarm,Steel,Wing,,39.0,775.0,4.0,B&M,Thorpe Park,status.operating,30,2015,Steel,Thorpe Park,B&M,2012
+Thunderbird,Steel,Wing,100.0,43.0,925.0,4.0,B&M,Holiday World,status.operating,49,2018,Steel,Holiday World,B&M,2015
+Thunderbird,Steel,Wing,100.0,43.0,925.0,4.0,B&M,Holiday World,status.operating,39,2017,Steel,Holiday World,B&M,2015
+Thunderbird,Steel,Wing,100.0,43.0,925.0,4.0,B&M,Holiday World,status.operating,34,2016,Steel,Holiday World,B&M,2015
+Thunderbird,Wooden,Sit Down,75.0,27.0,850.0,0.0,GCI,PowerPark,status.operating,49,2018,Steel,Holiday World,B&M,2015
+Thunderbird,Wooden,Sit Down,75.0,27.0,850.0,0.0,GCI,PowerPark,status.operating,39,2017,Steel,Holiday World,B&M,2015
+Thunderbird,Wooden,Sit Down,75.0,27.0,850.0,0.0,GCI,PowerPark,status.operating,34,2016,Steel,Holiday World,B&M,2015
+Time Traveler,Steel,Spinning,80.0,30.0,920.0,3.0,Mack,Silver Dollar City,status.operating,22,2022,Steel,Silver Dollar City,Mack,2018
+Time Traveler,Steel,Spinning,80.0,30.0,920.0,3.0,Mack,Silver Dollar City,status.operating,26,2021,Steel,Silver Dollar City,Mack,2018
+Time Traveler,Steel,Spinning,80.0,30.0,920.0,3.0,Mack,Silver Dollar City,status.operating,22,2019,Steel,Silver Dollar City,Mack,2018
+Time Traveler,Steel,Spinning,80.0,30.0,920.0,3.0,Mack,Silver Dollar City,status.operating,18,2018,Steel,Silver Dollar City,Mack,2018
+Titan,Steel,Sit Down,137.0,75.0,1619.0,0.0,Giovanola,Six Flags Over Texas,status.operating,42,2013,Steel,Six Flags Over Texas,Giovanola,2001
+Titan,Steel,Sit Down,137.0,75.0,1619.0,0.0,Giovanola,Six Flags Over Texas,status.operating,36,2012,Steel,Six Flags Over Texas,Giovanola,2001
+Titan,Steel,Sit Down,137.0,75.0,1619.0,0.0,Giovanola,Six Flags Over Texas,status.operating,25,2011,Steel,Six Flags Over Texas,Giovanola,2001
+Titan,Steel,Sit Down,137.0,75.0,1619.0,0.0,Giovanola,Six Flags Over Texas,status.operating,42,2010,Steel,Six Flags Over Texas,Giovanola,2001
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,28,2021,Steel,Cedar Point,Intamin,2003
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,21,2019,Steel,Cedar Point,Intamin,2003
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,16,2018,Steel,Cedar Point,Intamin,2003
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,17,2017,Steel,Cedar Point,Intamin,2003
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,19,2016,Steel,Cedar Point,Intamin,2003
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,13,2015,Steel,Cedar Point,Intamin,2003
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,19,'14,Steel,Cedar Point,Intamin,2003
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,12,2013,Steel,Cedar Point,Intamin,2003
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,13,2012,Steel,Cedar Point,Intamin,2003
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,9,2011,Steel,Cedar Point,Intamin,2003
+Top Thrill Dragster,Steel,Sit Down,192.0,128.0,853.0,0.0,Intamin,Cedar Point,status.operating,10,2010,Steel,Cedar Point,Intamin,2003
+TRON Lightcycle Power Run,Steel,Motorbike,95.0,24.0,970.0,0.0,Vekoma,Shanghai Disneyland,status.operating,35,2019,Steel,Shanghai Disneyland,Vekoma,2016
+Twisted Colossus,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,Six Flags Magic Mountain,status.operating,18,2022,Steel,Six Flags Magic Mountain,Rocky Mountain Const.,2015
+Twisted Colossus,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,Six Flags Magic Mountain,status.operating,16,2021,Steel,Six Flags Magic Mountain,Rocky Mountain,2015
+Twisted Colossus,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,Six Flags Magic Mountain,status.operating,6,2019,Steel,Six Flags Magic Mountain,Rocky Mountain,2015
+Twisted Colossus,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,Six Flags Magic Mountain,status.operating,24,2018,Steel,Six Flags Magic Mountain,Rocky Mountain,2015
+Twisted Colossus,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,Six Flags Magic Mountain,status.operating,16,2017,Steel,Six Flags Magic Mountain,RMC,2015
+Twisted Colossus,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,Six Flags Magic Mountain,status.operating,26,2016,Steel,Six Flags Magic Mountain,RMC,2015
+Twisted Colossus,Hybrid,Sit Down,92.0,37.0,1520.0,2.0,RMC,Six Flags Magic Mountain,status.operating,28,2015,Steel,Six Flags Magic Mountain,Rocky Mountain,2015
+Twisted Timbers,Hybrid,Sit Down,87.0,34.0,1024.0,3.0,RMC,Kings Dominion,status.operating,40,2022,Steel,Kings Dominion,Rocky Mountain Const.,2018
+Twisted Timbers,Hybrid,Sit Down,87.0,34.0,1024.0,3.0,RMC,Kings Dominion,status.operating,39,2021,Steel,Kings Dominion,Rocky Mountain,2018
+Twisted Timbers,Hybrid,Sit Down,87.0,34.0,1024.0,3.0,RMC,Kings Dominion,status.operating,37,2019,Steel,Kings Dominion,Rocky Mountain,2019
+Twisted Timbers,Hybrid,Sit Down,87.0,34.0,1024.0,3.0,RMC,Kings Dominion,status.operating,38,2018,Steel,Kings Dominion,Rocky Mountain,2018
+Verbolten,Steel,Sit Down,85.0,,864.0,0.0,Zierer,Busch Gardens Williamsburg,status.operating,38,2019,Steel,Busch Gardens Williamsburg,Zierer,2012
+Verbolten,Steel,Sit Down,85.0,,864.0,0.0,Zierer,Busch Gardens Williamsburg,status.operating,36,2018,Steel,Busch Gardens Williamsburg,Zierer,2012
+Volcano,Steel,Inverted,112.0,47.0,840.0,4.0,Intamin,Kings Dominion,status.closed.definitely,35,2010,Steel,Kings Dominion,Intamin,1998
+Volcano: The Blast Coaster,Steel,Inverted,112.0,47.0,840.0,4.0,Intamin,Kings Dominion,status.closed.definitely,49,'14,Steel,Kings Dominion,Intamin,1998
+Volcano: The Blast Coaster,Steel,Inverted,112.0,47.0,840.0,4.0,Intamin,Kings Dominion,status.closed.definitely,39,2013,Steel,Kings Dominion,Intamin,1998
+Volcano: The Blast Coaster,Steel,Inverted,112.0,47.0,840.0,4.0,Intamin,Kings Dominion,status.closed.definitely,40,2012,Steel,Kings Dominion,Intamin,1998
+Volcano: The Blast Coaster,Steel,Inverted,112.0,47.0,840.0,4.0,Intamin,Kings Dominion,status.closed.definitely,29,2011,Steel,Kings Dominion,Intamin,1998
+Whizzer,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,Six Flags Great America,status.operating,50,2022,Steel,Six Flags Great America,Schwarzkopf,1976
+Whizzer,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,Six Flags Great America,status.operating,44,2019,Steel,Six Flags Great America,Schwarzkopf,1976
+Whizzer,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,Six Flags Great America,status.operating,50,2018,Steel,Six Flags Great America,Schwarzkopf,1976
+Whizzer,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,Six Flags Great America,status.operating,46,2017,Steel,Six Flags Great America,Schwarzkopf,1976
+Whizzer,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,Six Flags Great America,status.operating,45,2016,Steel,Six Flags Great America,Schwarzkopf,1976
+Whizzer,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,Six Flags Great America,status.operating,46,2015,Steel,Six Flags Great America,Schwarzkopf,1976
+Whizzer,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,Six Flags Great America,status.operating,44,'14,Steel,Six Flags Great America,Schwarzkopf,1976
+Whizzer,Steel,Sit Down,68.0,21.0,945.0,0.0,Schwarzkopf,Six Flags Great America,status.operating,40,2013,Steel,Six Flags Great America,Schwarzkopf,1976
+Wicked Cyclone,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,Six Flags New England,status.operating,45,2022,Steel,Six Flags New England,Rocky Mountain Const.,2015
+Wicked Cyclone,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,Six Flags New England,status.operating,42,2021,Steel,Six Flags New England,Rocky Mountain,2015
+Wicked Cyclone,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,Six Flags New England,status.operating,39,2019,Steel,Six Flags New England,Rocky Mountain,2015
+Wicked Cyclone,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,Six Flags New England,status.operating,33,2018,Steel,Six Flags New England,Rocky Mountain,2015
+Wicked Cyclone,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,Six Flags New England,status.operating,14,2017,Steel,Six Flags New England,RMC,2015
+Wicked Cyclone,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,Six Flags New England,status.operating,18,2016,Steel,Six Flags New England,RMC,2015
+Wicked Cyclone,Hybrid,Sit Down,89.0,33.0,1012.0,3.0,RMC,Six Flags New England,status.operating,23,2015,Steel,Six Flags New England,Rocky Mountain,2015
+Wild Eagle,Steel,Wing,98.0,64.0,953.0,4.0,B&M,Dollywood,status.operating,36,2016,Steel,Dollywood,B&M,2012
+Wild Eagle,Steel,Wing,98.0,64.0,953.0,4.0,B&M,Dollywood,status.operating,31,2015,Steel,Dollywood,B&M,2012
+Wild Eagle,Steel,Wing,98.0,64.0,953.0,4.0,B&M,Dollywood,status.operating,28,'14,Steel,Dollywood,B&M,2012
+Wild Eagle,Steel,Wing,98.0,64.0,953.0,4.0,B&M,Dollywood,status.operating,24,2013,Steel,Dollywood,B & M,2012
+Wild Eagle,Steel,Wing,98.0,64.0,953.0,4.0,B&M,Dollywood,status.operating,15,2012,Steel,Dollywood,B & M,2012
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,32,2022,Steel,Six Flags Magic Mountain,Arrow,2001
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,26,2021,Steel,Six Flags Magic Mountain,Arrow,2002
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,23,2019,Steel,Six Flags Magic Mountain,Arrow,2002
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,31,2018,Steel,Six Flags Magic Mountain,Arrow,2001
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,25,2017,Steel,Six Flags Magic Mountain,Arrow,2002
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,23,2016,Steel,Six Flags Magic Mountain,Arrow,2002
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,20,2015,Steel,Six Flags Magic Mountain,Arrow,2002
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,18,'14,Steel,Six Flags Magic Mountain,Arrow,2002
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,16,2013,Steel,Six Flags Magic Mountain,Arrow,2002
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,18,2012,Steel,Six Flags Magic Mountain,Arrow,2002
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,16,2011,Steel,Six Flags Magic Mountain,Arrow,2002
+X2,Steel,4th Dimension,122.0,53.0,1100.0,6.0,Arrow,Six Flags Magic Mountain,status.operating,15,2010,Steel,Six Flags Magic Mountain,Arrow,2002
+X-Flight,Steel,Flying,81.0,35.0,1018.0,0.0,Vekoma,Geauga Lake,status.closed.definitely,45,2013,Steel,Six Flags Great America,B & M,2012
+X-Flight,Steel,Wing,90.0,37.0,915.0,5.0,B&M,Six Flags Great America,status.operating,45,2013,Steel,Six Flags Great America,B & M,2012
+Yukon Striker,Steel,Sit Down,130.0,75.0,1105.0,4.0,B&M,Canada's Wonderland,status.operating,34,2019,Steel,Canada's Wonderland,B&M,2019
+Zadra,Hybrid,Sit Down,115.0,63.0,1300.0,3.0,RMC,Energylandia,status.construction,26,2022,Steel,Energylandia,Rocky Mountain Const.,2019

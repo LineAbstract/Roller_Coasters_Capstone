@@ -1,0 +1,417 @@
+id,name,city,state,country,status,num_of_coasters
+1,4D Farm,Cullman,Alabama,United States,Operating,1
+2,Adventure City,Anaheim,California,United States,Operating,2
+3,Adventuredome,Las Vegas,Nevada,United States,Operating,2
+4,Adventureland,Altoona,Iowa,United States,Operating,7
+5,Adventureland,Farmingdale,New York,United States,Operating,3
+6,Adventure Landing,Jacksonville Beach,Florida,United States,Operating,1
+7,Adventure Park USA,Monrovia,Maryland,United States,Operating,3
+8,Adventurers Family Entertainment Center,Brooklyn,New York,United States,Operating,1
+9,Aerie's Resort & Winery,Grafton,Illinois,United States,Operating,1
+10,Airway Fun Center,Portage,Michigan,United States,Operating,1
+11,Alabama Adventure & Splash Adventure,Bessemer,Alabama,United States,Operating,3
+12,Alaska State Fair,Palmer,Alaska,United States,Operating,1
+13,Alley Cats,Hurst,Texas,United States,Operating,1
+14,All Star Adventures,Wichita,Kansas,United States,Operating,2
+15,Alpine Slide at Magic Mountain,Big Bear Lake,California,United States,Operating,1
+16,Anakeesta,Gatlinburg,Tennessee,United States,Operating,2
+17,Andretti Thrill Park,Melbourne,Florida,United States,Operating,1
+18,Arnolds Park,Arnolds Park,Iowa,United States,Operating,3
+19,Arzo Sports & Fun Park,Alpena,Michigan,United States,Operating,1
+20,Aspen Snowmass Ski Resort,Snowmass Village,Colorado,United States,Operating,1
+21,Athens Lions Club Kiddie Carnival,Athens,Alabama,United States,Operating,1
+22,Atlantic Beach Park,Westerly,Rhode Island,United States,Operating,-
+23,Attitash Mountain Resort,Bartlett,New Hampshire,United States,Operating,1
+24,Austin's Park,Pflugerville,Texas,United States,Operating,1
+25,Baja Amusements,Ocean City,Maryland,United States,Operating,-
+26,Bay Beach Amusement Park,Green Bay,Wisconsin,United States,Operating,1
+27,Bayville Adventure Park,Bayville,New York,United States,Operating,-
+28,Beech Bend,Bowling Green,Kentucky,United States,Operating,3
+29,Belmont Park,San Diego,California,United States,Operating,1
+30,Bengtson's Pumpkin Farm,Homer Glen,Illinois,United States,Operating,1
+31,Berkshire East,Charlemont,Massachusetts,United States,Operating,1
+32,Big Play Entertainment Center,Biloxi,Mississippi,United States,Operating,2
+33,Big Rivers Waterpark & Adventures,New Caney,Texas,United States,Operating,1
+34,BigShot Amusement Park,Linn Creek,Missouri,United States,Operating,-
+35,Blackbeard's Family Entertainment Center,Fresno,California,United States,Operating,1
+36,Blue Bayou Dixie Landin',Baton Rouge,Louisiana,United States,Operating,3
+37,Bogus Basin Mountain Recreation Area,Horseshoe Bend,Idaho,United States,Operating,1
+38,Boomers,City of Industry,California,United States,Operating,-
+39,Branson Mountain Adventure Park,Branson,Missouri,United States,Operating,1
+40,Branson Sawmill,Branson,Missouri,United States,Operating,1
+41,Breckenridge Ski Resort,Breckenridge,Colorado,United States,Operating,1
+42,Broadway Grand Prix,Myrtle Beach,South Carolina,United States,Operating,-
+43,Brookhaven Exchange Club Park,Brookhaven,Mississippi,United States,Operating,1
+44,Buffalo Bill's Resort & Casino,Primm,Nevada,United States,Operating,1
+45,Busch Gardens Tampa,Tampa,Florida,United States,Operating,10
+46,Busch Gardens Williamsburg,Williamsburg,Virginia,United States,Operating,10
+47,Bushkill Park,Easton,Pennsylvania,United States,Operating,1
+48,California's Great America,Santa Clara,California,United States,Operating,9
+49,Camden Park,Huntington,West Virginia,United States,Operating,3
+50,Camelback Mountain Adventures,Tannersville,Pennsylvania,United States,Operating,1
+51,Camp Fimfo Texas Hill Country,Canyon Lake,Texas,United States,Operating,1
+52,Canobie Lake Park,Salem,New Hampshire,United States,Operating,3
+53,Canyon Coaster Adventure Park,Williams,Arizona,United States,Operating,1
+54,Captain Kid Amusement Park,Seaside,Oregon,United States,Operating,1
+55,Carousel Gardens,New Orleans,Louisiana,United States,Operating,1
+56,Carousel Village at Indian Walk,Newton,Pennsylvania,United States,Operating,-
+57,Carowinds,Charlotte,North Carolina,United States,Operating,14
+58,Casino Pier,Seaside Heights,New Jersey,United States,Operating,4
+59,Castle Fun Center,Chester,New York,United States,Operating,1
+60,Castle Park,Riverside,California,United States,Operating,3
+61,Castles n' Coasters,Phoenix,Arizona,United States,Operating,2
+62,Cedar Point,Sandusky,Ohio,United States,Operating,17
+63,Cedar Valley's Wild Frontier Fun Park,Comins,Michigan,United States,Operating,2
+64,Celebration Station,Baton Rouge,Louisiana,United States,Operating,-
+65,Celebration Station,Clearwater,Florida,United States,Operating,1
+66,Central Pier Arcade & Speedway,Atlantic City,New Jersey,United States,Operating,-
+67,Cincinnati Zoo & Botanical Garden,Cincinnati,Ohio,United States,Operating,-
+68,City Park,Pueblo,Colorado,United States,Operating,1
+69,CJ Barrymore's Family Entertainment Center,Clinton Township,Michigan,United States,Operating,2
+70,Clementon Park,Clementon,New Jersey,United States,Operating,2
+71,Cliff's Amusement Park,Albuquerque,New Mexico,United States,Operating,3
+72,Cobra Adventure Park,Panama City Beach,Florida,United States,Operating,-
+73,Columbian Park,Lafayette,Indiana,United States,Operating,-
+74,Columbus Zoo and Aquarium,Powell,Ohio,United States,Operating,2
+75,Como Town,St. Paul,Minnesota,United States,Operating,1
+76,Coney Island,Cincinnati,Ohio,United States,Operating,-
+77,Conneaut Lake Park,Conneaut Lake,Pennsylvania,United States,Operating,2
+78,Copper Mountain,Frisco,Colorado,United States,Operating,1
+79,Cotaland,Austin,Texas,United States,Operating,5
+80,Country Fair Entertainment Park,Medford,New York,United States,Operating,-
+81,Country Mercantile,Pasco,Washington,United States,Operating,1
+82,Craig's Cruisers Family Fun Center,Wyoming,Michigan,United States,Operating,1
+83,Craig's Cruisers Family Fun Center,Mears,Michigan,United States,Operating,1
+84,Cranmore Mountain Adventure Park,North Conway,New Hampshire,United States,Operating,1
+85,Deadwood,Williamston,North Carolina,United States,Operating,2
+86,DelGrosso's Amusement Park,Tipton,Pennsylvania,United States,Operating,2
+87,Dell'Osso Family Farm,Lathrop,California,United States,Operating,-
+88,Deno's Wonder Wheel Amusement Park,Brooklyn,New York,United States,Operating,3
+89,Disney California Adventure Park,Anaheim,California,United States,Operating,2
+90,Disneyland,Anaheim,California,United States,Operating,4
+91,Dollywood,Pigeon Forge,Tennessee,United States,Operating,10
+92,Dorney Park & Wildwater Kingdom,Allentown,Pennsylvania,United States,Operating,7
+93,Dutch Wonderland,Lancaster,Pennsylvania,United States,Operating,3
+94,East Lake Park,Birmingham,Alabama,United States,Operating,-
+95,Edaville Family Theme Park,Carver,Massachusetts,United States,Operating,3
+96,Eldridge Park,Elmira,New York,United States,Operating,-
+97,Elitch Gardens,Denver,Colorado,United States,Operating,6
+98,Enchanted Castle,Lombard,Illinois,United States,Operating,-
+99,Enchanted Forest,Turner,Oregon,United States,Operating,2
+100,Enchanted Forest Water Safari,Old Forge,New York,United States,Operating,-
+101,Enchanted Island,Phoenix,Arizona,United States,Operating,1
+102,Erieview Park,Geneva,Ohio,United States,Operating,-
+103,Family Kingdom Amusement Park,Myrtle Beach,South Carolina,United States,Operating,3
+104,Fantasy Forest at the Flushing Meadows Carousel,Flushing,New York,United States,Operating,1
+105,Fantasy Island Amusement Park,Beach Haven,New Jersey,United States,Operating,1
+106,Fast Lane Entertainment,Lowell,Arkansas,United States,Operating,1
+107,FastTrax Entertainment,Fort Myers Beach,Florida,United States,Operating,1
+108,Fiesta Village Family Fun Park,Colton,California,United States,Operating,-
+109,Fort Hays Chuckwagon,Rapid City,South Dakota,United States,Operating,1
+110,Frontier City,Oklahoma City,Oklahoma,United States,Operating,5
+111,Fun Center at Paige's Crossing,Columbia City,Indiana,United States,Operating,1
+112,Funderland Amusement Park,Sacramento,California,United States,Operating,1
+113,Fun Fore All Family Entertainment Center,Cranberry Township,Pennsylvania,United States,Operating,1
+114,Funland Amusement Park,North Little Rock,Arkansas,United States,Operating,1
+115,Fun Land of Fredericksburg,Fredericksburg,Virginia,United States,Operating,1
+116,Fun Plex,Omaha,Nebraska,United States,Operating,1
+117,Funplex,Mount Laurel,New Jersey,United States,Operating,1
+118,Funplex,Myrtle Beach,South Carolina,United States,Operating,1
+119,Fun Spot America,Kissimmee,Florida,United States,Operating,4
+120,Fun Spot America,Orlando,Florida,United States,Operating,3
+121,Fun Spot America Atlanta,Fayetteville,Georgia,United States,Operating,3
+122,Fun Stop,Pigeon Forge,Tennessee,United States,Operating,-
+123,Funtasticks Family Fun Park,Tucson,Arizona,United States,Operating,-
+124,Funtastic Park,Dededo,Guam,United States,Operating,1
+125,Funtimes Fun Park,Alliance,Ohio,United States,Operating,1
+126,Funtown Splashtown U.S.A.,Saco,Maine,United States,Operating,2
+127,Funworld Game Center,Nashua,New Hampshire,United States,Operating,1
+128,Galveston Island Historic Pleasure Pier,Galveston,Texas,United States,Operating,1
+129,Gatti's Pizza,Abilene,Texas,United States,Operating,1
+130,Georgia Mountain Coaster,Helen,Georgia,United States,Operating,1
+131,Gillian's Wonderland Pier,Ocean City,New Jersey,United States,Operating,1
+132,Gilroy Gardens Family Theme Park,Gilroy,California,United States,Operating,2
+133,Glen Echo Park,Glen Echo,Maryland,United States,Operating,-
+134,Glenwood Caverns Adventure Park,Glenwood Springs,Colorado,United States,Operating,4
+135,Goats on the Roof of the Smokies,Pigeon Forge,Tennessee,United States,Operating,1
+136,Go-Karts Plus,Williamsburg,Virginia,United States,Operating,1
+137,Grady's Family Fun Park,Bloomington,Illinois,United States,Operating,2
+138,Greek Peak Mountain Resort,Cortland,New York,United States,Operating,1
+139,Greeley County Fairgrounds,Tribune,Kansas,United States,Operating,1
+140,Gunstock Mountain Resort,Gilford,New Hampshire,United States,Operating,1
+141,Happy Hollow Park and Zoo,San Jose,California,United States,Operating,1
+142,Harvest Tyme Pumpkin Patch,Lowell,Indiana,United States,Operating,1
+143,Haunted Trails,Burbank,Illinois,United States,Operating,1
+144,Haunted Trails,Joliet,Illinois,United States,Operating,-
+145,Heavenly Mountain Resort,South Lake Tahoe,California,United States,Operating,1
+146,Hebron Fireman's Carnival,Hebron,Maryland,United States,Operating,1
+147,Hersheypark,Hershey,Pennsylvania,United States,Operating,14
+148,Hialeah Park,Hialeah,Florida,United States,Operating,-
+149,Highlands Outpost,Scaly Mountain,North Carolina,United States,Operating,1
+150,Historic Hawes Farms,Anderson,California,United States,Operating,1
+151,Holiday Valley,Ellicottville,New York,United States,Operating,1
+152,Holiday World,Santa Claus,Indiana,United States,Operating,5
+153,Holland Speedway,Holland,New York,United States,Operating,-
+154,Hovatter's Wildlife Zoo,Kingwood,West Virginia,United States,Operating,1
+155,Howard’s Apples Farm Market,Chagrin Falls,Ohio,United States,Operating,1
+156,Huck Finn's Playland,Albany,New York,United States,Operating,1
+157,Hurricane Harbor Splashtown,Spring,Texas,United States,Operating,-
+158,Idlewild & SoakZone,Ligonier,Pennsylvania,United States,Operating,2
+159,Incredible Pizza Company,Cordova,Tennessee,United States,Operating,1
+160,Incredible Pizza Company,Warr Acres,Oklahoma,United States,Operating,1
+161,Incredible Pizza Company,San Antonio,Texas,United States,Operating,1
+162,Indiana Beach,Monticello,Indiana,United States,Operating,7
+163,Indianapolis Zoo,Indianapolis,Indiana,United States,Operating,1
+164,In The Game Funtrackers,Corpus Christi,Texas,United States,Operating,1
+165,Iowa State Fairgrounds,Des Moines,Iowa,United States,Operating,-
+166,iPlay America,Freehold,New Jersey,United States,Operating,1
+167,Island in Pigeon Forge,Pigeon Forge,Tennessee,United States,Operating,1
+168,iT'Z Family Food & Fun,Albuquerque,New Mexico,United States,Operating,-
+169,iT'Z Family Food & Fun,Houston,Texas,United States,Operating,-
+170,Jacksonville Zoo and Gardens,Jacksonville,Florida,United States,Operating,-
+171,Jenkinson's Boardwalk,Point Pleasant Beach,New Jersey,United States,Operating,2
+172,Jiminy Peak Mountain Resort,Hancock,Massachusetts,United States,Operating,1
+173,John's Incredible Pizza Company,Roseville,California,United States,Operating,-
+174,John's Incredible Pizza Company,Riverside,California,United States,Operating,-
+175,John's Incredible Pizza Company,Carson,California,United States,Operating,1
+176,Jolly Roger Amusement Park,Ocean City,Maryland,United States,Operating,3
+177,Jolly Roger at the Pier,Ocean City,Maryland,United States,Operating,1
+178,Joyland Amusement Park,Lubbock,Texas,United States,Operating,4
+179,Kamper Park,Hattiesburg,Mississippi,United States,Operating,-
+180,Keansburg Amusement Park,Keansburg,New Jersey,United States,Operating,2
+181,Keller's Flea Market,Savannah,Georgia,United States,Operating,1
+182,Kemah Boardwalk,Kemah,Texas,United States,Operating,1
+183,Kennywood,West Mifflin,Pennsylvania,United States,Operating,8
+184,Kentucky Kingdom,Louisville,Kentucky,United States,Operating,6
+185,Kentucky Shores Family Fun Center,Gilbertsville,Kentucky,United States,Operating,-
+186,Kiddieland,Pittsburg,Kansas,United States,Operating,1
+187,KiddieLand,Waco,Texas,United States,Operating,-
+188,Kiddie Park,Bartlesville,Oklahoma,United States,Operating,1
+189,Kids 'N Action,Brooklyn,New York,United States,Operating,1
+190,Kidstar Park,Port Charlotte,Florida,United States,Operating,-
+191,Killington Resort,Killington,Vermont,United States,Operating,1
+192,Kingman County and 4-H Fair,Kingman,Kansas,United States,Operating,-
+193,Kings Dominion,Doswell,Virginia,United States,Operating,13
+194,Kings Island,Mason,Ohio,United States,Operating,14
+195,Kirby Family Farm,Williston,Florida,United States,Operating,1
+196,Kiwanis Kiddieland,Merced,California,United States,Operating,1
+197,Knoebels Amusement Resort,Elysburg,Pennsylvania,United States,Operating,6
+198,Knott's Berry Farm,Buena Park,California,United States,Operating,10
+199,Knucklehead's Bowling & Family Entertainment,Wisconsin Dells,Wisconsin,United States,Operating,1
+200,Kokomo's Family Fun Center,Saginaw,Michigan,United States,Operating,-
+201,Lagoon,Farmington,Utah,United States,Operating,11
+202,Lake Compounce,Bristol,Connecticut,United States,Operating,5
+203,Lake George Expedition Park,Lake George,New York,United States,Operating,-
+204,Lakemont Park,Altoona,Pennsylvania,United States,Operating,3
+205,Lakeside Amusement Park,Denver,Colorado,United States,Operating,5
+206,Lake Winnepesaukah,Rossville,Georgia,United States,Operating,2
+207,Landa Park,New Braunfels,Texas,United States,Operating,-
+208,Land Of Make Believe,Hope,New Jersey,United States,Operating,2
+209,Lark Ranch,Loogootee,Indiana,United States,Operating,1
+210,Las Vegas Mini Gran Prix,Las Vegas,Nevada,United States,Operating,1
+211,Laugh Out Loud Stations,Greenbelt,Maryland,United States,Operating,-
+212,Legoland California,Carlsbad,California,United States,Operating,3
+213,Legoland Florida,Winter Haven,Florida,United States,Operating,4
+214,Legoland New York,Goshen,New York,United States,Operating,2
+215,Leonardtown Volunteer Fire Department,Leonardtown,Maryland,United States,Operating,-
+216,Little Amerricka,Marshall,Wisconsin,United States,Operating,4
+217,Live Oak Canyon Farm,Redlands,California,United States,Operating,2
+218,Los Angeles County Fairgrounds,Pomona,California,United States,Operating,-
+219,Lost Island Theme Park,Waterloo,Iowa,United States,Operating,3
+220,Luna Park,Brooklyn,New York,United States,Operating,8
+221,Magic Springs Theme and Water Park,Hot Springs,Arkansas,United States,Operating,5
+222,Malibu Jack's,Lexington,Kentucky,United States,Operating,1
+223,Malibu Jack's,Louisville,Kentucky,United States,Operating,1
+224,Malibu Jack's,Ashland,Kentucky,United States,Operating,1
+225,Malibu Jack's,Lafayette,Indiana,United States,Operating,1
+226,MASS MoCA,North Adams,Massachusetts,United States,Operating,1
+227,Meadowbrook Park,Bascom,Ohio,United States,Operating,-
+228,Memphis Kiddie Park,Cleveland,Ohio,United States,Operating,1
+229,Michigan's Adventure,Muskegon,Michigan,United States,Operating,7
+230,Midway State Park,Bemus Point,New York,United States,Operating,1
+231,Mile High Flea Market,Henderson,Colorado,United States,Operating,1
+232,Miner Mike's Adventure Town,Osage Beach,Missouri,United States,Operating,1
+233,Minnesota State Fair,St. Paul,Minnesota,United States,Operating,-
+234,Modern Woodmen Park,Davenport,Iowa,United States,Operating,1
+235,Moonshine Mountain Coaster,Gatlinburg,Tennessee,United States,Operating,1
+236,Morey's Piers,Wildwood,New Jersey,United States,Operating,7
+237,Motor World,Virginia Beach,Virginia,United States,Operating,-
+238,Mountain Creek Waterpark,Vernon,New Jersey,United States,Operating,1
+239,Mount Van Hoevenberg,Lake Placid,New York,United States,Operating,1
+240,Mt. Olympus Water & Theme Park,Wisconsin Dells,Wisconsin,United States,Operating,5
+241,Mustang Mountain Coaster,Estes Park,Colorado,United States,Operating,1
+242,NASCAR SpeedPark,Sevierville,Tennessee,United States,Operating,1
+243,"New York, New York Hotel & Casino",Las Vegas,Nevada,United States,Operating,1
+244,Niagara Amusement Park & Splash World,Grand Island,New York,United States,Operating,3
+245,Nickelodeon Universe,Bloomington,Minnesota,United States,Operating,5
+246,Nickelodeon Universe Theme Park,East Rutherford,New Jersey,United States,Operating,5
+247,Noah's Ark,Wisconsin Dells,Wisconsin,United States,Operating,-
+248,North Georgia State Fair,Marietta,Georgia,United States,Operating,1
+249,Norton County Fair,Norton,Kansas,United States,Operating,1
+250,Oakland Zoo,Oakland,California,United States,Operating,1
+251,Oaks Amusement Park,Portland,Oregon,United States,Operating,2
+252,Oasis Lanes & Amusement Center,El Paso,Texas,United States,Operating,-
+253,Ober Gatlinburg,Gatlinburg,Tennessee,United States,Operating,1
+254,Ocean Beach Park,New London,Connecticut,United States,Operating,1
+255,Okemo Mountain Resort,Ludlow,Vermont,United States,Operating,1
+256,Old Town,Kissimmee,Florida,United States,Operating,-
+257,Orange County Fairgrounds,Middletown,New York,United States,Operating,-
+258,Outlaw Pass,Victoria,Texas,United States,Operating,1
+259,P-6 Farms,Montgomery,Texas,United States,Operating,1
+260,Pacific Park,Santa Monica,California,United States,Operating,1
+261,Palace Playland,Old Orchard Beach,Maine,United States,Operating,3
+262,Park City Mountain Resort,Park City,Utah,United States,Operating,1
+263,Party Zone USA,Middletown,New York,United States,Operating,-
+264,Paul Bunyan Land,Brainerd,Minnesota,United States,Operating,1
+265,Paul Bunyan's Adventure Golf,Wisconsin Dells,Wisconsin,United States,Operating,-
+266,Pavilion Park,Myrtle Beach,South Carolina,United States,Operating,1
+267,Pedroland Park,Dillon,South Carolina,United States,Operating,-
+268,People's Choice Family Fun Center,Waukegan,Illinois,United States,Operating,1
+269,Peppa Pig Theme Park,Winter Haven,Florida,United States,Operating,1
+270,Pixieland Amusement Park,Concord,California,United States,Operating,1
+271,Playland Park,Rye,New York,United States,Operating,5
+272,Playland Park,Reno,Nevada,United States,Operating,-
+273,Playland's Castaway Cove,Ocean City,New Jersey,United States,Operating,4
+274,Playzone Toledo,Toledo,Ohio,United States,Operating,-
+275,Pocono Play Park,East Stroudsburg,Pennsylvania,United States,Operating,-
+276,PowerPlay Family Entertainment Center,Kansas City,Missouri,United States,Operating,1
+277,Prairie Playland,Grand Prairie,Texas,United States,Operating,1
+278,Purgatory Resort,Durango,Colorado,United States,Operating,1
+279,Quassy Amusement Park,Middlebury,Connecticut,United States,Operating,2
+280,Quechee Gorge Village,Quechee,Vermont,United States,Operating,-
+281,Race City PCB,Panama City Beach,Florida,United States,Operating,1
+282,Remlinger Farms,Carnation,Washington,United States,Operating,1
+283,Ricochet Canyon,West Jordan,Utah,United States,Operating,1
+284,Ripley's Mountain Coaster,Gatlinburg,Tennessee,United States,Operating,1
+285,Riverfront Park,Spokane,Washington,United States,Operating,-
+286,Rockin' Raceway,Pigeon Forge,Tennessee,United States,Operating,-
+287,Rocky Top Mountain Coaster,Pigeon Forge,Tennessee,United States,Operating,1
+288,Rowdy Bear's Smoky Mountain Snowpark,Pigeon Forge,Tennessee,United States,Operating,2
+289,Ruidoso Winter Park,Ruidoso,New Mexico,United States,Operating,1
+290,Runway Fun Park,Swanzey,New Hampshire,United States,Operating,1
+291,Rush Mountain Adventure Park,Keystone,South Dakota,United States,Operating,1
+292,Safari Land,Villa Park,Illinois,United States,Operating,1
+293,Saginaw County Fairgrounds,Chesaning,Michigan,United States,Operating,-
+294,San Antonio Aquarium,San Antonio,Texas,United States,Operating,-
+295,Santa Cruz Beach Boardwalk,Santa Cruz,California,United States,Operating,3
+296,Santa's Land,Cherokee,North Carolina,United States,Operating,1
+297,Santa's Village,Jefferson,New Hampshire,United States,Operating,2
+298,Santa's Village AZoosment Park,Dundee,Illinois,United States,Operating,3
+299,Santa's Workshop,Cascade,Colorado,United States,Operating,1
+300,Santa's Workshop,Wilmington,New York,United States,Operating,1
+301,Saunders County Fairgrounds,Wahoo,Nebraska,United States,Operating,1
+302,Scandia Family Fun Center,Sacramento,California,United States,Operating,1
+303,Scene75 Entertainment Center,Dublin,Ohio,United States,Operating,1
+304,Scene75 Entertainment Center,Dayton,Ohio,United States,Operating,1
+305,Scene75 Entertainment Center,Romeoville,Illinois,United States,Operating,1
+306,Schnepf Farms,Queen Creek,Arizona,United States,Operating,1
+307,Seabreeze,Rochester,New York,United States,Operating,4
+308,SeaWorld Orlando,Orlando,Florida,United States,Operating,7
+309,SeaWorld San Antonio,San Antonio,Texas,United States,Operating,6
+310,SeaWorld San Diego,San Diego,California,United States,Operating,6
+311,Sesame Place,Langhorne,Pennsylvania,United States,Operating,2
+312,Sesame Place,Chula Vista,California,United States,Operating,1
+313,Seven Peaks Fun Center,Lehi,Utah,United States,Operating,-
+314,Sharptown Firemen's Carnival,Sharptown,Maryland,United States,Operating,1
+315,Shepherd's Adventure Park,Branson,Missouri,United States,Operating,1
+316,Sheridan County Fairgrounds,Hoxie,Kansas,United States,Operating,1
+317,Silver Dollar City,Branson,Missouri,United States,Operating,7
+318,Silverwood Theme Park,Athol,Idaho,United States,Operating,7
+319,Sir Goony's Fun Zone,Chattanooga,Tennessee,United States,Operating,-
+320,Six Flags America,Upper Marlboro,Maryland,United States,Operating,9
+321,Six Flags Darien Lake,Darien Center,New York,United States,Operating,8
+322,Six Flags Discovery Kingdom,Vallejo,California,United States,Operating,10
+323,Six Flags Fiesta Texas,San Antonio,Texas,United States,Operating,12
+324,Six Flags Great Adventure,Jackson,New Jersey,United States,Operating,14
+325,Six Flags Great America,Gurnee,Illinois,United States,Operating,15
+326,Six Flags Great Escape,Queensbury,New York,United States,Operating,6
+327,Six Flags Magic Mountain,Valencia,California,United States,Operating,20
+328,Six Flags New England,Agawam,Massachusetts,United States,Operating,11
+329,Six Flags Over Georgia,Austell,Georgia,United States,Operating,11
+330,Six Flags Over Texas,Arlington,Texas,United States,Operating,14
+331,Six Flags St. Louis,Eureka,Missouri,United States,Operating,9
+332,SkyLand Ranch,Sevierville,Tennessee,United States,Operating,1
+333,SkyPark at Santa's Village,Skyforest,California,United States,Operating,-
+334,Sluggers & Putters,Canal Fulton,Ohio,United States,Operating,1
+335,Smoky Mountain Alpine Coaster,Pigeon Forge,Tennessee,United States,Operating,1
+336,Snowbird,Sandy,Utah,United States,Operating,1
+337,Snow King Mountain,Jackson Hole,Wyoming,United States,Operating,1
+338,Sonny Acres Farm,West Chicago,Illinois,United States,Operating,1
+339,Sonoma TrainTown Railroad,Sonoma,California,United States,Operating,1
+340,South Dakota State Fair,Huron,South Dakota,United States,Operating,-
+341,Spirit Mountain,Duluth,Minnesota,United States,Operating,1
+342,Splash City Adventures,Pensacola,Florida,United States,Operating,2
+343,Splash Zone Water Park,Wildwood,New Jersey,United States,Operating,-
+344,Spring Park,Tuscumbia,Alabama,United States,Operating,1
+345,State Fair of Texas,Dallas,Texas,United States,Operating,-
+346,Steamboat Resort,Steamboat Springs,Colorado,United States,Operating,-
+347,Steel Pier,Atlantic City,New Jersey,United States,Operating,3
+348,St. Louis's Incredible Pizza Company,St. Louis,Missouri,United States,Operating,1
+349,Storybook Land,Egg Harbor Township,New Jersey,United States,Operating,2
+350,Storybook Land,Aberdeen,South Dakota,United States,Operating,1
+351,Story Land,Glen,New Hampshire,United States,Operating,2
+352,Stratosphere Tower,Las Vegas,Nevada,United States,Operating,-
+353,Stricker's Grove,Ross,Ohio,United States,Operating,2
+354,Super Slide Amusement Park,Bismarck,North Dakota,United States,Operating,1
+355,Swampy Jack's Wongo Adventure,Panama City Beach,Florida,United States,Operating,1
+356,Swings-N-Things Family Fun Park,Olmsted Township,Ohio,United States,Operating,-
+357,Sylvan Beach Amusement Park,Sylvan Beach,New York,United States,Operating,1
+358,Thomas County Fairgrounds,Colby,Kansas,United States,Operating,1
+359,Thunder Road Family Fun Park,Sioux Falls,South Dakota,United States,Operating,-
+360,Timber Falls Adventure Park,Wisconsin Dells,Wisconsin,United States,Operating,-
+361,Tom Foolerys Adventure Park,Wisconsin Dells,Wisconsin,United States,Operating,1
+362,Tom Foolerys Adventure Park,Round Rock,Texas,United States,Operating,2
+363,Track Family Fun,Myrtle Beach,South Carolina,United States,Operating,1
+364,Track Family Fun Park,Gulf Shores,Alabama,United States,Operating,1
+365,Track Family Fun Parks,Branson,Missouri,United States,Operating,1
+366,Track Recreation Center,Destin,Florida,United States,Operating,1
+367,Trimper Rides,Ocean City,Maryland,United States,Operating,2
+368,Tropic Falls Theme Park,Foley,Alabama,United States,Operating,3
+369,Tulsa's Incredible Pizza Company,Tulsa,Oklahoma,United States,Operating,1
+370,TurtleBoo,Spring Valley,New York,United States,Operating,1
+371,Tuscora Park,New Philadelphia,Ohio,United States,Operating,1
+372,Tweetsie Railroad,Blowing Rock,North Carolina,United States,Operating,1
+373,Uncle Bernie's Theme Park,Fort Lauderdale,Florida,United States,Operating,2
+374,Universal Studios Florida,Orlando,Florida,United States,Operating,4
+375,Universal Studios Hollywood,Universal City,California,United States,Operating,2
+376,Universal Studios Islands of Adventure,Orlando,Florida,United States,Operating,5
+377,Vail Adventure Ridge,Vail,Colorado,United States,Operating,1
+378,Valleyfair!,Shakopee,Minnesota,United States,Operating,8
+379,Vertical Endeavors,Duluth,Minnesota,United States,Operating,-
+380,Victorian Gardens,New York,New York,United States,Operating,-
+381,Waldameer,Erie,Pennsylvania,United States,Operating,5
+382,Wallace County Fairgrounds,Sharon Springs,Kansas,United States,Operating,1
+383,Walt Disney World - Disney's Animal Kingdom,Lake Buena Vista,Florida,United States,Operating,1
+384,Walt Disney World - Disney's Hollywood Studios,Lake Buena Vista,Florida,United States,Operating,2
+385,Walt Disney World - Epcot,Lake Buena Vista,Florida,United States,Operating,1
+386,Walt Disney World - Magic Kingdom,Lake Buena Vista,Florida,United States,Operating,5
+387,Warner Park,Chattanooga,Tennessee,United States,Operating,-
+388,Washington State Fair,Puyallup,Washington,United States,Operating,2
+389,Waterville USA,Gulf Shores,Alabama,United States,Operating,-
+390,Western Playland,Sunland Park,New Mexico,United States,Operating,3
+391,Wet 'n Wild Emerald Pointe,Greensboro,North Carolina,United States,Operating,-
+392,Wheeling Park,Wheeling,West Virginia,United States,Operating,-
+393,Wichita County Fairgrounds,Leoti,Kansas,United States,Operating,1
+394,Wild Adventures,Valdosta,Georgia,United States,Operating,6
+395,Wilderness at the Smokies,Sevierville,Tennessee,United States,Operating,1
+396,Wilderness Run Alpine Coaster,Banner Elk,North Carolina,United States,Operating,1
+397,Wild Island,Sparks,Nevada,United States,Operating,-
+398,Wildlife World,Litchfield Park,Arizona,United States,Operating,1
+399,Wild Waves Theme & Water Park,Federal Way,Washington,United States,Operating,4
+400,Wild Willy's Adventure Zone,Fort Walton Beach,Florida,United States,Operating,-
+401,Wisp Resort,McHenry,Maryland,United States,Operating,1
+402,Wonderland Amusement Park,Amarillo,Texas,United States,Operating,5
+403,Worlds of Fun,Kansas City,Missouri,United States,Operating,8
+404,Xtreme Jump San Antonio,San Antonio,Texas,United States,Operating,-
+405,Yellowstone Bear World,Rexburg,Idaho,United States,Operating,1
+406,YesterLand Farm,Canton,Texas,United States,Operating,3
+407,Yogi Bear's Jellystone Park Camp-Resort,Bostic,North Carolina,United States,Operating,1
+408,York's Wild Kingdom,York Beach,Maine,United States,Operating,1
+409,ZDT'S Amusement Park,Seguin,Texas,United States,Operating,1
+410,ZooTampa at Lowry Park,Tampa,Florida,United States,Operating,1
+411,Leavenworth Adventure Park,Leavenworth,Washington,United States,Under Construction,1
+412,Mattel Adventure Park,Glendale,Arizona,United States,Under Construction,2
+413,Paradise Pier Fun Park,Biloxi,Mississippi,United States,Under Construction,1
+414,Richland Chambers,Corsicana,Texas,United States,Under Construction,1
+415,Sport Wenatchee,Wenatchee,Washington,United States,Under Construction,1
+416,Universal Studios Epic Universe,Orlando,Florida,United States,Under Construction,3

@@ -1,0 +1,606 @@
+rank,year_ranked,material_type,coaster_name,park_name,supplier,year_built,status,speed,height,length,num_inversions,manufacturer,seating_type,city,state,country,zip_code
+1,2022,Steel,Fury 325,Carowinds,B&M,2015,status.operating,153.0,99.0,2012.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+2,2022,Steel,Steel Vengeance,Cedar Point,Rocky Mountain Const.,2018,,,,,,,,,,,
+3,2022,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+4,2022,Steel,Iron Gwazi,Busch Gardens Tampa,Rocky Mountain Const.,2022,,,,,,,,,,,
+5,2022,Steel,Jurassic World VelociCoaster,Universal's Islands of Adventure,Intamin,2021,status.operating,70.0,47.24,1432.56,4.0,Intamin,Sit Down,Orlando,Florida,United States,32819
+6,2022,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+7,2022,Steel,Superman The Ride,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+8,2022,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B&M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+9,2022,Steel,Intimidator 305,Kings Dominion,Intamin,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+10,2022,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+11,2022,Steel,Lightning Rod,Dollywood,Rocky Mountain Const.,2016,,,,,,,,,,,
+12,2022,Steel,Taron,Phantasialand,Intamin,2016,status.operating,117.0,30.0,1320.0,0.0,Intamin,Sit Down,Brühl,North Rhine-Westphalia,Germany,50321
+13,2022,Steel,Phantom's Revenge,Kennywood,Morgan/Arrow,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+14,2022,Steel,Iron Rattler,Six Flags Fiesta Texas,Rocky Mountain Const.,2013,,,,,,,,,,,
+15,2022,Steel,Leviathan,Canada's Wonderland,B&M,2012,status.operating,148.0,93.0,1672.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+16,2022,Steel,Mako,SeaWorld Orlando,B&M,2016,status.operating,115.0,61.0,1450.0,0.0,B&M,Sit Down,Orlando,Florida,United States,32821
+17,2022,Steel,Diamondback,Kings Island,B&M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+18,2022,Steel,Twisted Colossus,Six Flags Magic Mountain,Rocky Mountain Const.,2015,,,,,,,,,,,
+19,2022,Steel,Candymonium,Hersheypark,B&M,2020,status.operating,122.0,64.0,1413.0,0.0,B&M,Sit Down,Hershey,Pennsylvania,United States,17033
+20,2022,Steel,Orion,Kings Island,B&M,2020,status.operating,91.0,87.4,1621.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+21,2022,Steel,Nitro,Six Flags Great Adventure,B&M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+22,2022,Steel,Time Traveler,Silver Dollar City,Mack,2018,status.operating,80.0,30.0,920.0,3.0,Mack,Spinning,Branson,Missouri,United States,65616
+23,2022,Steel,Skyrush,Hersheypark,Intamin,2012,status.operating,120.0,60.0,1100.0,0.0,Intamin,Sit Down,Hershey,Pennsylvania,United States,17033
+24,2022,Steel,Hagrid’s Magical Creatures Motorbike Adventure,Universal's Islands of Adventure,Intamin,2019,status.operating,80.0,,,0.0,Intamin,Sit Down,Orlando,Florida,United States,32819
+25,2022,Steel,Magnum XL-200,Cedar Point,Arrow,1989,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+26,2022,Steel,Zadra,Energylandia,Rocky Mountain Const.,2019,,,,,,,,,,,
+27,2022,Steel,Intimidator,Carowinds,B&M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+28,2022,Steel,Mindbender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,97.0,44.0,1280.0,3.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+29,2022,Steel,Montu,Busch Gardens Tampa,B&M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+30,2022,Steel,Helix,Liseberg,Mack,2014,status.operating,100.0,41.0,1381.0,7.0,Mack,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+31,2022,Steel,Nemesis,Alton Towers,B&M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+32,2022,Steel,X2,Six Flags Magic Mountain,Arrow,2001,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+33,2022,Steel,Blue Fire Megacoaster,Europa-Park,Mack,2009,status.operating,100.0,38.0,1056.0,4.0,Mack,Sit Down,Rust,Baden-Württemberg,Germany,77977
+34,2022,Steel,Behemoth,Canada's Wonderland,B&M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+35,2022,Steel,Steel Curtain,Kennywood,S&S,2019,status.operating,120.0,67.0,1220.0,9.0,S&S,Sit Down,West Mifflin,Pennsylvania,United States,15122
+36,2022,Steel,Alpengeist,Busch Gardens Williamsburg,B&M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+36,2022,Steel,Alpengeist,Busch Gardens Williamsburg,B&M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+37,2022,Steel,Banshee,Kings Island,B&M,2014,status.operating,110.0,51.0,1260.0,7.0,B&M,Inverted,Mason,Ohio,United States,45040
+38,2022,Steel,Raging Bull,Six Flags Great America,B&M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+39,2022,Steel,Ride to Happiness,Plopsaland De Panne,Mack,2021,,,,,,,,,,,
+40,2022,Steel,Twisted Timbers,Kings Dominion,Rocky Mountain Const.,2018,,,,,,,,,,,
+41,2022,Steel,Goliath,Six Flags Over Georgia,B&M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+42,2022,Steel,New Texas Giant,Six Flags Over Texas,Rocky Mountain Const.,2011,,,,,,,,,,,
+43,2022,Steel,Pantheon,Busch Gardens Williamsburg,Intamin,2022,status.operating,117.0,54.0,,2.0,Intamin,Sit Down,Williamsburg,Virginia,United States,23185
+44,2022,Steel,Black Mamba,Phantasialand,B&M,2006,status.operating,80.0,26.0,,4.0,B&M,Inverted,Brühl,North Rhine-Westphalia,Germany,50321
+45,2022,Steel,Wicked Cyclone,Six Flags New England,Rocky Mountain Const.,2015,,,,,,,,,,,
+46,2022,Steel,Steel Dragon 2000,Nagashima Spa Land,Morgan,2000,status.operating,153.0,97.0,2479.0,0.0,Morgan,Sit Down,Kuwana,Mie,Japan,511-1135
+47,2022,Steel,Shock Wave,Six Flags Over Texas,Schwarzkopf,1978,status.operating,96.0,35.0,1097.0,2.0,Schwarzkopf,Sit Down,Arlington,Texas,United States,76011
+48,2022,Steel,Jetline,Gröna Lund,Schwarzkopf,1988,status.operating,90.0,32.0,800.0,0.0,Schwarzkopf,Sit Down,Stockholm,Stockholms,Sweden,115 21
+49,2022,Steel,Shambhala,PortAventura,B&M,2012,status.operating,134.0,76.0,1564.0,0.0,B&M,Sit Down,Tarragona,Catalonia,Spain,43840
+50,2022,Steel,Whizzer,Six Flags Great America,Schwarzkopf,1976,status.operating,68.0,21.0,945.0,0.0,Schwarzkopf,Sit Down,Gurnee,Illinois,United States,60031
+1,2021,Steel,Fury 325,Carowinds,B&M,2015,status.operating,153.0,99.0,2012.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+2,2021,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+3,2021,Steel,Steel Vengeance,Cedar Point,Rocky Mountain,2018,,,,,,,,,,,
+4,2021,Steel,Superman The Ride,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+5,2021,Steel,Candymonium,Hersheypark,B&M,2020,status.operating,122.0,64.0,1413.0,0.0,B&M,Sit Down,Hershey,Pennsylvania,United States,17033
+6,2021,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+7,2021,Steel,Lightning Rod,Dollywood,Rocky Mountain,2016,,,,,,,,,,,
+8,2021,Steel,Leviathan,Canada's Wonderland,B&M,2012,status.operating,148.0,93.0,1672.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+8,2021,Steel,Leviathan,Canada's Wonderland,B&M,2012,status.operating,148.0,93.0,1672.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+9,2021,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+10,2021,Steel,Taron,Phantasialand,Intamin,2016,status.operating,117.0,30.0,1320.0,0.0,Intamin,Sit Down,Brühl,North Rhine-Westphalia,Germany,50321
+11,2021,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B&M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+12,2021,Steel,Iron Rattler,Six Flags Fiesta Texas,Rocky Mountain,2013,,,,,,,,,,,
+13,2021,Steel,Intimidator 305,Kings Dominion,Intamin,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+14,2021,Steel,Nitro,Six Flags Great Adventure,B&M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+15,2021,Steel,Phantom's Revenge,Kennywood,Morgan/Arrow,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+16,2021,Steel,Twisted Colossus,Six Flags Magic Mountain,Rocky Mountain,2015,,,,,,,,,,,
+17,2021,Steel,Mako,SeaWorld Orlando,B&M,2016,status.operating,115.0,61.0,1450.0,0.0,B&M,Sit Down,Orlando,Florida,United States,32821
+18,2021,Steel,Jurassic World VelociCoaster,Universal's Islands of Adventure,Intamin,2021,status.operating,70.0,47.24,1432.56,4.0,Intamin,Sit Down,Orlando,Florida,United States,32819
+19,2021,Steel,Diamondback,Kings Island,B&M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+20,2021,Steel,Magnum XL-200,Cedar Point,Arrow,1989,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+21,2021,Steel,Alpengeist,Busch Gardens Williamsburg,B&M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+22,2021,Steel,Montu,Busch Gardens Tampa,B&M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+23,2021,Steel,Intimidator,Carowinds,B&M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+23,2021,Steel,Steel Curtain,Kennywood,S&S,2019,status.operating,120.0,67.0,1220.0,9.0,S&S,Sit Down,West Mifflin,Pennsylvania,United States,15122
+25,2021,Steel,Mind Bender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,81.0,25.0,992.0,2.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+26,2021,Steel,Time Traveler,Silver Dollar City,Mack,2018,status.operating,80.0,30.0,920.0,3.0,Mack,Spinning,Branson,Missouri,United States,65616
+26,2021,Steel,X2,Six Flags Magic Mountain,Arrow,2002,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+28,2021,Steel,Goliath,Six Flags Over Georgia,B&M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+28,2021,Steel,Top Thrill Dragster,Cedar Point,Intamin,2003,status.operating,192.0,128.0,853.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+30,2021,Steel,Blue Fire Megacoaster,Europa-Park,Mack,2009,status.operating,100.0,38.0,1056.0,4.0,Mack,Sit Down,Rust,Baden-Württemberg,Germany,77977
+31,2021,Steel,Orion,Kings Island,B&M,2020,status.operating,91.0,87.4,1621.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+32,2021,Steel,Nemesis,Alton Towers,B&M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+33,2021,Steel,Hagrid’s Magical Creatures Motorbike Adventure,Universal's Islands of Adventure,Intamin,2019,status.operating,80.0,,,0.0,Intamin,Sit Down,Orlando,Florida,United States,32819
+33,2021,Steel,Skyrush,Hersheypark,Intamin,2012,status.operating,120.0,60.0,1100.0,0.0,Intamin,Sit Down,Hershey,Pennsylvania,United States,17033
+35,2021,Steel,Steel Dragon 2000,Nagashima Spa Land,Morgan,2000,status.operating,153.0,97.0,2479.0,0.0,Morgan,Sit Down,Kuwana,Mie,Japan,511-1135
+36,2021,Steel,New Texas Giant,Six Flags Over Texas,Rocky Mountain,2011,,,,,,,,,,,
+37,2021,Steel,Banshee,Kings Island,B&M,2014,status.operating,110.0,51.0,1260.0,7.0,B&M,Inverted,Mason,Ohio,United States,45040
+38,2021,Steel,Behemoth,Canada's Wonderland,B&M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+39,2021,Steel,Twisted Timbers,Kings Dominion,Rocky Mountain,2018,,,,,,,,,,,
+40,2021,Steel,Helix,Liseberg,Mack,2014,status.operating,100.0,41.0,1381.0,7.0,Mack,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+41,2021,Steel,Cheetah Hunt,Busch Gardens Tampa,Intamin,2011,,,,,,,,,,,
+42,2021,Steel,Black Mamba,Phantasialand,B&M,2006,status.operating,80.0,26.0,,4.0,B&M,Inverted,Brühl,North Rhine-Westphalia,Germany,50321
+42,2021,Steel,Wicked Cyclone,Six Flags New England,Rocky Mountain,2015,,,,,,,,,,,
+44,2021,Steel,Raging Bull,Six Flags Great America,B&M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+45,2021,Steel,Steel Force,Dorney Park,Morgan,1997,status.operating,120.0,61.0,1706.0,0.0,Morgan,Sit Down,Allentown,Pennsylvania,United States,18104
+46,2021,Steel,Jetline,Gröna Lund,Schwarzkopf,1988,status.operating,90.0,32.0,800.0,0.0,Schwarzkopf,Sit Down,Stockholm,Stockholms,Sweden,115 21
+47,2021,Steel,Shock Wave,Six Flags Over Texas,Schwarzkopf,1978,status.operating,96.0,35.0,1097.0,2.0,Schwarzkopf,Sit Down,Arlington,Texas,United States,76011
+48,2021,Steel,Cannibal,Lagoon,ART Engineering,2015,status.operating,113.0,64.0,835.0,4.0,ART Engineering,Sit Down,Farmington,Utah,United States,84025
+48,2021,Steel,Raptor,Cedar Point,B&M,1994,status.operating,92.0,42.0,1155.0,6.0,B&M,Inverted,Sandusky,Ohio,United States,44870
+50,2021,Steel,Lisebergbanan,Liseberg,Schwarzkopf,1987,status.operating,80.0,45.0,1548.0,0.0,Schwarzkopf,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+1,2019,Steel,Fury 325,Carowinds,B&M,2015,status.operating,153.0,99.0,2012.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+2,2019,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+3,2019,Steel,Steel Vengeance,Cedar Point,Rocky Mountain,2018,,,,,,,,,,,
+4,2019,Steel,Superman: The Ride,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+5,2019,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+6,2019,Steel,Twisted Colossus,Six Flags Magic Mountain,Rocky Mountain,2015,,,,,,,,,,,
+7,2019,Steel,Iron Rattler,Six Flags Fiesta Texas,Rocky Mountain,2013,,,,,,,,,,,
+8,2019,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B&M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+9,2019,Steel,Leviathan,Canada's Wonderland,B&M,2012,status.operating,148.0,93.0,1672.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+10,2019,Steel,Nitro,Six Flags Great Adventure,B&M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+11,2019,Steel,Intimidator 305,Kings Dominion,Intamin,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+12,2019,Steel,Phantom's Revenge,Kennywood,Arrow/Morgan,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+13,2019,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+14,2019,Steel,Diamondback,Kings Island,B&M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+15,2019,Steel,Mako,SeaWorld Orlando,B&M,2016,status.operating,115.0,61.0,1450.0,0.0,B&M,Sit Down,Orlando,Florida,United States,32821
+16,2019,Steel,Nemesis,Alton Towers,B&M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+17,2019,Steel,Taron,Phantasialand,Intamin,2016,status.operating,117.0,30.0,1320.0,0.0,Intamin,Sit Down,Brühl,North Rhine-Westphalia,Germany,50321
+18,2019,Steel,Magnum XL-200,Cedar Point,Arrow,1989,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+19,2019,Steel,Helix,Liseberg,Mack,2014,status.operating,100.0,41.0,1381.0,7.0,Mack,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+20,2019,Steel,Steel Dragon 2000,Nagashima Spa Land,Morgan,2000,status.operating,153.0,97.0,2479.0,0.0,Morgan,Sit Down,Kuwana,Mie,Japan,511-1135
+21,2019,Steel,Top Thrill Dragster,Cedar Point,Intamin,2003,status.operating,192.0,128.0,853.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+22,2019,Steel,Time Traveler,Silver Dollar City,Mack,2018,status.operating,80.0,30.0,920.0,3.0,Mack,Spinning,Branson,Missouri,United States,65616
+23,2019,Steel,Blue Fire,Europa-Park,Mack,2009,status.operating,100.0,38.0,1056.0,4.0,Mack,Sit Down,Rust,Baden-Württemberg,Germany,77977
+23,2019,Steel,X2,Six Flags Magic Mountain,Arrow,2002,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+25,2019,Steel,Mind Bender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,81.0,25.0,992.0,2.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+26,2019,Steel,New Texas Giant,Six Flags Over Texas,Rocky Mountain,2011,,,,,,,,,,,
+27,2019,Steel,Skyrush,Hersheypark,Intamin,2012,status.operating,120.0,60.0,1100.0,0.0,Intamin,Sit Down,Hershey,Pennsylvania,United States,17033
+28,2019,Steel,Intimidator,Carowinds,B&M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+29,2019,Steel,Behemoth,Canada's Wonderland,B&M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+30,2019,Steel,Goliath,Six Flags Over Georgia,B&M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+30,2019,Steel,Montu,Busch Gardens Tampa,B&M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+32,2019,Steel,Alpengeist,Busch Gardens Williamsburg,B&M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+33,2019,Steel,Banshee,Kings Island,B&M,2014,status.operating,110.0,51.0,1260.0,7.0,B&M,Inverted,Mason,Ohio,United States,45040
+34,2019,Steel,Yukon Striker,Canada's Wonderland,B&M,2019,status.operating,130.0,75.0,1105.0,4.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+35,2019,Steel,TRON Lightcycle Power Run,Shanghai Disneyland,Vekoma,2016,status.operating,95.0,24.0,970.0,0.0,Vekoma,Motorbike,Pudong,Shanghai,China,201205
+36,2019,Steel,Cheetah Hunt,Busch Gardens Tampa,Intamin,2011,,,,,,,,,,,
+37,2019,Steel,Twisted Timbers,Kings Dominion,Rocky Mountain,2019,,,,,,,,,,,
+38,2019,Steel,Verbolten,Busch Gardens Williamsburg,Zierer,2012,status.operating,85.0,,864.0,0.0,Zierer,Sit Down,Williamsburg,Virginia,United States,23185
+39,2019,Steel,Wicked Cyclone,Six Flags New England,Rocky Mountain,2015,,,,,,,,,,,
+40,2019,Steel,Kumba,Busch Gardens Tampa,B&M,1993,status.operating,96.0,43.0,1210.0,7.0,B&M,Sit Down,Tampa,Florida,United States,33612
+41,2019,Steel,Cannibal,Lagoon,In-house/ART Eng.,2015,status.operating,113.0,64.0,835.0,4.0,ART Engineering,Sit Down,Farmington,Utah,United States,84025
+42,2019,Steel,Steel Curtain,Kennywood,S&S,2019,status.operating,120.0,67.0,1220.0,9.0,S&S,Sit Down,West Mifflin,Pennsylvania,United States,15122
+43,2019,Steel,Black Mamba,Phantasialand,B&M,2006,status.operating,80.0,26.0,,4.0,B&M,Inverted,Brühl,North Rhine-Westphalia,Germany,50321
+44,2019,Steel,Whizzer,Six Flags Great America,Schwarzkopf,1976,status.operating,68.0,21.0,945.0,0.0,Schwarzkopf,Sit Down,Gurnee,Illinois,United States,60031
+45,2019,Steel,Full Throttle,Six Flags Magic Mountain,Premier,2013,status.operating,112.0,48.0,670.0,2.0,Premier Rides,Sit Down,Valencia,California,United States,91355
+46,2019,Steel,Raging Bull,Six Flags Great America,B&M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+47,2019,Steel,Lisebergbanan,Liseberg,Schwarzkopf,1987,status.operating,80.0,45.0,1548.0,0.0,Schwarzkopf,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+47,2019,Steel,Superman Ride of Steel,Six Flags Great America,Intamin,2000,status.operating,117.0,60.0,1630.0,0.0,Intamin,Sit Down,Gurnee,Illinois,United States,60031
+49,2019,Steel,Goliath,Six Flags Magic Mountain,B&M,2000,status.operating,137.0,71.0,1370.0,0.0,Giovanola,Sit Down,Valencia,California,United States,91355
+49,2019,Steel,Tatsu,Six Flags Magic Mountain,B&M,2006,status.operating,100.0,52.0,1097.0,4.0,B&M,Flying,Valencia,California,United States,91355
+1,2018,Steel,Fury 325,Carowinds,B&M,2015,status.operating,153.0,99.0,2012.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+2,2018,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+3,2018,Steel,Steel Vengeance,Cedar Point,Rocky Mountain,2018,,,,,,,,,,,
+4,2018,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+5,2018,Steel,Superman: The Ride,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+6,2018,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B&M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+7,2018,Steel,Iron Rattler,Six Flags Fiesta Texas,Rocky Mountain,2013,,,,,,,,,,,
+8,2018,Steel,Leviathan,Canada's Wonderland,B&M,2012,status.operating,148.0,93.0,1672.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+9,2018,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+10,2018,Steel,Diamondback,Kings Island,B&M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+11,2018,Steel,Nitro,Six Flags Great Adventure,B&M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+12,2018,Steel,Intimidator 305,Kings Dominion,Intamin,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+13,2018,Steel,Phantom's Revenge,Kennywood,Morgan/Arrow,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+14,2018,Steel,Magnum XL-200,Cedar Point,Arrow,1989,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+15,2018,Steel,Taron,Phantasialand,Intamin,2016,status.operating,117.0,30.0,1320.0,0.0,Intamin,Sit Down,Brühl,North Rhine-Westphalia,Germany,50321
+16,2018,Steel,Top Thrill Dragster,Cedar Point,Intamin,2003,status.operating,192.0,128.0,853.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+17,2018,Steel,Mako,SeaWorld Orlando,B&M,2016,status.operating,115.0,61.0,1450.0,0.0,B&M,Sit Down,Orlando,Florida,United States,32821
+18,2018,Steel,Time Traveler,Silver Dollar City,Mack,2018,status.operating,80.0,30.0,920.0,3.0,Mack,Spinning,Branson,Missouri,United States,65616
+19,2018,Steel,Blue Fire,Europa-Park,Mack,2009,status.operating,100.0,38.0,1056.0,4.0,Mack,Sit Down,Rust,Baden-Württemberg,Germany,77977
+20,2018,Steel,Nemesis,Alton Towers,B&M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+21,2018,Steel,Helix,Liseberg,Mack,2014,status.operating,100.0,41.0,1381.0,7.0,Mack,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+22,2018,Steel,Intimidator,Carowinds,B&M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+23,2018,Steel,New Texas Giant,Six Flags Over Texas,Rocky Mountain,2011,,,,,,,,,,,
+24,2018,Steel,Twisted Colossus,Six Flags Magic Mountain,Rocky Mountain,2015,,,,,,,,,,,
+25,2018,Steel,Mind Bender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,81.0,25.0,992.0,2.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+26,2018,Steel,Goliath,Six Flags Over Georgia,B&M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+27,2018,Steel,Behemoth,Canada's Wonderland,B&M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+28,2018,Steel,Montu,Busch Gardens Tampa,B&M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+28,2018,Steel,Montu,Busch Gardens Tampa,B&M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+29,2018,Steel,Banshee,Kings Island,B&M,2014,status.operating,110.0,51.0,1260.0,7.0,B&M,Inverted,Mason,Ohio,United States,45040
+30,2018,Steel,Skyrush,Hersheypark,Intamin,2012,status.operating,120.0,60.0,1100.0,0.0,Intamin,Sit Down,Hershey,Pennsylvania,United States,17033
+31,2018,Steel,X2,Six Flags Magic Mountain,Arrow,2001,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+32,2018,Steel,Alpengeist,Busch Gardens Williamsburg,B&M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+33,2018,Steel,Wicked Cyclone,Six Flags New England,Rocky Mountain,2015,,,,,,,,,,,
+34,2018,Steel,Black Mamba,Phantasialand,B&M,2006,status.operating,80.0,26.0,,4.0,B&M,Inverted,Brühl,North Rhine-Westphalia,Germany,50321
+35,2018,Steel,Cheetah Hunt,Busch Gardens Tampa,Intamin,2011,,,,,,,,,,,
+36,2018,Steel,Verbolten,Busch Gardens Williamsburg,Zierer,2012,status.operating,85.0,,864.0,0.0,Zierer,Sit Down,Williamsburg,Virginia,United States,23185
+37,2018,Steel,Kumba,Busch Gardens Tampa,B&M,1993,status.operating,96.0,43.0,1210.0,7.0,B&M,Sit Down,Tampa,Florida,United States,33612
+38,2018,Steel,Twisted Timbers,Kings Dominion,Rocky Mountain,2018,,,,,,,,,,,
+39,2018,Steel,Jetline,Gröna Lund,Schwarzkopf,1988,status.operating,90.0,32.0,800.0,0.0,Schwarzkopf,Sit Down,Stockholm,Stockholms,Sweden,115 21
+39,2018,Steel,Superman Ride of Steel,Six Flags Great America,Intamin,2000,status.operating,117.0,60.0,1630.0,0.0,Intamin,Sit Down,Gurnee,Illinois,United States,60031
+41,2018,Steel,Goliath,La Ronde,B&M,2006,status.operating,110.0,53.0,1231.0,0.0,B&M,Sit Down,Montreal,Quebec,Canada,H3C6A3
+42,2018,Steel,Lisebergbanan,Liseberg,Schwarzkopf,1987,status.operating,80.0,45.0,1548.0,0.0,Schwarzkopf,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+43,2018,Steel,Griffon,Busch Gardens Williamsburg,B&M,2007,status.operating,120.0,62.0,950.0,2.0,B&M,Floorless,Williamsburg,Virginia,United States,23185
+44,2018,Steel,Cannibal,Lagoon,Lagoon,2015,status.operating,113.0,64.0,835.0,4.0,ART Engineering,Sit Down,Farmington,Utah,United States,84025
+45,2018,Steel,Shambhala,PortAventura,B&M,2012,status.operating,134.0,76.0,1564.0,0.0,B&M,Sit Down,Tarragona,Catalonia,Spain,43840
+46,2018,Steel,Expedition Everest,Disney's Animal Kingdom,Vekoma,2006,status.operating,80.0,34.0,1341.0,0.0,Vekoma,Sit Down,Lake Buena Vista,Florida,United States,32830
+47,2018,Steel,Storm Chaser,Kentucky Kingdom,Rocky Mountain,2016,status.operating,84.0,31.0,836.0,3.0,RMC,Sit Down,Louisville,Kentucky,United States,40209
+48,2018,Steel,Raging Bull,Six Flags Great America,B&M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+49,2018,Steel,Thunderbird,Holiday World,B&M,2015,status.operating,100.0,43.0,925.0,4.0,B&M,Wing,Santa Claus,Indiana,United States,47579
+50,2018,Steel,Whizzer,Six Flags Great America,Schwarzkopf,1976,status.operating,68.0,21.0,945.0,0.0,Schwarzkopf,Sit Down,Gurnee,Illinois,United States,60031
+1,2017,Steel,Fury 325,Carowinds,B&M,2015,status.operating,153.0,99.0,2012.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+2,2017,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+3,2017,Steel,Superman The Ride,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+4,2017,Steel,Iron Rattler,Six Flags Fiesta Texas,RMC,2013,,,,,,,,,,,
+5,2017,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+6,2017,Steel,Leviathan,Canada's Wonderland,B&M,2012,status.operating,148.0,93.0,1672.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+7,2017,Steel,Nitro,Six Flags Great Adventure,B&M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+8,2017,Steel,Diamondback,Kings Island,B&M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+9,2017,Steel,New Texas Giant,Six Flags Over Texas,RMC,2011,,,,,,,,,,,
+10,2017,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+11,2017,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B&M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+12,2017,Steel,Phantom's Revenge,Kennywood,Morgan,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+13,2017,Steel,Intimidator 305,Kings Dominion,Intamin,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+14,2017,Steel,Goliath,Six Flags Over Georgia,B&M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+14,2017,Steel,Wicked Cyclone,Six Flags New England,RMC,2015,,,,,,,,,,,
+16,2017,Steel,Twisted Colossus,Six Flags Magic Mountain,RMC,2015,,,,,,,,,,,
+17,2017,Steel,Top Thrill Dragster,Cedar Point,Intamin,2003,status.operating,192.0,128.0,853.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+18,2017,Steel,Blue Fire,Europa-Park,Mack,2006,status.operating,100.0,38.0,1056.0,4.0,Mack,Sit Down,Rust,Baden-Württemberg,Germany,77977
+19,2017,Steel,Intimidator,Carowinds,B&M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+20,2017,Steel,Nemesis,Alton Towers,B&M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+21,2017,Steel,Taron,Phantasialand,Intamin,2016,status.operating,117.0,30.0,1320.0,0.0,Intamin,Sit Down,Brühl,North Rhine-Westphalia,Germany,50321
+22,2017,Steel,Banshee,Kings Island,B&M,2014,status.operating,110.0,51.0,1260.0,7.0,B&M,Inverted,Mason,Ohio,United States,45040
+23,2017,Steel,Magnum XL-200,Cedar Point,Arrow,1989,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+24,2017,Steel,Skyrush,Hersheypark,Intamin,2012,status.operating,120.0,60.0,1100.0,0.0,Intamin,Sit Down,Hershey,Pennsylvania,United States,17033
+25,2017,Steel,X2,Six Flags Magic Mountain,Arrow,2002,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+26,2017,Steel,Mind Bender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,81.0,25.0,992.0,2.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+27,2017,Steel,Montu,Busch Gardens Tampa,B&M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+28,2017,Steel,Behemoth,Canada's Wonderland,B&M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+29,2017,Steel,Cheetah Hunt,Busch Gardens Tampa,Intamin,2011,,,,,,,,,,,
+29,2017,Steel,Helix,Liseberg,Mack,2014,status.operating,100.0,41.0,1381.0,7.0,Mack,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+31,2017,Steel,Mako,SeaWorld Orlando,B&M,2016,status.operating,115.0,61.0,1450.0,0.0,B&M,Sit Down,Orlando,Florida,United States,32821
+32,2017,Steel,Cannibal,Lagoon,Lagoon,2015,status.operating,113.0,64.0,835.0,4.0,ART Engineering,Sit Down,Farmington,Utah,United States,84025
+33,2017,Steel,Storm Chaser,Kentucky Kingdom,RMC,2016,status.operating,84.0,31.0,836.0,3.0,RMC,Sit Down,Louisville,Kentucky,United States,40209
+34,2017,Steel,Raging Bull,Six Flags Great America,B&M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+35,2017,Steel,Black Mamba,Phantasialand,B&M,2006,status.operating,80.0,26.0,,4.0,B&M,Inverted,Brühl,North Rhine-Westphalia,Germany,50321
+36,2017,Steel,Alpengeist,Busch Gardens Williamsburg,B&M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+37,2017,Steel,Medusa Steel Coaster,Six Flags Mexico,RMC,2014,,,,,,,,,,,
+38,2017,Steel,Quimera,La Feria,Schwarzkopf,2007,status.operating,85.0,34.0,1050.0,3.0,Schwarzkopf,Sit Down,Mexico City,Distrito Federal,Mexico,72320
+38,2017,Steel,Quimera,La Feria,Schwarzkopf,2007,status.operating,85.0,34.0,1050.0,3.0,Schwarzkopf,Sit Down,Mexico City,Distrito Federal,Mexico,72320
+39,2017,Steel,Thunderbird,Holiday World,B&M,2015,status.operating,100.0,43.0,925.0,4.0,B&M,Wing,Santa Claus,Indiana,United States,47579
+40,2017,Steel,Lisebergbanan,Liseberg,Schwarz,1987,status.operating,80.0,45.0,1548.0,0.0,Schwarzkopf,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+41,2017,Steel,Goliath,La Ronde,B&M,2006,status.operating,110.0,53.0,1231.0,0.0,B&M,Sit Down,Montreal,Quebec,Canada,H3C6A3
+41,2017,Steel,Kumba,Busch Gardens Tampa,B&M,1993,status.operating,96.0,43.0,1210.0,7.0,B&M,Sit Down,Tampa,Florida,United States,33612
+41,2017,Steel,Lightning Run,Kentucky Kingdom,Chance,2014,status.operating,90.0,31.0,765.0,0.0,Chance Rides,Sit Down,Louisville,Kentucky,United States,40209
+44,2017,Steel,Steel Force,Dorney Park,Morgan,1997,status.operating,120.0,61.0,1706.0,0.0,Morgan,Sit Down,Allentown,Pennsylvania,United States,18104
+45,2017,Steel,Euro-Mir,Europa-Park,Mack,1997,status.operating,80.0,28.0,980.0,0.0,Mack,Spinning,Rust,Baden-Württemberg,Germany,77977
+46,2017,Steel,Shock Wave,Six Flags Over Texas,Schwarzkopf,1978,status.operating,96.0,35.0,1097.0,2.0,Schwarzkopf,Sit Down,Arlington,Texas,United States,76011
+46,2017,Steel,Whizzer,Six Flags Great America,Schwarzkopf,1976,status.operating,68.0,21.0,945.0,0.0,Schwarzkopf,Sit Down,Gurnee,Illinois,United States,60031
+48,2017,Steel,Griffon,Busch Gardens Williamsburg,B&M,2007,status.operating,120.0,62.0,950.0,2.0,B&M,Floorless,Williamsburg,Virginia,United States,23185
+49,2017,Steel,Expedition Everest,Disney's Animal Kingdom,Vekoma,2006,status.operating,80.0,34.0,1341.0,0.0,Vekoma,Sit Down,Lake Buena Vista,Florida,United States,32830
+50,2017,Steel,Full Throttle,Six Flags Magic Mountain,Premier,2013,status.operating,112.0,48.0,670.0,2.0,Premier Rides,Sit Down,Valencia,California,United States,91355
+1,2016,Steel,Fury 325,Carowinds,B&M,2015,status.operating,153.0,99.0,2012.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+2,2016,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+3,2016,Steel,Superman The Ride,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+4,2016,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+5,2016,Steel,Nitro,Six Flags Great Adventure,B&M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+6,2016,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B&M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+7,2016,Steel,Leviathan,Canada's Wonderland,B&M,2012,status.operating,148.0,93.0,1672.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+8,2016,Steel,Intimidator,Carowinds,B&M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+9,2016,Steel,Diamondback,Kings Island,B&M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+10,2016,Steel,Phantom's Revenge,Kennywood,Morgan,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+11,2016,Steel,Nemesis,Alton Towers,B&M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+12,2016,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+13,2016,Steel,Banshee,Kings Island,B&M,2014,status.operating,110.0,51.0,1260.0,7.0,B&M,Inverted,Mason,Ohio,United States,45040
+14,2016,Steel,Blue Fire,Europa-Park,Mack,2006,status.operating,100.0,38.0,1056.0,4.0,Mack,Sit Down,Rust,Baden-Württemberg,Germany,77977
+15,2016,Steel,Magnum XL-200,Cedar Point,Arrow,1989,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+16,2016,Steel,New Texas Giant,Six Flags Over Texas,RMC,2011,,,,,,,,,,,
+17,2016,Steel,Intimidator 305,Kings Dominion,Intamin,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+18,2016,Steel,Wicked Cyclone,Six Flags New England,RMC,2015,,,,,,,,,,,
+19,2016,Steel,Top Thrill Dragster,Cedar Point,Intamin,2003,status.operating,192.0,128.0,853.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+20,2016,Steel,Goliath,Six Flags Over Georgia,B&M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+21,2016,Steel,Iron Rattler,Six Flags Fiesta Texas,RMC,2013,,,,,,,,,,,
+22,2016,Steel,Montu,Busch Gardens Tampa,B&M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+23,2016,Steel,X2,Six Flags Magic Mountain,Arrow,2002,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+24,2016,Steel,Behemoth,Canada's Wonderland,B&M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+25,2016,Steel,Black Mamba,Phantasialand,B&M,2006,status.operating,80.0,26.0,,4.0,B&M,Inverted,Brühl,North Rhine-Westphalia,Germany,50321
+26,2016,Steel,Twisted Colossus,Six Flags Magic Mountain,RMC,2015,,,,,,,,,,,
+27,2016,Steel,Mind Bender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,81.0,25.0,992.0,2.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+28,2016,Steel,Storm Chaser,Kentucky Kingdom,RMC,2016,status.operating,84.0,31.0,836.0,3.0,RMC,Sit Down,Louisville,Kentucky,United States,40209
+29,2016,Steel,Helix,Liseberg,Mack,2014,status.operating,100.0,41.0,1381.0,7.0,Mack,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+30,2016,Steel,Alpengeist,Busch Gardens Williamsburg,B&M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+31,2016,Steel,Goliath,La Ronde,B&M,2006,status.operating,110.0,53.0,1231.0,0.0,B&M,Sit Down,Montreal,Quebec,Canada,H3C6A3
+32,2016,Steel,Raging Bull,Six Flags Great America,B&M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+32,2016,Steel,Taron,Phantasialand,Intamin,2016,status.operating,117.0,30.0,1320.0,0.0,Intamin,Sit Down,Brühl,North Rhine-Westphalia,Germany,50321
+34,2016,Steel,Thunderbird,Holiday World,B&M,2015,status.operating,100.0,43.0,925.0,4.0,B&M,Wing,Santa Claus,Indiana,United States,47579
+35,2016,Steel,Mako,SeaWorld Orlando,B&M,2016,status.operating,115.0,61.0,1450.0,0.0,B&M,Sit Down,Orlando,Florida,United States,32821
+36,2016,Steel,Wild Eagle,Dollywood,B&M,2012,status.operating,98.0,64.0,953.0,4.0,B&M,Wing,Pigeon Forge,Tennessee,United States,37863
+37,2016,Steel,Steel Force,Dorney Park,Morgan,1997,status.operating,120.0,61.0,1706.0,0.0,Morgan,Sit Down,Allentown,Pennsylvania,United States,18104
+38,2016,Steel,Lisebergbanan,Liseberg,Schwarz,1987,status.operating,80.0,45.0,1548.0,0.0,Schwarzkopf,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+39,2016,Steel,Cheetah Hunt,Busch Gardens Tampa,Intamin,2011,,,,,,,,,,,
+40,2016,Steel,Euro-Mir,Europa-Park,Mack,1997,status.operating,80.0,28.0,980.0,0.0,Mack,Spinning,Rust,Baden-Württemberg,Germany,77977
+40,2016,Steel,Medusa Steel Coaster,Six Flags Mexico,RMC,2014,,,,,,,,,,,
+42,2016,Steel,Cannibal,Lagoon,Lagoon,2015,status.operating,113.0,64.0,835.0,4.0,ART Engineering,Sit Down,Farmington,Utah,United States,84025
+42,2016,Steel,Kumba,Busch Gardens Tampa,B&M,1993,status.operating,96.0,43.0,1210.0,7.0,B&M,Sit Down,Tampa,Florida,United States,33612
+42,2016,Steel,Kumba,Busch Gardens Tampa,B&M,1993,status.operating,96.0,43.0,1210.0,7.0,B&M,Sit Down,Tampa,Florida,United States,33612
+44,2016,Steel,Lightning Run,Kentucky Kingdom,Chance,2014,status.operating,90.0,31.0,765.0,0.0,Chance Rides,Sit Down,Louisville,Kentucky,United States,40209
+45,2016,Steel,Whizzer,Six Flags Great America,Schwarzkopf,1976,status.operating,68.0,21.0,945.0,0.0,Schwarzkopf,Sit Down,Gurnee,Illinois,United States,60031
+46,2016,Steel,Olympia Looping,Weiner Prater,Schwarzkopf,1989,status.operating,80.0,38.0,1250.0,5.0,Schwarzkopf,Sit Down,Vienna,Vienna,Austria,1020
+47,2016,Steel,Raptor,Cedar Point,B&M,1994,status.operating,92.0,42.0,1155.0,6.0,B&M,Inverted,Sandusky,Ohio,United States,44870
+48,2016,Steel,Bizarro,Six Flags Great Adventure,B&M,1999,status.operating,98.0,43.0,1214.0,7.0,B&M,Floorless,Jackson,New Jersey,United States,08527
+49,2016,Steel,Expedition Everest,Disney's Animal Kingdom,Vekoma,2006,status.operating,80.0,34.0,1341.0,0.0,Vekoma,Sit Down,Lake Buena Vista,Florida,United States,32830
+49,2016,Steel,GateKeeper,Cedar Point,B&M,2013,status.operating,108.0,52.0,1269.0,6.0,B&M,Wing,Sandusky,Ohio,United States,44870
+1,2015,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+2,2015,Steel,Bizarro,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+3,2015,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+4,2015,Steel,Fury 325,Carowinds,B&M,2015,status.operating,153.0,99.0,2012.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+5,2015,Steel,Nitro,Six Flags Great Adventure,B&M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+6,2015,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B&M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+7,2015,Steel,Intimidator,Carowinds,B&M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+8,2015,Steel,Leviathan,Canada's Wonderland,B&M,2012,status.operating,148.0,93.0,1672.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+9,2015,Steel,Nemesis,Alton Towers,B&M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+10,2015,Steel,New Texas Giant,Six Flags Over Texas,Rocky Mountain,2011,,,,,,,,,,,
+11,2015,Steel,Diamondback,Kings Island,B&M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+12,2015,Steel,Goliath,Six Flags Over Georgia,B&M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+13,2015,Steel,Top Thrill Dragster,Cedar Point,Intamin,2003,status.operating,192.0,128.0,853.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+14,2015,Steel,Phantom's Revenge,Kennywood,Morgan,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+15,2015,Steel,Magnum XL-200,Cedar Point,Arrow,1999,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+16,2015,Steel,Intimidator 305,Kings Dominion,Intamin,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+17,2015,Steel,Blue Fire Megacoaster,Europa-Park,Mack,2009,status.operating,100.0,38.0,1056.0,4.0,Mack,Sit Down,Rust,Baden-Württemberg,Germany,77977
+18,2015,Steel,Behemoth,Canada's Wonderland,B&M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+19,2015,Steel,Iron Rattler,Six Flags Fiesta Texas,Rocky Mountain,2013,,,,,,,,,,,
+20,2015,Steel,Banshee,Kings Island,B&M,2014,status.operating,110.0,51.0,1260.0,7.0,B&M,Inverted,Mason,Ohio,United States,45040
+20,2015,Steel,X2,Six Flags Magic Mountain,Arrow,2002,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+22,2015,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+23,2015,Steel,Wicked Cyclone,Six Flags New England,Rocky Mountain,2015,,,,,,,,,,,
+24,2015,Steel,Montu,Busch Gardens Tampa,B&M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+25,2015,Steel,Skyrush,Hersheypark,Intamin,2012,status.operating,120.0,60.0,1100.0,0.0,Intamin,Sit Down,Hershey,Pennsylvania,United States,17033
+26,2015,Steel,Alpengeist,Busch Gardens Williamsburg,B&M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+27,2015,Steel,Mind Bender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,81.0,25.0,992.0,2.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+28,2015,Steel,Twisted Colossus,Six Flags Magic Mountain,Rocky Mountain,2015,,,,,,,,,,,
+29,2015,Steel,Black Mamba,Phantasialand,B&M,2006,status.operating,80.0,26.0,,4.0,B&M,Inverted,Brühl,North Rhine-Westphalia,Germany,50321
+30,2015,Steel,The Swarm,Thorpe Park,B&M,2012,status.operating,,39.0,775.0,4.0,B&M,Wing,Chertsey,England,United Kingdom,KT16 8PN
+31,2015,Steel,Raging Bull,Six Flags Great America,B&M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+31,2015,Steel,Wild Eagle,Dollywood,B&M,2012,status.operating,98.0,64.0,953.0,4.0,B&M,Wing,Pigeon Forge,Tennessee,United States,37863
+33,2015,Steel,Griffon,Busch Gardens Williamsburg,B&M,2007,status.operating,120.0,62.0,950.0,2.0,B&M,Floorless,Williamsburg,Virginia,United States,23185
+34,2015,Steel,Helix,Liseberg,Mack,2014,status.operating,100.0,41.0,1381.0,7.0,Mack,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+35,2015,Steel,Lisebergbanan,Liseberg,Schwarzkopf,1987,status.operating,80.0,45.0,1548.0,0.0,Schwarzkopf,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+36,2015,Steel,Goliath,La Ronde,B&M,2006,status.operating,110.0,53.0,1231.0,0.0,B&M,Sit Down,Montreal,Quebec,Canada,H3C6A3
+37,2015,Steel,Cheetah Hunt,Busch Gardens Tampa,Intamin,2011,,,,,,,,,,,
+38,2015,Steel,Galactica,Alton Towers,B&M,2002,status.operating,75.0,20.0,840.0,3.0,B&M,Flying,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+38,2015,Steel,Kumba,Busch Gardens Tampa,B&M,1993,status.operating,96.0,43.0,1210.0,7.0,B&M,Sit Down,Tampa,Florida,United States,33612
+38,2015,Steel,Lightning Run,Kentucky Kingdom,Chance,2014,status.operating,90.0,31.0,765.0,0.0,Chance Rides,Sit Down,Louisville,Kentucky,United States,40209
+41,2015,Steel,Shock Wave,Six Flags Over Texas,Schwarzkopf,1978,status.operating,96.0,35.0,1097.0,2.0,Schwarzkopf,Sit Down,Arlington,Texas,United States,76011
+42,2015,Steel,SheiKra,Busch Gardens Tampa,B&M,2005,status.operating,113.0,61.0,972.0,1.0,B&M,Floorless,Tampa,Florida,United States,33612
+43,2015,Steel,Manta,SeaWorld Orlando,B&M,2009,status.operating,97.0,43.0,1024.0,4.0,B&M,Flying,Orlando,Florida,United States,32821
+44,2015,Steel,Bizarro,Six Flags Great Adventure,B&M,1999,status.operating,98.0,43.0,1214.0,7.0,B&M,Floorless,Jackson,New Jersey,United States,08527
+45,2015,Steel,Steel Force,Dorney Park,Morgan,1998,status.operating,120.0,61.0,1706.0,0.0,Morgan,Sit Down,Allentown,Pennsylvania,United States,18104
+46,2015,Steel,Whizzer,Six Flags Great America,Schwarzkopf,1976,status.operating,68.0,21.0,945.0,0.0,Schwarzkopf,Sit Down,Gurnee,Illinois,United States,60031
+47,2015,Steel,Expedition Everest,Disney's Animal Kingdom,Vekoma,2006,status.operating,80.0,34.0,1341.0,0.0,Vekoma,Sit Down,Lake Buena Vista,Florida,United States,32830
+48,2015,Steel,Olympia Looping,Weiner Prater,Schwarzkopf,1989,status.operating,80.0,38.0,1250.0,5.0,Schwarzkopf,Sit Down,Vienna,Vienna,Austria,1020
+49,2015,Steel,Kingda Ka,Six Flags Great Adventure,Intamin,2005,status.operating,206.0,139.0,950.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+49,2015,Steel,Medusa Steel Coaster,Six Flags Mexico,Rocky Mountain,2014,,,,,,,,,,,
+1,2014,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+2,2014,Steel,Bizarro,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+3,2014,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+4,2014,Steel,Diamondback,Kings Island,B&M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+5,2014,Steel,Nitro,Six Flags Great Adventure,B&M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+6,2014,Steel,Leviathan,Canada's Wonderland,B&M,2012,status.operating,148.0,93.0,1672.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+7,2014,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B&M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+8,2014,Steel,New Texas Giant,Six Flags Over Texas,Rocky Mountain,2011,,,,,,,,,,,
+9,2014,Steel,Goliath,Six Flags Over Georgia,B&M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+10,2014,Steel,Intimidator,Carowinds,B&M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+11,2014,Steel,Phantom's Revenge,Kennywood,Morgan,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+12,2014,Steel,Iron Rattler,Six Flags Fiesta Texas,Rocky Mountain,2013,,,,,,,,,,,
+13,2014,Steel,Magnum XL-200,Cedar Point,Arrow,1989,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+13,2014,Steel,Intimidator 305,Kings Dominion,Intamin,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+15,2014,Steel,Behemoth,Canada's Wonderland,B&M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+16,2014,Steel,Banshee,Kings Island,B&M,'14,status.operating,110.0,51.0,1260.0,7.0,B&M,Inverted,Mason,Ohio,United States,45040
+17,2014,Steel,Blue Fire Megacoaster,Europa-Park,Mack,2009,status.operating,100.0,38.0,1056.0,4.0,Mack,Sit Down,Rust,Baden-Württemberg,Germany,77977
+18,2014,Steel,X2,Six Flags Magic Mountain,Arrow,2002,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+19,2014,Steel,Top Thrill Dragster,Cedar Point,Intamin,2003,status.operating,192.0,128.0,853.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+20,2014,Steel,Mind Bender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,81.0,25.0,992.0,2.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+21,2014,Steel,Nemesis,Alton Towers,B&M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+22,2014,Steel,Montu,Busch Gardens Tampa,B&M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+23,2014,Steel,Alpengeist,Busch Gardens Williamsburg,B&M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+24,2014,Steel,Black Mamba,Phantasialand,B&M,2006,status.operating,80.0,26.0,,4.0,B&M,Inverted,Brühl,North Rhine-Westphalia,Germany,50321
+25,2014,Steel,Lightning Run,Kentucky Kingdom,Chance,'14,status.operating,90.0,31.0,765.0,0.0,Chance Rides,Sit Down,Louisville,Kentucky,United States,40209
+26,2014,Steel,Goliath,La Ronde,B&M,2006,status.operating,110.0,53.0,1231.0,0.0,B&M,Sit Down,Montreal,Quebec,Canada,H3C6A3
+26,2014,Steel,Skyrush,Hersheypark,Intamin,2012,status.operating,120.0,60.0,1100.0,0.0,Intamin,Sit Down,Hershey,Pennsylvania,United States,17033
+28,2014,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+28,2014,Steel,Wild Eagle,Dollywood,B&M,2012,status.operating,98.0,64.0,953.0,4.0,B&M,Wing,Pigeon Forge,Tennessee,United States,37863
+30,2014,Steel,Helix,Liseberg,Mack,'14,status.operating,100.0,41.0,1381.0,7.0,Mack,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+31,2014,Steel,Raging Bull,Six Flags Great America,B&M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+32,2014,Steel,GateKeeper,Cedar Point,B&M,2013,status.operating,108.0,52.0,1269.0,6.0,B&M,Wing,Sandusky,Ohio,United States,44870
+33,2014,Steel,Griffon,Busch Gardens Williamsburg,B&M,2007,status.operating,120.0,62.0,950.0,2.0,B&M,Floorless,Williamsburg,Virginia,United States,23185
+34,2014,Steel,Tatsu,Six Flags Magic Mountain,B&M,2006,status.operating,100.0,52.0,1097.0,4.0,B&M,Flying,Valencia,California,United States,91355
+35,2014,Steel,Lisebergbanan,Liseberg,Schwarzkopf,1987,status.operating,80.0,45.0,1548.0,0.0,Schwarzkopf,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+36,2014,Steel,Kumba,Busch Gardens Tampa,B&M,1993,status.operating,96.0,43.0,1210.0,7.0,B&M,Sit Down,Tampa,Florida,United States,33612
+37,2014,Steel,Steel Force,Dorney Park,Morgan,1998,status.operating,120.0,61.0,1706.0,0.0,Morgan,Sit Down,Allentown,Pennsylvania,United States,18104
+38,2014,Steel,SheiKra,Busch Gardens Tampa,B&M,2005,status.operating,113.0,61.0,972.0,1.0,B&M,Floorless,Tampa,Florida,United States,33612
+39,2014,Steel,Full Throttle,Six Flags Magic Mountain,Premier,2013,status.operating,112.0,48.0,670.0,2.0,Premier Rides,Sit Down,Valencia,California,United States,91355
+40,2014,Steel,Shock Wave,Six Flags Over Texas,Schwarzkopf,1978,status.operating,96.0,35.0,1097.0,2.0,Schwarzkopf,Sit Down,Arlington,Texas,United States,76011
+41,2014,Steel,Manta,SeaWorld Orlando,B&M,2009,status.operating,97.0,43.0,1024.0,4.0,B&M,Flying,Orlando,Florida,United States,32821
+42,2014,Steel,Euro-Mir,Europa-Park,Mack,1997,status.operating,80.0,28.0,980.0,0.0,Mack,Spinning,Rust,Baden-Württemberg,Germany,77977
+43,2014,Steel,Goliath,Six Flags Magic Mountain,Giovanola,2000,status.operating,137.0,71.0,1370.0,0.0,Giovanola,Sit Down,Valencia,California,United States,91355
+44,2014,Steel,Whizzer,Six Flags Great America,Schwarzkopf,1976,status.operating,68.0,21.0,945.0,0.0,Schwarzkopf,Sit Down,Gurnee,Illinois,United States,60031
+45,2014,Steel,Kingda Ka,Six Flags Great Adventure,Intamin,2005,status.operating,206.0,139.0,950.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+46,2014,Steel,Piraten,Djurs Sommerland,Intamin,2008,status.operating,90.0,32.0,755.0,0.0,Intamin,Sit Down,Djursland,Central Denmark,Denmark,8581
+47,2014,Steel,Raptor,Cedar Point,B&M,1994,status.operating,92.0,42.0,1155.0,6.0,B&M,Inverted,Sandusky,Ohio,United States,44870
+48,2014,Steel,Cheetah Hunt,Busch Gardens Tampa,Intamin,2011,,,,,,,,,,,
+49,2014,Steel,Incredicoaster,Disney California Adventure Park,Intamin,2001,status.operating,88.0,33.0,1850.0,1.0,Intamin,Sit Down,Anaheim,California,United States,92802
+49,2014,Steel,Volcano: The Blast Coaster,Kings Dominion,Intamin,1998,status.closed.definitely,112.0,47.0,840.0,4.0,Intamin,Inverted,Doswell,Virginia,United States,23047
+1,2013,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+2,2013,Steel,Bizarro,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+3,2013,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+4,2013,Steel,Nitro,Six Flags Great Adventure,B & M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+5,2013,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B & M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+6,2013,Steel,New Texas Giant,Six Flags Over Texas,Rocky Mountain,2011,,,,,,,,,,,
+7,2013,Steel,Goliath,Six Flags Over Georgia,B & M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+8,2013,Steel,Intimidator,Carowinds,B & M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+9,2013,Steel,Magnum XL-200,Cedar Point,Arrow,1989,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+10,2013,Steel,Intimidator 305,Kings Dominion,Intamin,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+11,2013,Steel,Iron Rattler,Six Flags Fiesta Texas,Rocky Mountain,2013,,,,,,,,,,,
+12,2013,Steel,Top Thrill Dragster,Cedar Point,Intamin,2003,status.operating,192.0,128.0,853.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+13,2013,Steel,Phantom's Revenge,Kennywood,Morgan/Arrow,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+14,2013,Steel,Diamondback,Kings Island,B & M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+15,2013,Steel,Leviathan,Canada's Wonderland,B & M,2012,status.operating,148.0,93.0,1672.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+16,2013,Steel,X2,Six Flags Magic Mountain,Arrow,2002,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+17,2013,Steel,Behemoth,Canada's Wonderland,B & M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+18,2013,Steel,Montu,Busch Gardens Tampa,B & M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+19,2013,Steel,Mind Bender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,81.0,25.0,992.0,2.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+20,2013,Steel,Nemesis,Alton Towers,B & M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+21,2013,Steel,Blue Fire,Europa-Park,Mack,2009,status.operating,100.0,38.0,1056.0,4.0,Mack,Sit Down,Rust,Baden-Württemberg,Germany,77977
+22,2013,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+23,2013,Steel,Goliath,La Ronde,B & M,2006,status.operating,110.0,53.0,1231.0,0.0,B&M,Sit Down,Montreal,Quebec,Canada,H3C6A3
+24,2013,Steel,Wild Eagle,Dollywood,B & M,2012,status.operating,98.0,64.0,953.0,4.0,B&M,Wing,Pigeon Forge,Tennessee,United States,37863
+25,2013,Steel,Alpengeist,Busch Gardens Williamsburg,B & M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+26,2013,Steel,Skyrush,Hersheypark,Intamin,2012,status.operating,120.0,60.0,1100.0,0.0,Intamin,Sit Down,Hershey,Pennsylvania,United States,17033
+27,2013,Steel,Kumba,Busch Gardens Tampa,B & M,1993,status.operating,96.0,43.0,1210.0,7.0,B&M,Sit Down,Tampa,Florida,United States,33612
+28,2013,Steel,GateKeeper,Cedar Point,B & M,2013,status.operating,108.0,52.0,1269.0,6.0,B&M,Wing,Sandusky,Ohio,United States,44870
+29,2013,Steel,Shock Wave,Six Flags Over Texas,Schwarzkopf,1978,status.operating,96.0,35.0,1097.0,2.0,Schwarzkopf,Sit Down,Arlington,Texas,United States,76011
+30,2013,Steel,Raptor,Cedar Point,B & M,1994,status.operating,92.0,42.0,1155.0,6.0,B&M,Inverted,Sandusky,Ohio,United States,44870
+31,2013,Steel,Raging Bull,Six Flags Great America,B & M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+32,2013,Steel,SheiKra,Busch Gardens Tampa,B & M,2005,status.operating,113.0,61.0,972.0,1.0,B&M,Floorless,Tampa,Florida,United States,33612
+33,2013,Steel,Griffon,Busch Gardens Williamsburg,B & M,2007,status.operating,120.0,62.0,950.0,2.0,B&M,Floorless,Williamsburg,Virginia,United States,23185
+34,2013,Steel,Black Mamba,Phantasialand,B & M,2006,status.operating,80.0,26.0,,4.0,B&M,Inverted,Brühl,North Rhine-Westphalia,Germany,50321
+35,2013,Steel,Afterburn,Carowinds,B & M,1999,status.operating,100.0,34.0,900.0,6.0,B&M,Inverted,Charlotte,North Carolina,United States,28273
+35,2013,Steel,Kingda Ka,Six Flags Great Adventure,Intamin,2005,status.operating,206.0,139.0,950.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+37,2013,Steel,Steel Force,Dorney Park,Morgan,1998,status.operating,120.0,61.0,1706.0,0.0,Morgan,Sit Down,Allentown,Pennsylvania,United States,18104
+38,2013,Steel,Superman Ride of Steel,Six Flags Great America,Intamin,2000,status.operating,117.0,60.0,1630.0,0.0,Intamin,Sit Down,Gurnee,Illinois,United States,60031
+39,2013,Steel,Volcano: The Blast Coaster,Kings Dominion,Intamin,1998,status.closed.definitely,112.0,47.0,840.0,4.0,Intamin,Inverted,Doswell,Virginia,United States,23047
+40,2013,Steel,Whizzer,Six Flags Great America,Schwarzkopf,1976,status.operating,68.0,21.0,945.0,0.0,Schwarzkopf,Sit Down,Gurnee,Illinois,United States,60031
+41,2013,Steel,Goliath,Six Flags Magic Mountain,Giovanola,2000,status.operating,137.0,71.0,1370.0,0.0,Giovanola,Sit Down,Valencia,California,United States,91355
+42,2013,Steel,Expedition Everest,Disney's Animal Kingdom,Vekoma/WED Imagineering,2006,status.operating,80.0,34.0,1341.0,0.0,Vekoma,Sit Down,Lake Buena Vista,Florida,United States,32830
+42,2013,Steel,PowderKeg,Silver Dollar City,S & S,2005,status.operating,100.0,30.0,1068.0,0.0,S&S,Sit Down,Branson,Missouri,United States,65616
+42,2013,Steel,Titan,Six Flags Over Texas,Giovanola,2001,status.operating,137.0,75.0,1619.0,0.0,Giovanola,Sit Down,Arlington,Texas,United States,76011
+45,2013,Steel,Olympia Looping,Weiner Prater,Schwarzkopf,1989,status.operating,80.0,38.0,1250.0,5.0,Schwarzkopf,Sit Down,Vienna,Vienna,Austria,1020
+45,2013,Steel,X-Flight,Six Flags Great America,B & M,2012,status.operating,90.0,37.0,915.0,5.0,B&M,Wing,Gurnee,Illinois,United States,60031
+47,2013,Steel,Dominator,Kings Dominion,B & M,2008,status.operating,105.0,48.0,1283.0,5.0,B&M,Floorless,Doswell,Virginia,United States,23047
+48,2013,Steel,Kraken,SeaWorld Orlando,B & M,2000,status.operating,105.0,46.0,1273.0,7.0,B&M,Floorless,Orlando,Florida,United States,32821
+48,2013,Steel,Lisebergbanan,Liseberg,Schwarzkopf,1987,status.operating,80.0,45.0,1548.0,0.0,Schwarzkopf,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+50,2013,Steel,Tatsu,Six Flags Magic Mountain,B & M,2006,status.operating,100.0,52.0,1097.0,4.0,B&M,Flying,Valencia,California,United States,91355
+1,2012,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+2,2012,Steel,Bizarro,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+3,2012,Steel,Nitro,Six Flags Great Adventure,B & M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+4,2012,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B & M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+5,2012,Steel,New Texas Giant,Six Flags Over Texas,Rocky Mountain,2011,,,,,,,,,,,
+6,2012,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+7,2012,Steel,Intimidator,Carowinds,B & M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+8,2012,Steel,Magnum XL-200,Cedar Point,Arrow,1989,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+9,2012,Steel,Goliath,Six Flags Over Georgia,B & M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+10,2012,Steel,Diamondback,Kings Island,B & M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+11,2012,Steel,Phantom's Revenge,Kennywood,Morgan/Arrow,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+12,2012,Steel,Intimidator 305,Kings Dominion,IntaRide,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+13,2012,Steel,Top Thrill Dragster,Cedar Point,Intamin,2003,status.operating,192.0,128.0,853.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+14,2012,Steel,Montu,Busch Gardens Tampa,B & M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+15,2012,Steel,Wild Eagle,Dollywood,B & M,2012,status.operating,98.0,64.0,953.0,4.0,B&M,Wing,Pigeon Forge,Tennessee,United States,37863
+16,2012,Steel,Nemesis,Alton Towers,B & M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+17,2012,Steel,Behemoth,Canada's Wonderland,B & M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+18,2012,Steel,X2,Six Flags Magic Mountain,Arrow,2002,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+19,2012,Steel,Raging Bull,Six Flags Great America,B & M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+20,2012,Steel,Mind Bender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,81.0,25.0,992.0,2.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+21,2012,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+22,2012,Steel,Leviathan,Canada's Wonderland,B & M,2012,status.operating,148.0,93.0,1672.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+23,2012,Steel,Kumba,Busch Gardens Tampa,B & M,1993,status.operating,96.0,43.0,1210.0,7.0,B&M,Sit Down,Tampa,Florida,United States,33612
+24,2012,Steel,Alpengeist,Busch Gardens Williamsburg,B & M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+25,2012,Steel,Goliath,La Ronde,B & M,2006,status.operating,110.0,53.0,1231.0,0.0,B&M,Sit Down,Montreal,Quebec,Canada,H3C6A3
+26,2012,Steel,Griffon,Busch Gardens Williamsburg,B & M,2007,status.operating,120.0,62.0,950.0,2.0,B&M,Floorless,Williamsburg,Virginia,United States,23185
+26,2012,Steel,Shock Wave,Six Flags Over Texas,Schwarzkopf,1978,status.operating,96.0,35.0,1097.0,2.0,Schwarzkopf,Sit Down,Arlington,Texas,United States,76011
+28,2012,Steel,Tatsu,Six Flags Magic Mountain,B & M,2006,status.operating,100.0,52.0,1097.0,4.0,B&M,Flying,Valencia,California,United States,91355
+29,2012,Steel,Superman Ride of Steel,Six Flags Great America,Intamin,2000,status.operating,117.0,60.0,1630.0,0.0,Intamin,Sit Down,Gurnee,Illinois,United States,60031
+30,2012,Steel,SheiKra,Busch Gardens Tampa,B & M,2005,status.operating,113.0,61.0,972.0,1.0,B&M,Floorless,Tampa,Florida,United States,33612
+31,2012,Steel,Raptor,Cedar Point,B & M,1994,status.operating,92.0,42.0,1155.0,6.0,B&M,Inverted,Sandusky,Ohio,United States,44870
+32,2012,Steel,Blue Fire,Europa-Park,Mack,2009,status.operating,100.0,38.0,1056.0,4.0,Mack,Sit Down,Rust,Baden-Württemberg,Germany,77977
+33,2012,Steel,Lisebergbanan,Liseberg,Schwarzkopf,1987,status.operating,80.0,45.0,1548.0,0.0,Schwarzkopf,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+34,2012,Steel,Manta,SeaWorld Orlando,B & M,2009,status.operating,97.0,43.0,1024.0,4.0,B&M,Flying,Orlando,Florida,United States,32821
+35,2012,Steel,Dragon Challenge,Universal's Islands of Adventure,B & M,1999,status.closed.definitely,97.0,38.0,975.0,5.0,B&M,Inverted,Orlando,Florida,United States,32819
+36,2012,Steel,Titan,Six Flags Over Texas,Giovanola,2001,status.operating,137.0,75.0,1619.0,0.0,Giovanola,Sit Down,Arlington,Texas,United States,76011
+37,2012,Steel,Piraten,Djurs Sommerland,Intamin,2008,status.operating,90.0,32.0,755.0,0.0,Intamin,Sit Down,Djursland,Central Denmark,Denmark,8581
+38,2012,Steel,Kingda Ka,Six Flags Great Adventure,Intamin,2005,status.operating,206.0,139.0,950.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+39,2012,Steel,Steel Force,Dorney Park,Morgan,1997,status.operating,120.0,61.0,1706.0,0.0,Morgan,Sit Down,Allentown,Pennsylvania,United States,18104
+40,2012,Steel,Volcano: The Blast Coaster,Kings Dominion,Intamin,1998,status.closed.definitely,112.0,47.0,840.0,4.0,Intamin,Inverted,Doswell,Virginia,United States,23047
+41,2012,Steel,Goliath,Six Flags Magic Mountain,Giovanola,2000,status.operating,137.0,71.0,1370.0,0.0,Giovanola,Sit Down,Valencia,California,United States,91355
+42,2012,Steel,Skyrush,Hersheypark,Intamin,2012,status.operating,120.0,60.0,1100.0,0.0,Intamin,Sit Down,Hershey,Pennsylvania,United States,17033
+43,2012,Steel,Ride of Steel,Six Flags Darien Lake,Intamin,1999,status.operating,112.0,63.0,1645.0,0.0,Intamin,Sit Down,Corfu,New York,United States,14036
+44,2012,Steel,Storm Runner,Hersheypark,Intamin,2004,status.operating,120.0,56.0,806.0,3.0,Intamin,Sit Down,Hershey,Pennsylvania,United States,17033
+45,2012,Steel,Afterburn,Carowinds,B & M,1999,status.operating,100.0,34.0,900.0,6.0,B&M,Inverted,Charlotte,North Carolina,United States,28273
+46,2012,Steel,PowderKeg,Silver Dollar City,S & S,2005,status.operating,100.0,30.0,1068.0,0.0,S&S,Sit Down,Branson,Missouri,United States,65616
+47,2012,Steel,Incredible Hulk,Universal's Islands of Adventure,B & M,1999,status.operating,107.0,33.0,1127.0,7.0,B&M,Sit Down,Orlando,Florida,United States,32819
+48,2012,Steel,Goliath,Walabi Holland,Intamin,2002,status.operating,106.0,47.0,1214.0,0.0,Intamin,Sit Down,Biddinghuizen,Flevoland,Netherlands,8256
+49,2012,Steel,Black Mamba,Phantasialand,B & M,2006,status.operating,80.0,26.0,,4.0,B&M,Inverted,Brühl,North Rhine-Westphalia,Germany,50321
+50,2012,Steel,Euro-Mir,Europa-Park,Mack,1997,status.operating,80.0,28.0,980.0,0.0,Mack,Spinning,Rust,Baden-Württemberg,Germany,77977
+1,2011,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+2,2011,Steel,Bizarro,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+3,2011,Steel,Nitro,Six Flags Great Adventure,B & M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+4,2011,Steel,Goliath,Six Flags Over Georgia,B & M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+5,2011,Steel,Phantom's Revenge,Kennywood,B & M,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+6,2011,Steel,New Texas Giant,Six Flags Over Texas,Rocky Mountain,2011,,,,,,,,,,,
+7,2011,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B&M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+7,2011,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+9,2011,Steel,Top Thrill Dragster,Cedar Point,Intamin,2003,status.operating,192.0,128.0,853.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+10,2011,Steel,Magnum XL-200,Cedar Point,Arrow,1989,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+11,2011,Steel,Diamondback,Kings Island,B & M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+12,2011,Steel,Nemesis,Alton Towers,B & M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+13,2011,Steel,Intimidator 305,Kings Dominion,IntaRide,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+14,2011,Steel,Montu,Busch Gardens Tampa,B & M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+15,2011,Steel,Behemoth,Canada's Wonderland,B & M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+16,2011,Steel,X2,Six Flags Magic Mountain,Arrow,2002,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+17,2011,Steel,Mind Bender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,81.0,25.0,992.0,2.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+18,2011,Steel,Raptor,Cedar Point,B & M,1994,status.operating,92.0,42.0,1155.0,6.0,B&M,Inverted,Sandusky,Ohio,United States,44870
+19,2011,Steel,Intimidator,Carowinds,B & M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+20,2011,Steel,Griffon,Busch Gardens Williamsburg,B & M,2007,status.operating,120.0,62.0,950.0,2.0,B&M,Floorless,Williamsburg,Virginia,United States,23185
+21,2011,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+22,2011,Steel,SheiKra,Busch Gardens Tampa,B & M,2005,status.operating,113.0,61.0,972.0,1.0,B&M,Floorless,Tampa,Florida,United States,33612
+23,2011,Steel,Goliath,La Ronde,B & M,2006,status.operating,110.0,53.0,1231.0,0.0,B&M,Sit Down,Montreal,Quebec,Canada,H3C6A3
+24,2011,Steel,Raging Bull,Six Flags Great America,B & M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+25,2011,Steel,Titan,Six Flags Over Texas,Giovanola,2001,status.operating,137.0,75.0,1619.0,0.0,Giovanola,Sit Down,Arlington,Texas,United States,76011
+26,2011,Steel,Steel Force,Dorney Park,Morgan,1997,status.operating,120.0,61.0,1706.0,0.0,Morgan,Sit Down,Allentown,Pennsylvania,United States,18104
+27,2011,Steel,Alpengeist,Busch Gardens Williamsburg,B & M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+28,2011,Steel,Dragon Challenge,Universal's Islands of Adventure,B & M,1999,status.closed.definitely,97.0,38.0,975.0,5.0,B&M,Inverted,Orlando,Florida,United States,32819
+29,2011,Steel,Ride of Steel,Six Flags Darien Lake,Intamin,1999,status.operating,112.0,63.0,1645.0,0.0,Intamin,Sit Down,Corfu,New York,United States,14036
+29,2011,Steel,Volcano: The Blast Coaster,Kings Dominion,Intamin,1998,status.closed.definitely,112.0,47.0,840.0,4.0,Intamin,Inverted,Doswell,Virginia,United States,23047
+31,2011,Steel,Kumba,Busch Gardens Tampa,B & M,1993,status.operating,96.0,43.0,1210.0,7.0,B&M,Sit Down,Tampa,Florida,United States,33612
+32,2011,Steel,Piraten,Djurs Sommerland,Intamin,2008,status.operating,90.0,32.0,755.0,0.0,Intamin,Sit Down,Djursland,Central Denmark,Denmark,8581
+33,2011,Steel,Kingda Ka,Six Flags Great Adventure,Intamin,2005,status.operating,206.0,139.0,950.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+34,2011,Steel,Blue Fire,Europa-Park,Mack,2009,status.operating,100.0,38.0,1056.0,4.0,Mack,Sit Down,Rust,Baden-Württemberg,Germany,77977
+35,2011,Steel,Incredible Hulk,Universal's Islands of Adventure,B & M,1999,status.operating,107.0,33.0,1127.0,7.0,B&M,Sit Down,Orlando,Florida,United States,32819
+36,2011,Steel,Goliath,Walabi Holland,Intamin,2002,status.operating,106.0,47.0,1214.0,0.0,Intamin,Sit Down,Biddinghuizen,Flevoland,Netherlands,8256
+37,2011,Steel,PowderKeg,Silver Dollar City,S & S,2005,status.operating,100.0,30.0,1068.0,0.0,S&S,Sit Down,Branson,Missouri,United States,65616
+38,2011,Steel,Superman Krypton Coaster,Six Flags Fiesta Texas,B & M,2000,status.operating,113.0,51.0,1227.0,6.0,B&M,Floorless,San Antonio,Texas,United States,78257
+39,2011,Steel,Tatsu,Six Flags Magic Mountain,B & M,2006,status.operating,100.0,52.0,1097.0,4.0,B&M,Flying,Valencia,California,United States,91355
+40,2011,Steel,Goliath,Six Flags Magic Mountain,Giovanola,2000,status.operating,137.0,71.0,1370.0,0.0,Giovanola,Sit Down,Valencia,California,United States,91355
+40,2011,Steel,Superman Ride of Steel,Six Flags Great America,Intamin,2000,status.operating,117.0,60.0,1630.0,0.0,Intamin,Sit Down,Gurnee,Illinois,United States,60031
+42,2011,Steel,Shock Wave,Six Flags Over Texas,Schwarzkopf,1978,status.operating,96.0,35.0,1097.0,2.0,Schwarzkopf,Sit Down,Arlington,Texas,United States,76011
+43,2011,Steel,Space Mountain,Disneyland,WED Imagineering,1977,status.operating,52.0,23.0,1052.0,0.0,Dynamic Attractions,Sit Down,Anaheim,California,United States,92802
+44,2011,Steel,Sky Rocket,Kennywood,Premier Rides,2010,status.operating,80.0,29.0,640.0,3.0,Premier Rides,Sit Down,West Mifflin,Pennsylvania,United States,15122
+45,2011,Steel,Manta,SeaWorld Orlando,B & M,2009,status.operating,97.0,43.0,1024.0,4.0,B&M,Flying,Orlando,Florida,United States,32821
+45,2011,Steel,Olympia Looping,Weiner Prater,Schwarzkopf,1989,status.operating,80.0,38.0,1250.0,5.0,Schwarzkopf,Sit Down,Vienna,Vienna,Austria,1020
+47,2011,Steel,Expedition Everest,Disney's Animal Kingdom,Vekoma/WED Imag.,2006,status.operating,80.0,34.0,1341.0,0.0,Vekoma,Sit Down,Lake Buena Vista,Florida,United States,32830
+48,2011,Steel,The Big One,Blackpool Pleasure Beach,Arrow,1994,status.operating,120.0,65.0,1675.0,0.0,Arrow,Sit Down,Blackpool,England,United Kingdom,FY4 1EZ
+49,2011,Steel,Lisebergbanan,Liseberg,Schwarzkopf,1987,status.operating,80.0,45.0,1548.0,0.0,Schwarzkopf,Sit Down,Gothenburg,Västra Götalands,Sweden,402 22
+50,2011,Steel,Mamba,Worlds of Fun,Morgan,1998,status.operating,120.0,63.0,1700.0,0.0,Morgan,Sit Down,Kansas City,Missouri,United States,64161
+1,2010,Steel,Millennium Force,Cedar Point,Intamin,2000,status.operating,150.0,94.0,2010.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+2,2010,Steel,Bizarro,Six Flags New England,Intamin,2000,status.operating,124.0,63.0,1646.0,0.0,Intamin,Sit Down,Agawam,Massachusetts,United States,01001
+3,2010,Steel,Nitro,Six Flags Great Adventure,B & M,2001,status.operating,128.0,70.0,1644.0,0.0,B&M,Sit Down,Jackson,New Jersey,United States,08527
+4,2010,Steel,Apollo's Chariot,Busch Gardens Williamsburg,B & M,1999,status.operating,118.0,52.0,1488.0,0.0,B&M,Sit Down,Williamsburg,Virginia,United States,23185
+5,2010,Steel,Goliath,Six Flags Over Georgia,B & M,2006,status.operating,112.0,61.0,1365.0,0.0,B&M,Sit Down,Austell,Georgia,United States,30168
+6,2010,Steel,Expedition GeForce,Holiday Park,Intamin,2001,status.operating,120.0,53.0,1220.0,0.0,Intamin,Sit Down,Hassloch,Rhineland-Palatinate,Germany,67454
+7,2010,Steel,Diamondback,Kings Island,B & M,2009,status.operating,129.0,70.0,1610.0,0.0,B&M,Sit Down,Mason,Ohio,United States,45040
+8,2010,Steel,Magnum XL-200,Cedar Point,Arrow,1989,status.operating,116.0,63.0,1556.0,0.0,Arrow,Sit Down,Sandusky,Ohio,United States,44870
+9,2010,Steel,Phantom's Revenge,Kennywood,Morgan/Arrow,2001,status.operating,132.0,70.0,975.0,0.0,Arrow,Sit Down,West Mifflin,Pennsylvania,United States,15122
+10,2010,Steel,Top Thrill Dragster,Cedar Point,Intamin,2003,status.operating,192.0,128.0,853.0,0.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+11,2010,Steel,Intimidator 305,Kings Dominion,IntaRide,2010,status.operating,145.0,93.0,1555.0,0.0,Intamin,Sit Down,Doswell,Virginia,United States,23047
+12,2010,Steel,Montu,Busch Gardens Tampa,B & M,1996,status.operating,96.0,46.0,1214.0,7.0,B&M,Inverted,Tampa,Florida,United States,33612
+13,2010,Steel,Behemoth,Canada's Wonderland,B & M,2008,status.operating,124.0,70.0,1621.0,0.0,B&M,Sit Down,Vaughan,Ontario,Canada,L6A 1S6
+14,2010,Steel,Mindbender,Six Flags Over Georgia,Schwarzkopf,1978,status.operating,97.0,44.0,1280.0,3.0,Schwarzkopf,Sit Down,Austell,Georgia,United States,30168
+15,2010,Steel,X2,Six Flags Magic Mountain,Arrow,2002,status.operating,122.0,53.0,1100.0,6.0,Arrow,4th Dimension,Valencia,California,United States,91355
+16,2010,Steel,Raging Bull,Six Flags Great America,B & M,1999,status.operating,118.0,62.0,1542.0,0.0,B&M,Sit Down,Gurnee,Illinois,United States,60031
+17,2010,Steel,Sky Rocket,Kennywood,Premier Rides,2010,status.operating,80.0,29.0,640.0,3.0,Premier Rides,Sit Down,West Mifflin,Pennsylvania,United States,15122
+18,2010,Steel,Nemesis,Alton Towers,B & M,1994,status.operating,81.0,13.0,716.0,4.0,B&M,Inverted,Stoke-on-Trent,England,United Kingdom,ST10 4DB
+19,2010,Steel,Griffon,Busch Gardens Williamsburg,B & M,2007,status.operating,120.0,62.0,950.0,2.0,B&M,Floorless,Williamsburg,Virginia,United States,23185
+19,2010,Steel,SheiKra,Busch Gardens Tampa,B & M,2005,status.operating,113.0,61.0,972.0,1.0,B&M,Floorless,Tampa,Florida,United States,33612
+21,2010,Steel,Intimidator,Carowinds,B & M,2010,status.operating,120.0,71.0,1620.0,0.0,B&M,Sit Down,Charlotte,North Carolina,United States,28273
+21,2010,Steel,Maverick,Cedar Point,Intamin,2007,status.operating,113.0,32.0,1356.0,2.0,Intamin,Sit Down,Sandusky,Ohio,United States,44870
+23,2010,Steel,Alpengeist,Busch Gardens Williamsburg,B & M,1997,status.operating,108.0,60.0,,6.0,B&M,Inverted,Williamsburg,Virginia,United States,23185
+24,2010,Steel,Kumba,Busch Gardens Tampa,B & M,1993,status.operating,96.0,43.0,1210.0,7.0,B&M,Sit Down,Tampa,Florida,United States,33612
+24,2010,Steel,Raptor,Cedar Point,B & M,1994,status.operating,92.0,42.0,1155.0,6.0,B&M,Inverted,Sandusky,Ohio,United States,44870
+26,2010,Steel,Ride of Steel,Six Flags Darien Lake,Intamin,1999,status.operating,112.0,63.0,1645.0,0.0,Intamin,Sit Down,Corfu,New York,United States,14036
+27,2010,Steel,Kingda Ka,Six Flags Great Adventure,Intamin,2005,status.operating,206.0,139.0,950.0,0.0,Intamin,Sit Down,Jackson,New Jersey,United States,08527
+27,2010,Steel,Steel Force,Dorney Park,Morgan,1997,status.operating,120.0,61.0,1706.0,0.0,Morgan,Sit Down,Allentown,Pennsylvania,United States,18104
+29,2010,Steel,Goliath,Six Flags Magic Mountain,Giovanola,2000,status.operating,137.0,71.0,1370.0,0.0,Giovanola,Sit Down,Valencia,California,United States,91355
+30,2010,Steel,Goliath,La Ronde,B & M,2006,status.operating,110.0,53.0,1231.0,0.0,B&M,Sit Down,Montreal,Quebec,Canada,H3C6A3
+31,2010,Steel,Dragon Challenge,Universal's Islands of Adventure,B & M,1999,status.closed.definitely,97.0,38.0,975.0,5.0,B&M,Inverted,Orlando,Florida,United States,32819
+32,2010,Steel,Superman Ride of Steel,Six Flags Great America,Intamin,2000,status.operating,117.0,60.0,1630.0,0.0,Intamin,Sit Down,Gurnee,Illinois,United States,60031
+33,2010,Steel,Manta,SeaWorld Orlando,B & M,2009,status.operating,97.0,43.0,1024.0,4.0,B&M,Flying,Orlando,Florida,United States,32821
+34,2010,Steel,PowderKeg,Silver Dollar City,S & S,2005,status.operating,100.0,30.0,1068.0,0.0,S&S,Sit Down,Branson,Missouri,United States,65616
+35,2010,Steel,Volcano,Kings Dominion,Intamin,1998,status.closed.definitely,112.0,47.0,840.0,4.0,Intamin,Inverted,Doswell,Virginia,United States,23047
+36,2010,Steel,Expedition Everest,Disney's Animal Kingdom,Vekoma/WED Imag.,2006,status.operating,80.0,34.0,1341.0,0.0,Vekoma,Sit Down,Lake Buena Vista,Florida,United States,32830
+37,2010,Steel,Shock Wave,Six Flags Over Texas,Schwarzkopf,1978,status.operating,96.0,35.0,1097.0,2.0,Schwarzkopf,Sit Down,Arlington,Texas,United States,76011
+38,2010,Steel,Mamba,Worlds of Fun,Morgan,1998,status.operating,120.0,63.0,1700.0,0.0,Morgan,Sit Down,Kansas City,Missouri,United States,64161
+39,2010,Steel,Storm Runner,Hersheypark,Intamin,2004,status.operating,120.0,56.0,806.0,3.0,Intamin,Sit Down,Hershey,Pennsylvania,United States,17033
+40,2010,Steel,Tatsu,Six Flags Magic Mountain,B & M,2006,status.operating,100.0,52.0,1097.0,4.0,B&M,Flying,Valencia,California,United States,91355
+41,2010,Steel,Goliath,Walabi Holland,Intamin,2002,status.operating,106.0,47.0,1214.0,0.0,Intamin,Sit Down,Biddinghuizen,Flevoland,Netherlands,8256
+42,2010,Steel,Titan,Six Flags Over Texas,Giovanola,2001,status.operating,137.0,75.0,1619.0,0.0,Giovanola,Sit Down,Arlington,Texas,United States,76011
+43,2010,Steel,Incredible Hulk,Universal's Islands of Adventure,B & M,1999,status.operating,107.0,33.0,1127.0,7.0,B&M,Sit Down,Orlando,Florida,United States,32819
+44,2010,Steel,The Big One,Blackpool Pleasure Beach,Arrow,1994,status.operating,120.0,65.0,1675.0,0.0,Arrow,Sit Down,Blackpool,England,United Kingdom,FY4 1EZ
+45,2010,Steel,Euro-Mir,Europa-Park,Mack,1997,status.operating,80.0,28.0,980.0,0.0,Mack,Spinning,Rust,Baden-Württemberg,Germany,77977
+46,2010,Steel,Space Mountain,Disneyland,WED Imagineering,1977,status.operating,52.0,23.0,1052.0,0.0,Dynamic Attractions,Sit Down,Anaheim,California,United States,92802
+47,2010,Steel,Steel Eel,SeaWorld San Antonio,Morgan,1999,status.operating,105.0,46.0,1128.0,0.0,Morgan,Sit Down,San Antonio,Texas,United States,78251
+48,2010,Steel,Mindbender,Galaxyland,Schwarzkopf,1985,status.operating,97.0,44.0,1280.0,3.0,Schwarzkopf,Sit Down,Edmonton,Alberta,Canada,T5T 4J2
+48,2010,Steel,Revenge of the Mummy,Universal's Islands of Adventure,Premier Rides,2004,status.operating,65.0,14.0,670.0,0.0,Premier Rides,Sit Down,Orlando,Florida,United States,32819
+50,2010,Steel,Katun,Mirabilandia,B & M,2000,status.operating,104.0,50.0,1200.0,6.0,B&M,Inverted,Savio,Emilia-Romagna,Italy,48125
